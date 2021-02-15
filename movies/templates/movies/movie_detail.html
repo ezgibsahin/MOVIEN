@@ -1,0 +1,171 @@
+{%  extends "organisation/base.html" %}
+{% block content %}
+
+<style>
+.checked {
+  color: orange;
+}
+
+.rating {
+  font-size: 38px;
+  color: orange;
+  display: inline-block;
+  overflow: hidden;
+}
+.rating::before { 
+  content: "★★★★★" 
+}
+</style>
+      <div class="row">
+        <div class="column">
+          <center><img src="{{ movie.poster}}" class="img-responsive" height="430px" width="310px"style="border-radius: 22px 22px 22px 22px;" alt="Generic placeholder image"></center>
+        </div>
+        <div class="column">
+            <h3 style="color:#fff">{{movie.movie_title}}</h3>
+            <h6 style="color:#fff">{{movie.avg_rating }}</h6>
+            <div id="average" class="rating" value ="{{movie.avg_rating|floatformat:1}}"></div>
+            <p style="color:#fff"class="pt-1">{{movie.description}}</p>
+
+
+            <p style="color:#fff"class="pt-1"><b>Genres:</b> {{movie.genres}}</p>
+            <p style="color:#fff"class="pt-1"><b>Director:</b> {{movie.director}}</p>
+            <p style="color:#fff"class="pt-1"><b>Cast:</b> {{movie.cast}}</p>
+            <table style="border:hidden "class="table table-striped">
+            <tbody border="0" >
+              <tr>
+                <th>
+                  <form class="form-horizontal" role="search" method="post" action="{% url 'movieDetail' pk=movie.movie_id  %}">
+                    {% csrf_token %}
+                    <button   type="submit" value="{{movie.movie_id}}" class="btn btn-primary btn-md mr-1 mb-2" name="bucketlist"><i class="fa fa-plus"></i>Add to Bucket List</button>
+                  </form>
+                </th>
+                <th>
+                  <form class="form-horizontal" role="search" method="post" action="{% url 'movieDetail' pk=movie.movie_id  %}">
+                    {% csrf_token %}
+                    <button   type="submit" value="{{movie.movie_id}}" class="btn btn-primary btn-md mr-1 mb-2" name="watchlist"><i class="fa fa-plus"></i>Add to Watch List</button>
+                  </form>
+                </th>
+              </tr>
+            </tbody>
+          </table>
+          <!-- <p> user_id = {{ request.user.id }}</p> -->
+          
+<!--           <div id="rating" class="rating" value ="{{ review.stars }}"></div>
+ -->          
+<!--           <p> movie_id = {{ movie.movie_id }}</p>
+ -->
+
+      </div>
+    </div>
+
+
+<div>
+  <h2 style="color:#fff"> Recommended Movies Based On {{request.user}}'s Profile</h2>
+  <div class="carousel">
+    <div class="carousel-row">
+      {% for movie in knn_recommendation_list %}
+      <div class="carousel-tile" style="background: #46B1C9;" onclick="location.href='/movieDetail/{{ movie.movie_id }}';">
+        <img height="380" src="{{ movie.poster }}"/>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<table style="border:hidden; width: 100%; "class="table table-striped">
+  <tbody border="0" >
+    <tr>
+      <th style="background-color:#202020; width: 70%;">
+        <h2 style="color: white;" class="subtitle">Add Review</h2>
+        <form method="post" action=".">
+          {% csrf_token %}
+          <div class="field">
+            <label style="color: gray;">Stars</label>
+            <div clas="control">
+              <div class="select">
+                <select name="stars">
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5" selected>5</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="field">
+            <label style="color: gray;">Comment</label>
+            <div class="control">
+              <textarea style="width: 95%;" rows=4 class="textarea" name="content"></textarea>
+            </div>
+          </div>
+          <br>
+          <div class="field">
+            <div class="control">
+              <button class="button is-success">Submit</button>
+            </div>
+          </div>
+        </form>
+      </th>
+
+      <th></th>
+
+      <th>
+        
+        <h2 style="color: white;" class="subtitle">Reviews</h2>
+        {% for review in allReviewsForTheMovie %}
+          <table style="border:hidden;">
+            <tr style="border:hidden;" >
+              <th>
+                <p style="color: white;">{{ review.user }}</p></th>
+                <th>
+                  {% if review.stars == 1 %}
+                  <div style="color: orange;">★☆☆☆☆</div>
+                  {% elif review.stars == 2 %}
+                  <div style="color: orange;">★★☆☆☆</div>
+                  {% elif review.stars == 3 %}
+                  <div style="color: orange;">★★★☆☆</div>
+                  {% elif review.stars == 4 %}
+                  <div style="color: orange;">★★★★☆</div>
+                  {% else %}
+                  <div style="color: orange;">★★★★★</div>
+                  {% endif %}
+                </th>
+                <th style="color: gray;">{{ review.stars }}</th>
+              </tr>
+              <tr style="background-color:#202020;">
+                <th colspan=20 style="color: white;">{{ review.content }}</th>
+              </tr>
+        </table>
+        {% empty %}
+          <p>No reviews to be shown..</p>
+        {% endfor %}  
+
+      </th>
+
+    </tr>
+  </tbody>
+</table>
+    
+
+  
+        
+        
+        
+     
+   
+
+
+
+
+{% endblock content %}
+
+
+<!-- <script type="text/javascript">
+  $(document).ready(function () {
+  // MDB Lightbox Init
+  $(function () {
+    $("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+  });
+});
+</script> -->

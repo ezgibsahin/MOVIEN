@@ -1,0 +1,72 @@
+{%  extends "organisation/base.html" %}
+{% block content %}
+    <h1 style="color: white;">{{ user.username }}'s Watch List</h1>
+    <div class="row">
+        {% for movie in watchlist_movies %}
+
+            <!-- Grid column -->
+            <div class="col-md-4 mb-4">
+                <!-- Card -->
+                <div class="">
+                    <div class="view zoom overlay">
+                        <a href="/movieDetail/{{ movie.movie_id }}">
+                            <div class="mask">
+                                <center>
+                                    <img height="480" width="340" src="{{movie.poster}}">
+                                    <div class="mask rgba-black-slight"></div>
+                                </center>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="text-center pt-4">
+                        <h5>{{movie.movie_title}}</h5>
+                        <p class="mb-2 text-muted text-uppercase small">{{movie.genres}}</p>
+                        <hr>
+                        <h6 class="mb-3">Rating: {{movie.avg_rating|floatformat:1 }}</h6>
+                    </div>
+                </div>
+                <!-- Card -->
+            </div>
+            <!-- Grid column -->
+
+        {%endfor%}
+    </div>
+    {% if watchlist_movies.has_other_pages %}
+        <ul class="pagination justify-content-center">
+            {% if watchlist_movies.has_previous %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ watchlist_movies.previous_page_number }}">&laquo;</a>
+            </li>
+            {% else %}
+            <li class="disabled"><span>&laquo;</span></li>
+            {% endif %}
+            {% if watchlist_movies.number|add:'-4' > 1 %}
+            <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ watchlist_movies.number|add:'-5' }}">&hellip;</a></li>
+            {% endif %}
+            {% for i in watchlist_movies.paginator.page_range %}
+            {% if watchlist_movies.number == i %}
+            <li class="page-item active">
+                <span class="page-link">{{ i }}<span class="sr-only">(current)</span></span>
+            </li>
+            {% elif i > watchlist_movies.number|add:'-3' and i < watchlist_movies.number|add:'3' %}
+            <li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+            {% endif %}
+            {% endfor %}
+            {% if watchlist_movies.paginator.num_pages > watchlist_movies.number|add:'4' %}
+            <li class="page-item"><a class="page-link" href="?page={{ watchlist_movies.number|add:'5' }}">&hellip;</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ watchlist_movies.paginator.num_pages }}">{{ watchlist_movies.paginator.num_pages }}</a></li>
+            {% endif %}
+            {% if watchlist_movies.has_next %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ watchlist_movies.next_page_number }}" aria-label="Next"><span aria-hidden="true">&raquo;</span><span class="sr-only">Next</span></a>
+            </li>
+            {% else %}
+            <li class="disabled"><span>&raquo;</span></li>
+            {% endif %}
+        </ul>
+        {% endif %}
+
+{% endblock content %}
+

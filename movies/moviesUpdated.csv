@@ -1,0 +1,1683 @@
+movie_id,movie_title,imdb_url,decade,genres
+1,Toy Story (1995),http://us.imdb.com/M/title-exact?Toy%20Story%20(1995),90s, animation childrens comedy
+2,GoldenEye (1995),http://us.imdb.com/M/title-exact?GoldenEye%20(1995),90s, action adventure thriller
+3,Four Rooms (1995),http://us.imdb.com/M/title-exact?Four%20Rooms%20(1995),90s, thriller
+4,Get Shorty (1995),http://us.imdb.com/M/title-exact?Get%20Shorty%20(1995),90s, action comedy drama
+5,Copycat (1995),http://us.imdb.com/M/title-exact?Copycat%20(1995),90s, crime drama thriller
+6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),http://us.imdb.com/Title?Yao+a+yao+yao+dao+waipo+qiao+(1995),90s, drama
+7,Twelve Monkeys (1995),http://us.imdb.com/M/title-exact?Twelve%20Monkeys%20(1995),90s, drama sci-fi
+8,Babe (1995),http://us.imdb.com/M/title-exact?Babe%20(1995),90s, childrens comedy drama
+9,Dead Man Walking (1995),http://us.imdb.com/M/title-exact?Dead%20Man%20Walking%20(1995),90s, drama
+10,Richard III (1995),http://us.imdb.com/M/title-exact?Richard%20III%20(1995),90s, drama war
+11,Seven (Se7en) (1995),http://us.imdb.com/M/title-exact?Se7en%20(1995),90s, crime thriller
+12,"Usual Suspects, The (1995)","http://us.imdb.com/M/title-exact?Usual%20Suspects,%20The%20(1995)",90s, crime thriller
+13,Mighty Aphrodite (1995),http://us.imdb.com/M/title-exact?Mighty%20Aphrodite%20(1995),90s, comedy
+14,"Postino, Il (1994)","http://us.imdb.com/M/title-exact?Postino,%20Il%20(1994)",90s, drama romance
+15,Mr. Holland's Opus (1995),http://us.imdb.com/M/title-exact?Mr.%20Holland's%20Opus%20(1995),90s, drama
+16,French Twist (Gazon maudit) (1995),http://us.imdb.com/M/title-exact?Gazon%20maudit%20(1995),90s, comedy romance
+17,From Dusk Till Dawn (1996),http://us.imdb.com/M/title-exact?From%20Dusk%20Till%20Dawn%20(1996),90s, action comedy crime horror thriller
+18,"White Balloon, The (1995)",http://us.imdb.com/M/title-exact?Badkonake%20Sefid%20(1995),90s, drama
+19,Antonia's Line (1995),http://us.imdb.com/M/title-exact?Antonia%20(1995),90s, drama
+20,Angels and Insects (1995),http://us.imdb.com/M/title-exact?Angels%20and%20Insects%20(1995),90s, drama romance
+21,Muppet Treasure Island (1996),http://us.imdb.com/M/title-exact?Muppet%20Treasure%20Island%20(1996),90s, action adventure comedy musical thriller
+22,Braveheart (1995),http://us.imdb.com/M/title-exact?Braveheart%20(1995),90s, action drama war
+23,Taxi Driver (1976),http://us.imdb.com/M/title-exact?Taxi%20Driver%20(1976),90s, drama thriller
+24,Rumble in the Bronx (1995),http://us.imdb.com/M/title-exact?Hong%20Faan%20Kui%20(1995),90s, action adventure crime
+25,"Birdcage, The (1996)","http://us.imdb.com/M/title-exact?Birdcage,%20The%20(1996)",90s, comedy
+26,"Brothers McMullen, The (1995)","http://us.imdb.com/M/title-exact?Brothers%20McMullen,%20The%20(1995)",90s, comedy
+27,Bad Boys (1995),http://us.imdb.com/M/title-exact?Bad%20Boys%20(1995),90s, action
+28,Apollo 13 (1995),http://us.imdb.com/M/title-exact?Apollo%2013%20(1995),90s, action drama thriller
+29,Batman Forever (1995),http://us.imdb.com/M/title-exact?Batman%20Forever%20(1995),90s, action adventure comedy crime
+30,Belle de jour (1967),http://us.imdb.com/M/title-exact?Belle%20de%20jour%20(1967),60s, drama
+31,Crimson Tide (1995),http://us.imdb.com/M/title-exact?Crimson%20Tide%20(1995),90s, drama thriller war
+32,Crumb (1994),http://us.imdb.com/M/title-exact?Crumb%20(1994),90s, documentary
+33,Desperado (1995),http://us.imdb.com/M/title-exact?Desperado%20(1995),90s, action romance thriller
+34,"Doom Generation, The (1995)","http://us.imdb.com/M/title-exact?Doom%20Generation,%20The%20(1995)",90s, comedy drama
+35,Free Willy 2: The Adventure Home (1995),http://us.imdb.com/M/title-exact?Free%20Willy%202:%20The%20Adventure%20Home%20(1995),90s, adventure childrens drama
+36,Mad Love (1995),http://us.imdb.com/M/title-exact?Mad%20Love%20(1995),90s, drama romance
+37,Nadja (1994),http://us.imdb.com/M/title-exact?Nadja%20(1994),90s, drama
+38,"Net, The (1995)","http://us.imdb.com/M/title-exact?Net,%20The%20(1995)",90s, sci-fi thriller
+39,Strange Days (1995),http://us.imdb.com/M/title-exact?Strange%20Days%20(1995),90s, action crime sci-fi
+40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)","http://us.imdb.com/M/title-exact?To%20Wong%20Foo,%20Thanks%20for%20Everything!%20Julie%20Newmar%20(1995)",90s, comedy
+41,Billy Madison (1995),http://us.imdb.com/M/title-exact?Billy%20Madison%20(1995),90s, comedy
+42,Clerks (1994),http://us.imdb.com/M/title-exact?Clerks%20(1994),90s, comedy
+43,Disclosure (1994),http://us.imdb.com/M/title-exact?Disclosure%20(1994),90s, drama thriller
+44,Dolores Claiborne (1994),http://us.imdb.com/M/title-exact?Dolores%20Claiborne%20(1994),90s, drama thriller
+45,Eat Drink Man Woman (1994),http://us.imdb.com/M/title-exact?Yinshi%20Nan%20Nu%20(1994),90s, comedy drama
+46,Exotica (1994),http://us.imdb.com/M/title-exact?Exotica%20(1994),90s, drama
+47,Ed Wood (1994),http://us.imdb.com/M/title-exact?Ed%20Wood%20(1994),90s, comedy drama
+48,Hoop Dreams (1994),http://us.imdb.com/M/title-exact?Hoop%20Dreams%20(1994),90s, documentary
+49,I.Q. (1994),http://us.imdb.com/M/title-exact?I.Q.%20(1994),90s, comedy romance
+50,Star Wars (1977),http://us.imdb.com/M/title-exact?Star%20Wars%20(1977),70s, action adventure romance sci-fi war
+51,Legends of the Fall (1994),http://us.imdb.com/M/title-exact?Legends%20of%20the%20Fall%20(1994),90s, drama romance war western
+52,"Madness of King George, The (1994)","http://us.imdb.com/M/title-exact?Madness%20of%20King%20George,%20The%20(1994)",90s, drama
+53,Natural Born Killers (1994),http://us.imdb.com/M/title-exact?Natural%20Born%20Killers%20(1994),90s, action thriller
+54,Outbreak (1995),http://us.imdb.com/M/title-exact?Outbreak%20(1995),90s, action drama thriller
+55,"Professional, The (1994)",http://us.imdb.com/Title?L%E9on+(1994),90s, crime drama romance thriller
+56,Pulp Fiction (1994),http://us.imdb.com/M/title-exact?Pulp%20Fiction%20(1994),90s, crime drama
+57,Priest (1994),http://us.imdb.com/M/title-exact?Priest%20(1994),90s, drama
+58,Quiz Show (1994),http://us.imdb.com/M/title-exact?Quiz%20Show%20(1994),90s, drama
+59,Three Colors: Red (1994),http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Czerwony%20(1994),90s, drama
+60,Three Colors: Blue (1993),http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Niebieski%20(1993),90s, drama
+61,Three Colors: White (1994),http://us.imdb.com/M/title-exact?Trzy%20kolory:%20Bialy%20(1994),90s, drama
+62,Stargate (1994),http://us.imdb.com/M/title-exact?Stargate%20(1994),90s, action adventure sci-fi
+63,"Santa Clause, The (1994)","http://us.imdb.com/M/title-exact?Santa%20Clause,%20The%20(1994)",90s, childrens comedy
+64,"Shawshank Redemption, The (1994)","http://us.imdb.com/M/title-exact?Shawshank%20Redemption,%20The%20(1994)",90s, drama
+65,What's Eating Gilbert Grape (1993),http://us.imdb.com/M/title-exact?What's%20Eating%20Gilbert%20Grape%20(1993),90s, comedy drama
+66,While You Were Sleeping (1995),http://us.imdb.com/M/title-exact?While%20You%20Were%20Sleeping%20(1995),90s, comedy romance
+67,Ace Ventura: Pet Detective (1994),http://us.imdb.com/M/title-exact?Ace%20Ventura:%20Pet%20Detective%20(1994),90s, comedy
+68,"Crow, The (1994)","http://us.imdb.com/M/title-exact?Crow,%20The%20(1994)",90s, action romance thriller
+69,Forrest Gump (1994),http://us.imdb.com/M/title-exact?Forrest%20Gump%20(1994),90s, comedy romance war
+70,Four Weddings and a Funeral (1994),http://us.imdb.com/M/title-exact?Four%20Weddings%20and%20a%20Funeral%20(1994),90s, comedy romance
+71,"Lion King, The (1994)","http://us.imdb.com/M/title-exact?Lion%20King,%20The%20(1994)",90s, animation childrens musical
+72,"Mask, The (1994)","http://us.imdb.com/M/title-exact?Mask,%20The%20(1994)",90s, comedy crime fantasy
+73,Maverick (1994),http://us.imdb.com/M/title-exact?Maverick%20(1994),90s, action comedy western
+74,Faster Pussycat! Kill! Kill! (1965),http://us.imdb.com/M/title-exact?Faster%20Pussycat!%20Kill!%20Kill!%20(1965),60s, action comedy drama
+75,Brother Minister: The Assassination of Malcolm X (1994),http://us.imdb.com/M/title-exact?Brother%20Minister:%20The%20Assassination%20of%20Malcolm%20X%20(1994),90s, documentary
+76,Carlito's Way (1993),http://us.imdb.com/M/title-exact?Carlito's%20Way%20(1993),90s, crime drama
+77,"Firm, The (1993)","http://us.imdb.com/M/title-exact?Firm,%20The%20(1993)",90s, drama thriller
+78,Free Willy (1993),http://us.imdb.com/M/title-exact?Free%20Willy%20(1993),90s, adventure childrens drama
+79,"Fugitive, The (1993)","http://us.imdb.com/M/title-exact?Fugitive,%20The%20(1993)",90s, action thriller
+80,Hot Shots! Part Deux (1993),http://us.imdb.com/M/title-exact?Hot%20Shots!%20Part%20Deux%20(1993),90s, action comedy war
+81,"Hudsucker Proxy, The (1994)","http://us.imdb.com/M/title-exact?Hudsucker%20Proxy,%20The%20(1994)",90s, comedy romance
+82,Jurassic Park (1993),http://us.imdb.com/M/title-exact?Jurassic%20Park%20(1993),90s, action adventure sci-fi
+83,Much Ado About Nothing (1993),http://us.imdb.com/M/title-exact?Much%20Ado%20About%20Nothing%20(1993),90s, comedy romance
+84,Robert A. Heinlein's The Puppet Masters (1994),http://us.imdb.com/M/title-exact?Robert%20A.%20Heinlein's%20The%20Puppet%20Masters%20(1994),90s, horror sci-fi
+85,"Ref, The (1994)","http://us.imdb.com/M/title-exact?Ref,%20The%20(1994)",90s, comedy
+86,"Remains of the Day, The (1993)","http://us.imdb.com/M/title-exact?Remains%20of%20the%20Day,%20The%20(1993)",90s, drama
+87,Searching for Bobby Fischer (1993),http://us.imdb.com/M/title-exact?Searching%20for%20Bobby%20Fischer%20(1993),90s, drama
+88,Sleepless in Seattle (1993),http://us.imdb.com/M/title-exact?Sleepless%20in%20Seattle%20(1993),90s, comedy romance
+89,Blade Runner (1982),http://us.imdb.com/M/title-exact?Blade%20Runner%20(1982),80s, film_noir sci-fi
+90,So I Married an Axe Murderer (1993),http://us.imdb.com/M/title-exact?So%20I%20Married%20an%20Axe%20Murderer%20(1993),90s, comedy romance thriller
+91,"Nightmare Before Christmas, The (1993)","http://us.imdb.com/M/title-exact?Nightmare%20Before%20Christmas,%20The%20(1993)",90s, childrens comedy musical
+92,True Romance (1993),http://us.imdb.com/M/title-exact?True%20Romance%20(1993),90s, action crime romance
+93,Welcome to the Dollhouse (1995),http://us.imdb.com/Title?Welcome+to+the+Dollhouse+(1995),90s, comedy drama
+94,Home Alone (1990),http://us.imdb.com/M/title-exact?Home%20Alone%20(1990),90s, childrens comedy
+95,Aladdin (1992),http://us.imdb.com/M/title-exact?Aladdin%20(1992),90s, animation childrens comedy musical
+96,Terminator 2: Judgment Day (1991),http://us.imdb.com/M/title-exact?Terminator%202:%20Judgment%20Day%20(1991),90s, action sci-fi thriller
+97,Dances with Wolves (1990),http://us.imdb.com/M/title-exact?Dances%20with%20Wolves%20(1990),90s, adventure drama western
+98,"Silence of the Lambs, The (1991)","http://us.imdb.com/M/title-exact?Silence%20of%20the%20Lambs,%20The%20(1991)",90s, drama thriller
+99,Snow White and the Seven Dwarfs (1937),http://us.imdb.com/M/title-exact?Snow%20White%20and%20the%20Seven%20Dwarfs%20(1937),30s, animation childrens musical
+100,Fargo (1996),http://us.imdb.com/M/title-exact?Fargo%20(1996),90s, crime drama thriller
+101,Heavy Metal (1981),http://us.imdb.com/M/title-exact?Heavy%20Metal%20(1981),80s, action adventure animation horror sci-fi
+102,"Aristocats, The (1970)","http://us.imdb.com/M/title-exact?Aristocats,%20The%20(1970)",70s, animation childrens
+103,All Dogs Go to Heaven 2 (1996),http://us.imdb.com/M/title-exact?All%20Dogs%20Go%20to%20Heaven%202%20(1996),90s, animation childrens musical
+104,Theodore Rex (1995),http://us.imdb.com/M/title-exact?Theodore%20Rex%20(1995),90s, comedy
+105,Sgt. Bilko (1996),http://us.imdb.com/M/title-exact?Sgt.%20Bilko%20(1996),90s, comedy
+106,Diabolique (1996),http://us.imdb.com/M/title-exact?Diabolique%20(1996),90s, drama thriller
+107,Moll Flanders (1996),http://us.imdb.com/M/title-exact?Moll%20Flanders%20(1996),90s, drama
+108,Kids in the Hall: Brain Candy (1996),http://us.imdb.com/M/title-exact?Kids%20in%20the%20Hall:%20Brain%20Candy%20(1996),90s, comedy
+109,Mystery Science Theater 3000: The Movie (1996),http://us.imdb.com/M/title-exact?Mystery%20Science%20Theater%203000:%20The%20Movie%20(1996),90s, comedy sci-fi
+110,Operation Dumbo Drop (1995),http://us.imdb.com/M/title-exact?Operation%20Dumbo%20Drop%20(1995),90s, action adventure comedy war
+111,"Truth About Cats & Dogs, The (1996)","http://us.imdb.com/M/title-exact?Truth%20About%20Cats%20&%20Dogs,%20The%20(1996)",90s, comedy romance
+112,Flipper (1996),http://us.imdb.com/M/title-exact?Flipper%20(1996),90s, adventure childrens
+113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)","http://us.imdb.com/M/title-exact?Hussard%20sur%20le%20toit,%20Le%20(1995)",90s, drama
+114,Wallace & Gromit: The Best of Aardman Animation (1996),http://us.imdb.com/Title?Wallace+%26+Gromit%3A+The+Best+of+Aardman+Animation+(1996),90s, animation
+115,"Haunted World of Edward D. Wood Jr., The (1995)","http://us.imdb.com/Title?Haunted+World+of+Edward+D.+Wood+Jr.,+The+(1995)",90s, documentary
+116,Cold Comfort Farm (1995),http://us.imdb.com/M/title-exact?Cold%20Comfort%20Farm%20(1995)%20(TV),90s, comedy
+117,"Rock, The (1996)","http://us.imdb.com/M/title-exact?Rock,%20The%20(1996)",90s, action adventure thriller
+118,Twister (1996),http://us.imdb.com/M/title-exact?Twister%20(1996),90s, action adventure thriller
+119,Maya Lin: A Strong Clear Vision (1994),http://us.imdb.com/M/title-exact?Maya%20Lin:%20A%20Strong%20Clear%20Vision%20(1994),90s, documentary
+120,Striptease (1996),http://us.imdb.com/M/title-exact?Striptease%20(1996),90s, comedy crime
+121,Independence Day (ID4) (1996),http://us.imdb.com/M/title-exact?Independence%20Day%20(1996),90s, action sci-fi war
+122,"Cable Guy, The (1996)","http://us.imdb.com/M/title-exact?Cable%20Guy,%20The%20(1996)",90s, comedy
+123,"Frighteners, The (1996)","http://us.imdb.com/M/title-exact?Frighteners,%20The%20(1996)",90s, comedy horror
+124,Lone Star (1996),http://us.imdb.com/M/title-exact?Lone%20Star%20(1996),90s, drama mystery
+125,Phenomenon (1996),http://us.imdb.com/M/title-exact?Phenomenon%20(1996),90s, drama romance
+126,"Spitfire Grill, The (1996)","http://us.imdb.com/M/title-exact?Spitfire%20Grill,%20The%20(1996)",90s, drama
+127,"Godfather, The (1972)","http://us.imdb.com/M/title-exact?Godfather,%20The%20(1972)",70s, action crime drama
+128,Supercop (1992),http://us.imdb.com/M/title-exact?Police%20Story%20III:%20Supercop%20(1992),90s, action thriller
+129,Bound (1996),http://us.imdb.com/M/title-exact?Bound%20(1996),90s, crime drama romance thriller
+130,Kansas City (1996),http://us.imdb.com/M/title-exact?Kansas%20City%20(1996),90s, crime
+131,Breakfast at Tiffany's (1961),http://us.imdb.com/M/title-exact?Breakfast%20at%20Tiffany's%20(1961),60s, drama romance
+132,"Wizard of Oz, The (1939)","http://us.imdb.com/M/title-exact?Wizard%20of%20Oz,%20The%20(1939)",30s, adventure childrens drama musical
+133,Gone with the Wind (1939),http://us.imdb.com/M/title-exact?Gone%20with%20the%20Wind%20(1939),30s, drama romance war
+134,Citizen Kane (1941),http://us.imdb.com/M/title-exact?Citizen%20Kane%20(1941),40s, drama
+135,2001: A Space Odyssey (1968),http://us.imdb.com/M/title-exact?2001:%20A%20Space%20Odyssey%20(1968),60s, drama mystery sci-fi thriller
+136,Mr. Smith Goes to Washington (1939),http://us.imdb.com/M/title-exact?Mr.%20Smith%20Goes%20to%20Washington%20(1939),30s, drama
+137,Big Night (1996),http://us.imdb.com/M/title-exact?Big%20Night%20(1996),90s, drama
+138,D3: The Mighty Ducks (1996),http://us.imdb.com/M/title-exact?D3:%20The%20Mighty%20Ducks%20(1996),90s, childrens comedy
+139,"Love Bug, The (1969)","http://us.imdb.com/M/title-exact?Love%20Bug,%20The%20(1969)",60s, childrens comedy
+140,Homeward Bound: The Incredible Journey (1993),http://us.imdb.com/M/title-exact?Homeward%20Bound:%20The%20Incredible%20Journey%20(1993),90s, adventure childrens
+141,"20,000 Leagues Under the Sea (1954)","http://us.imdb.com/M/title-exact?20,000%20Leagues%20Under%20the%20Sea%20(1954)",50s, adventure childrens fantasy sci-fi
+142,Bedknobs and Broomsticks (1971),http://us.imdb.com/M/title-exact?Bedknobs%20and%20Broomsticks%20(1971),70s, adventure childrens musical
+143,"Sound of Music, The (1965)","http://us.imdb.com/M/title-exact?Sound%20of%20Music,%20The%20(1965)",60s, musical
+144,Die Hard (1988),http://us.imdb.com/M/title-exact?Die%20Hard%20(1988),80s, action thriller
+145,"Lawnmower Man, The (1992)","http://us.imdb.com/M/title-exact?Lawnmower%20Man,%20The%20(1992)",90s, action sci-fi thriller
+146,Unhook the Stars (1996),http://us.imdb.com/M/title-exact?Unhook%20the%20Stars%20(1996),90s, drama
+147,"Long Kiss Goodnight, The (1996)","http://us.imdb.com/M/title-exact?Long%20Kiss%20Goodnight,%20The%20(1996)",90s, action thriller
+148,"Ghost and the Darkness, The (1996)","http://us.imdb.com/M/title-exact?Ghost%20and%20the%20Darkness,%20The%20(1996)",90s, action adventure
+149,Jude (1996),http://us.imdb.com/M/title-exact?Jude%20(1996),90s, drama
+150,Swingers (1996),http://us.imdb.com/M/title-exact?Swingers%20(1996),90s, comedy drama
+151,Willy Wonka and the Chocolate Factory (1971),http://us.imdb.com/M/title-exact?Willy%20Wonka%20and%20the%20Chocolate%20Factory%20(1971),70s, adventure childrens comedy
+152,Sleeper (1973),http://us.imdb.com/M/title-exact?Sleeper%20(1973),70s, comedy sci-fi
+153,"Fish Called Wanda, A (1988)","http://us.imdb.com/M/title-exact?Fish%20Called%20Wanda,%20A%20(1988)",80s, comedy
+154,Monty Python's Life of Brian (1979),http://us.imdb.com/M/title-exact?Life%20of%20Brian%20(1979),70s, comedy
+155,Dirty Dancing (1987),http://us.imdb.com/M/title-exact?Dirty%20Dancing%20(1987),80s, musical romance
+156,Reservoir Dogs (1992),http://us.imdb.com/M/title-exact?Reservoir%20Dogs%20(1992),90s, crime thriller
+157,Platoon (1986),http://us.imdb.com/M/title-exact?Platoon%20(1986),80s, drama war
+158,Weekend at Bernie's (1989),http://us.imdb.com/M/title-exact?Weekend%20at%20Bernie's%20(1989),80s, comedy
+159,Basic Instinct (1992),http://us.imdb.com/M/title-exact?Basic%20Instinct%20(1992),90s, mystery thriller
+160,Glengarry Glen Ross (1992),http://us.imdb.com/M/title-exact?Glengarry%20Glen%20Ross%20(1992),90s, drama
+161,Top Gun (1986),http://us.imdb.com/M/title-exact?Top%20Gun%20(1986),80s, action romance
+162,On Golden Pond (1981),http://us.imdb.com/M/title-exact?On%20Golden%20Pond%20(1981),80s, drama
+163,"Return of the Pink Panther, The (1974)","http://us.imdb.com/M/title-exact?Return%20of%20the%20Pink%20Panther,%20The%20(1974)",70s, comedy
+164,"Abyss, The (1989)","http://us.imdb.com/M/title-exact?Abyss,%20The%20(1989)",80s, action adventure sci-fi thriller
+165,Jean de Florette (1986),http://us.imdb.com/M/title-exact?Jean%20de%20Florette%20(1986),80s, drama
+166,Manon of the Spring (Manon des sources) (1986),http://us.imdb.com/M/title-exact?Manon%20des%20sources%20(1986),80s, drama
+167,Private Benjamin (1980),http://us.imdb.com/M/title-exact?Private%20Benjamin%20(1980),80s, comedy
+168,Monty Python and the Holy Grail (1974),http://us.imdb.com/M/title-exact?Monty%20Python%20and%20the%20Holy%20Grail%20(1974),70s, comedy
+169,"Wrong Trousers, The (1993)","http://us.imdb.com/M/title-exact?Wrong%20Trousers,%20The%20(1993)",90s, animation comedy
+170,Cinema Paradiso (1988),http://us.imdb.com/M/title-exact?Nuovo%20cinema%20Paradiso%20(1988),80s, comedy drama romance
+171,Delicatessen (1991),http://us.imdb.com/M/title-exact?Delicatessen%20(1991),90s, comedy sci-fi
+172,"Empire Strikes Back, The (1980)","http://us.imdb.com/M/title-exact?Empire%20Strikes%20Back,%20The%20(1980)",80s, action adventure drama romance sci-fi war
+173,"Princess Bride, The (1987)","http://us.imdb.com/M/title-exact?Princess%20Bride,%20The%20(1987)",80s, action adventure comedy romance
+174,Raiders of the Lost Ark (1981),http://us.imdb.com/M/title-exact?Raiders%20of%20the%20Lost%20Ark%20(1981),80s, action adventure
+175,Brazil (1985),http://us.imdb.com/M/title-exact?Brazil%20(1985),80s, sci-fi
+176,Aliens (1986),http://us.imdb.com/M/title-exact?Aliens%20(1986),80s, action sci-fi thriller war
+177,"Good, The Bad and The Ugly, The (1966)","http://us.imdb.com/M/title-exact?Buono,%20il%20brutto,%20il%20cattivo,%20Il%20(1966)",60s, action western
+178,12 Angry Men (1957),http://us.imdb.com/M/title-exact?12%20Angry%20Men%20(1957),50s, drama
+179,"Clockwork Orange, A (1971)","http://us.imdb.com/M/title-exact?Clockwork%20Orange,%20A%20(1971)",70s, sci-fi
+180,Apocalypse Now (1979),http://us.imdb.com/M/title-exact?Apocalypse%20Now%20(1979),70s, drama war
+181,Return of the Jedi (1983),http://us.imdb.com/M/title-exact?Return%20of%20the%20Jedi%20(1983),90s, action adventure romance sci-fi war
+182,GoodFellas (1990),http://us.imdb.com/M/title-exact?GoodFellas%20(1990),90s, crime drama
+183,Alien (1979),http://us.imdb.com/M/title-exact?Alien%20(1979),70s, action horror sci-fi thriller
+184,Army of Darkness (1993),http://us.imdb.com/M/title-exact?Army%20of%20Darkness%20(1993),90s, action adventure comedy horror sci-fi
+185,Psycho (1960),http://us.imdb.com/M/title-exact?Psycho%20(1960),60s, horror romance thriller
+186,"Blues Brothers, The (1980)","http://us.imdb.com/M/title-exact?Blues%20Brothers,%20The%20(1980)",80s, action comedy musical
+187,"Godfather: Part II, The (1974)","http://us.imdb.com/M/title-exact?Godfather:%20Part%20II,%20The%20(1974)",70s, action crime drama
+188,Full Metal Jacket (1987),http://us.imdb.com/M/title-exact?Full%20Metal%20Jacket%20(1987),80s, action drama war
+189,"Grand Day Out, A (1992)","http://us.imdb.com/M/title-exact?Grand%20Day%20Out,%20A%20(1992)",90s, animation comedy
+190,Henry V (1989),http://us.imdb.com/M/title-exact?Henry%20V%20(1989),80s, drama war
+191,Amadeus (1984),http://us.imdb.com/M/title-exact?Amadeus%20(1984),80s, drama mystery
+192,Raging Bull (1980),http://us.imdb.com/M/title-exact?Raging%20Bull%20(1980),80s, drama
+193,"Right Stuff, The (1983)","http://us.imdb.com/M/title-exact?Right%20Stuff,%20The%20(1983)",80s, drama
+194,"Sting, The (1973)","http://us.imdb.com/M/title-exact?Sting,%20The%20(1973)",70s, comedy crime
+195,"Terminator, The (1984)","http://us.imdb.com/M/title-exact?Terminator,%20The%20(1984)",80s, action sci-fi thriller
+196,Dead Poets Society (1989),http://us.imdb.com/M/title-exact?Dead%20Poets%20Society%20(1989),80s, drama
+197,"Graduate, The (1967)","http://us.imdb.com/M/title-exact?Graduate,%20The%20(1967)",60s, drama romance
+198,Nikita (La Femme Nikita) (1990),http://us.imdb.com/M/title-exact?Nikita%20(1990),90s, thriller
+199,"Bridge on the River Kwai, The (1957)","http://us.imdb.com/M/title-exact?Bridge%20on%20the%20River%20Kwai,%20The%20(1957)",50s, drama war
+200,"Shining, The (1980)","http://us.imdb.com/M/title-exact?Shining,%20The%20(1980)",80s, horror
+201,Evil Dead II (1987),http://us.imdb.com/M/title-exact?Evil%20Dead%20II%20(1987),80s, action adventure comedy horror
+202,Groundhog Day (1993),http://us.imdb.com/M/title-exact?Groundhog%20Day%20(1993),90s, comedy romance
+203,Unforgiven (1992),http://us.imdb.com/M/title-exact?Unforgiven%20(1992),90s, western
+204,Back to the Future (1985),http://us.imdb.com/M/title-exact?Back%20to%20the%20Future%20(1985),80s, comedy sci-fi
+205,Patton (1970),http://us.imdb.com/M/title-exact?Patton%20(1970),70s, drama war
+206,Akira (1988),http://us.imdb.com/M/title-exact?Akira%20(1988),80s, adventure animation sci-fi thriller
+207,Cyrano de Bergerac (1990),http://us.imdb.com/M/title-exact?Cyrano%20de%20Bergerac%20(1990),90s, action drama romance
+208,Young Frankenstein (1974),http://us.imdb.com/M/title-exact?Young%20Frankenstein%20(1974),70s, comedy horror
+209,This Is Spinal Tap (1984),http://us.imdb.com/M/title-exact?This%20Is%20Spinal%20Tap%20(1984),80s, comedy drama musical
+210,Indiana Jones and the Last Crusade (1989),http://us.imdb.com/M/title-exact?Indiana%20Jones%20and%20the%20Last%20Crusade%20(1989),80s, action adventure
+211,M*A*S*H (1970),http://us.imdb.com/M/title-exact?MASH%20(1970),70s, comedy war
+212,"Unbearable Lightness of Being, The (1988)","http://us.imdb.com/M/title-exact?Unbearable%20Lightness%20of%20Being,%20The%20(1988)",80s, drama
+213,"Room with a View, A (1986)","http://us.imdb.com/M/title-exact?Room%20with%20a%20View,%20A%20(1986)",80s, drama romance
+214,Pink Floyd - The Wall (1982),http://us.imdb.com/M/title-exact?Pink%20Floyd%20-%20The%20Wall%20(1982),80s, drama musical war
+215,Field of Dreams (1989),http://us.imdb.com/M/title-exact?Field%20of%20Dreams%20(1989),80s, drama
+216,When Harry Met Sally... (1989),http://us.imdb.com/M/title-exact?When%20Harry%20Met%20Sally...%20(1989),80s, comedy romance
+217,Bram Stoker's Dracula (1992),http://us.imdb.com/M/title-exact?Bram%20Stoker's%20Dracula%20(1992),90s, horror romance
+218,Cape Fear (1991),http://us.imdb.com/M/title-exact?Cape%20Fear%20(1991),90s, thriller
+219,"Nightmare on Elm Street, A (1984)","http://us.imdb.com/M/title-exact?Nightmare%20on%20Elm%20Street,%20A%20(1984)",80s, horror
+220,"Mirror Has Two Faces, The (1996)","http://us.imdb.com/M/title-exact?Mirror%20Has%20Two%20Faces,%20The%20(1996)",90s, comedy romance
+221,Breaking the Waves (1996),http://us.imdb.com/M/title-exact?Breaking%20the%20Waves%20(1996),90s, drama
+222,Star Trek: First Contact (1996),http://us.imdb.com/M/title-exact?Star%20Trek:%20First%20Contact%20(1996),90s, action adventure sci-fi
+223,Sling Blade (1996),http://us.imdb.com/M/title-exact?Sling%20Blade%20(1996),90s, drama thriller
+224,Ridicule (1996),http://us.imdb.com/M/title-exact?Ridicule%20(1996),90s, drama
+225,101 Dalmatians (1996),http://us.imdb.com/M/title-exact?101%20Dalmatians%20(1996),90s, childrens comedy
+226,Die Hard 2 (1990),http://us.imdb.com/M/title-exact?Die%20Hard%202%20(1990),90s, action thriller
+227,Star Trek VI: The Undiscovered Country (1991),http://us.imdb.com/M/title-exact?Star%20Trek%20VI:%20The%20Undiscovered%20Country%20(1991),90s, action adventure sci-fi
+228,Star Trek: The Wrath of Khan (1982),http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Wrath%20of%20Khan%20(1982),80s, action adventure sci-fi
+229,Star Trek III: The Search for Spock (1984),http://us.imdb.com/M/title-exact?Star%20Trek%20III:%20The%20Search%20for%20Spock%20(1984),80s, action adventure sci-fi
+230,Star Trek IV: The Voyage Home (1986),http://us.imdb.com/M/title-exact?Star%20Trek%20IV:%20The%20Voyage%20Home%20(1986),80s, action adventure sci-fi
+231,Batman Returns (1992),http://us.imdb.com/M/title-exact?Batman%20Returns%20(1992),90s, action adventure comedy crime
+232,Young Guns (1988),http://us.imdb.com/M/title-exact?Young%20Guns%20(1988),80s, action comedy western
+233,Under Siege (1992),http://us.imdb.com/M/title-exact?Under%20Siege%20(1992),90s, action
+234,Jaws (1975),http://us.imdb.com/M/title-exact?Jaws%20(1975),70s, action horror
+235,Mars Attacks! (1996),http://us.imdb.com/M/title-exact?Mars%20Attacks!%20(1996),90s, action comedy sci-fi war
+236,Citizen Ruth (1996),http://us.imdb.com/M/title-exact?Citizen%20Ruth%20(1996),90s, comedy drama
+237,Jerry Maguire (1996),http://us.imdb.com/M/title-exact?Jerry%20Maguire%20(1996),90s, drama romance
+238,Raising Arizona (1987),http://us.imdb.com/M/title-exact?Raising%20Arizona%20(1987),80s, comedy
+239,Sneakers (1992),http://us.imdb.com/M/title-exact?Sneakers%20(1992),90s, crime drama sci-fi
+240,Beavis and Butt-head Do America (1996),http://us.imdb.com/M/title-exact?Beavis%20and%20Butt-head%20Do%20America%20(1996),90s, animation comedy
+241,"Last of the Mohicans, The (1992)","http://us.imdb.com/M/title-exact?Last%20of%20the%20Mohicans,%20The%20(1992)",90s, action romance war
+242,Kolya (1996),http://us.imdb.com/M/title-exact?Kolya%20(1996),90s, comedy
+243,Jungle2Jungle (1997),http://us.imdb.com/M/title-exact?Jungle2Jungle%20(1997),90s, childrens comedy
+244,Smilla's Sense of Snow (1997),http://us.imdb.com/M/title-exact?Smilla%27s%20Sense%20of%20Snow%20(1997),90s, action drama thriller
+245,"Devil's Own, The (1997)",http://us.imdb.com/M/title-exact?Devil%27s%20Own%2C%20The%20(1997),90s, action drama thriller war
+246,Chasing Amy (1997),http://us.imdb.com/M/title-exact?Chasing+Amy+(1997),90s, drama romance
+247,Turbo: A Power Rangers Movie (1997),http://us.imdb.com/M/title-exact?Turbo%3A%20A%20Power%20Rangers%20Movie%20%281997%29,90s, action adventure childrens
+248,Grosse Pointe Blank (1997),http://us.imdb.com/M/title-exact?Grosse%20Pointe%20Blank%20%281997%29,90s, comedy crime
+249,Austin Powers: International Man of Mystery (1997),http://us.imdb.com/M/title-exact?Austin%20Powers%3A%20International%20Man%20of%20Mystery%20%281997%29,90s, comedy
+250,"Fifth Element, The (1997)",http://us.imdb.com/M/title-exact?Fifth%20Element%2C%20The%20%281997%29,90s, action sci-fi
+251,Shall We Dance? (1996),http://us.imdb.com/M/title-exact?Shall%20we%20DANSU%3F%20%281996%29,90s, comedy
+252,"Lost World: Jurassic Park, The (1997)",http://us.imdb.com/M/title-exact?Lost%20World%3A%20Jurassic%20Park%2C%20The%20%281997%29,90s, action adventure sci-fi thriller
+253,"Pillow Book, The (1995)",http://us.imdb.com/M/title-exact?Pillow%20Book%2C%20The%20%281995%29,90s, drama romance
+254,Batman & Robin (1997),http://us.imdb.com/M/title-exact?Batman+%26+Robin+(1997),90s, action adventure crime
+255,My Best Friend's Wedding (1997),http://us.imdb.com/M/title-exact?My+Best+Friend%27s+Wedding+(1997),90s, comedy romance
+256,When the Cats Away (Chacun cherche son chat) (1996),http://us.imdb.com/M/title-exact?Chacun+cherche+son+chat+(1996),90s, comedy romance
+257,Men in Black (1997),http://us.imdb.com/M/title-exact?Men+in+Black+(1997),90s, action adventure comedy sci-fi
+258,Contact (1997),http://us.imdb.com/Title?Contact+(1997/I),90s, drama sci-fi
+259,George of the Jungle (1997),http://us.imdb.com/M/title-exact?George+of+the+Jungle+(1997),90s, childrens comedy
+260,Event Horizon (1997),http://us.imdb.com/M/title-exact?Event+Horizon+(1997),90s, action mystery sci-fi thriller
+261,Air Bud (1997),http://us.imdb.com/M/title-exact?Air+Bud+(1997),90s, childrens comedy
+262,In the Company of Men (1997),http://us.imdb.com/M/title-exact?In+the+Company+of+Men+(1997),90s, drama
+263,Steel (1997),http://us.imdb.com/M/title-exact?Steel+(1997),90s, action
+264,Mimic (1997),http://us.imdb.com/M/title-exact?Mimic+(1997),90s, sci-fi thriller
+265,"Hunt for Red October, The (1990)",http://us.imdb.com/M/title-exact?Hunt+for+Red+October%2C+The+(1990),90s, action thriller
+266,Kull the Conqueror (1997),http://us.imdb.com/M/title-exact?Kull+the+Conqueror+(1997),90s, action adventure
+267, Inception,https://us.imdb.com/M/title-exact?Inception%20,2010s, action adventure
+268,Chasing Amy (1997),http://us.imdb.com/M/title-exact?Chasing+Amy+(1997),90s, drama romance
+269,"Full Monty, The (1997)",http://us.imdb.com/M/title-exact?Full+Monty%2C+The+(1997),90s, comedy
+270,Gattaca (1997),http://us.imdb.com/M/title-exact?Gattaca+(1997),90s, drama sci-fi thriller
+271,Starship Troopers (1997),http://us.imdb.com/M/title-exact?Starship+Troopers+(1997),90s, action adventure sci-fi war
+272,Good Will Hunting (1997),http://us.imdb.com/M/title-exact?imdb-title-119217,90s, drama
+273,Heat (1995),http://us.imdb.com/M/title-exact?Heat%20(1995),90s, action crime thriller
+274,Sabrina (1995),http://us.imdb.com/M/title-exact?Sabrina%20(1995),90s, comedy romance
+275,Sense and Sensibility (1995),http://us.imdb.com/M/title-exact?Sense%20and%20Sensibility%20(1995),90s, drama romance
+276,Leaving Las Vegas (1995),http://us.imdb.com/M/title-exact?Leaving%20Las%20Vegas%20(1995),90s, drama romance
+277,Restoration (1995),http://us.imdb.com/M/title-exact?Restoration%20(1995),90s, drama
+278,Bed of Roses (1996),http://us.imdb.com/M/title-exact?Bed%20of%20Roses%20(1996),90s, drama romance
+279,Once Upon a Time... When We Were Colored (1995),http://us.imdb.com/M/title-exact?Once%20Upon%20a%20Time... When%20We%20Were%20Colored%20(1995),90s, drama
+280,Up Close and Personal (1996),http://us.imdb.com/M/title-exact?Up%20Close%20and%20Personal%20(1996),90s, drama romance
+281,"River Wild, The (1994)","http://us.imdb.com/M/title-exact?River%20Wild,%20The%20(1994)",90s, action thriller
+282,"Time to Kill, A (1996)","http://us.imdb.com/M/title-exact?Time%20to%20Kill,%20A%20(1996)",90s, drama
+283,Emma (1996),http://us.imdb.com/M/title-exact?Emma%20(1996),90s, drama romance
+284,Tin Cup (1996),http://us.imdb.com/M/title-exact?Tin%20Cup%20(1996),90s, comedy romance
+285,Secrets & Lies (1996),http://us.imdb.com/M/title-exact?Secrets%20&%20Lies%20(1996),90s, drama
+286,"English Patient, The (1996)","http://us.imdb.com/M/title-exact?English%20Patient,%20The%20(1996)",90s, drama romance war
+287,Marvin's Room (1996),http://us.imdb.com/M/title-exact?Marvin's%20Room%20(1996),90s, drama
+288,Scream (1996),http://us.imdb.com/M/title-exact?Scream%20(1996),90s, horror thriller
+289,Evita (1996),http://us.imdb.com/M/title-exact?Evita%20(1996),90s, drama musical
+290,Fierce Creatures (1997),http://us.imdb.com/M/title-exact?Fierce%20Creatures%20(1997),90s, comedy
+291,Absolute Power (1997),http://us.imdb.com/M/title-exact?Absolute%20Power%20(1997),90s, mystery thriller
+292,Rosewood (1997),http://us.imdb.com/M/title-exact?Rosewood%20(1997),90s, drama
+293,Donnie Brasco (1997),http://us.imdb.com/M/title-exact?Donnie%20Brasco%20(1997),90s, crime drama
+294,Liar Liar (1997),http://us.imdb.com/Title?Liar+Liar+(1997),90s, comedy
+295,Breakdown (1997),http://us.imdb.com/M/title-exact?Breakdown%20%281997%29,90s, action thriller
+296,"Promesse, La (1996)",http://us.imdb.com/M/title-exact?Promesse%2C%20La%20%281996%29,90s, drama
+297,Ulee's Gold (1997),http://us.imdb.com/M/title-exact?Ulee%27s+Gold+(1997),90s, drama
+298,Face/Off (1997),http://us.imdb.com/M/title-exact?Face/Off+(1997),90s, action sci-fi thriller
+299,Hoodlum (1997),http://us.imdb.com/M/title-exact?Hoodlum+(1997),90s, crime drama film_noir
+300,Air Force One (1997),http://us.imdb.com/M/title-exact?Air+Force+One+(1997),90s, action thriller
+301,In & Out (1997),http://us.imdb.com/Title?In+%26+Out+(1997),90s, comedy
+302,L.A. Confidential (1997),http://us.imdb.com/M/title-exact?L%2EA%2E+Confidential+(1997),90s, crime film_noir mystery thriller
+303,Ulee's Gold (1997),http://us.imdb.com/M/title-exact?Ulee%27s+Gold+(1997),90s, drama
+304,Fly Away Home (1996),http://us.imdb.com/M/title-exact?Fly%20Away%20Home%20(1996),90s, adventure childrens
+305,"Ice Storm, The (1997)",http://us.imdb.com/M/title-exact?Ice+Storm%2C+The+(1997),90s, drama
+306,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",http://us.imdb.com/M/title-exact?Her+Majesty%2C+Mrs%2E+Brown+(1997),90s, drama romance
+307,"Devil's Advocate, The (1997)","http://us.imdb.com/M/title-exact?Devil's+Advocate,+The+(1997)",90s, crime horror mystery thriller
+308,FairyTale: A True Story (1997),http://us.imdb.com/M/title-exact?Fairytale:+A+True+Story+(1997),90s, childrens drama fantasy
+309,Deceiver (1997),http://us.imdb.com/M/title-exact?Liar+(1997),90s, crime
+310,"Rainmaker, The (1997)","http://us.imdb.com/M/title-exact?Rainmaker,+The+(1997)",90s, drama
+311,"Wings of the Dove, The (1997)",http://us.imdb.com/M/title-exact?Wings+of+the+Dove%2C+The+(1997),90s, drama romance thriller
+312,Midnight in the Garden of Good and Evil (1997),http://us.imdb.com/M/title-exact?Midnight+in+the+Garden+of+Good+and+Evil+(1997),90s, comedy crime drama mystery
+313,Titanic (1997),http://us.imdb.com/M/title-exact?imdb-title-120338,90s, action drama romance
+314,3 Ninjas: High Noon At Mega Mountain (1998),http://us.imdb.com/M/title-exact?imdb-title-118539,90s, action childrens
+315,Apt Pupil (1998),http://us.imdb.com/Title?Apt+Pupil+(1998),90s, drama thriller
+316,As Good As It Gets (1997),http://us.imdb.com/Title?As+Good+As+It+Gets+(1997),90s, comedy drama
+317,In the Name of the Father (1993),http://us.imdb.com/M/title-exact?In%20the%20Name%20of%20the%20Father%20(1993),90s, drama
+318,Schindler's List (1993),http://us.imdb.com/M/title-exact?Schindler's%20List%20(1993),90s, drama war
+319,Everyone Says I Love You (1996),http://us.imdb.com/M/title-exact?Everyone%20Says%20I%20Love%20You%20(1996),90s, comedy musical romance
+320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),http://us.imdb.com/M/title-exact?Paradise%20Lost%3a%20The%20Child%20Murders%20at%20Robin%20Hood%20Hills%20(1996),90s, documentary
+321,Mother (1996),http://us.imdb.com/M/title-exact?Mother%20(1996/I),90s, comedy
+322,Murder at 1600 (1997),http://us.imdb.com/M/title-exact?Murder%20at%201600%20(1997),90s, mystery thriller
+323,Dante's Peak (1997),http://us.imdb.com/M/title-exact?Dante's%20Peak%20(1997),90s, action thriller
+324,Lost Highway (1997),http://us.imdb.com/Title?Lost+Highway+(1997),90s, mystery
+325,Crash (1996),http://us.imdb.com/M/title-exact?Crash%20(1996),90s, drama thriller
+326,G.I. Jane (1997),http://us.imdb.com/M/title-exact?G%2EI%2E+Jane+(1997),90s, action drama war
+327,Cop Land (1997),http://us.imdb.com/M/title-exact?Cop+Land+(1997),90s, crime drama mystery
+328,Conspiracy Theory (1997),http://us.imdb.com/M/title-exact?Conspiracy+Theory+(1997),90s, action mystery romance thriller
+329,Desperate Measures (1998),http://us.imdb.com/Title?Desperate+Measures+(1998),90s, crime drama thriller
+330,187 (1997),http://us.imdb.com/M/title-exact?187+(1997),90s, drama
+331,"Edge, The (1997)",http://us.imdb.com/M/title-exact?Edge%2C+The+(1997/I),90s, adventure thriller
+332,Kiss the Girls (1997),http://us.imdb.com/M/title-exact?Kiss+the+Girls+(1997),90s, crime drama thriller
+333,"Game, The (1997)",http://us.imdb.com/M/title-exact?Game%2C+The+(1997),90s, mystery thriller
+334,U Turn (1997),http://us.imdb.com/Title?U+Turn+(1997),90s, action crime mystery
+335,How to Be a Player (1997),http://us.imdb.com/M/title-exact?How+to+Be+a+Player+(1997),90s, comedy
+336,Playing God (1997),http://us.imdb.com/M/title-exact?Playing+God+(1997),90s, crime thriller
+337,"House of Yes, The (1997)","http://us.imdb.com/M/title-exact?House+of+Yes,+The+(1997)",90s, comedy drama thriller
+338,Bean (1997),http://us.imdb.com/M/title-exact?Bean+(1997),90s, comedy
+339,Mad City (1997),http://us.imdb.com/M/title-exact?Mad+City+(1997),90s, action drama
+340,Boogie Nights (1997),http://us.imdb.com/M/title-exact?Boogie+Nights+(1997),90s, drama
+341,Critical Care (1997),http://us.imdb.com/M/title-exact?Critical+Care+(1997),90s, comedy
+342,"Man Who Knew Too Little, The (1997)",http://us.imdb.com/M/title-exact?Man+Who+Knew+Too+Little%2C+The+(1997),90s, comedy mystery
+343,Alien: Resurrection (1997),http://us.imdb.com/M/title-exact?Alien%3A+Resurrection+(1997),90s, action horror sci-fi
+344,"Apostle, The (1997)",http://us.imdb.com/M/title-exact?imdb-title-118632,90s, drama
+345,Deconstructing Harry (1997),http://us.imdb.com/M/title-exact?imdb-title-118954,90s, comedy drama
+346,Jackie Brown (1997),http://us.imdb.com/M/title-exact?imdb-title-119396,90s, crime drama
+347,Wag the Dog (1997),http://us.imdb.com/M/title-exact?imdb-title-120885,90s, comedy drama
+348,Desperate Measures (1998),http://us.imdb.com/Title?Desperate+Measures+(1998),90s, crime drama thriller
+349,Hard Rain (1998),http://us.imdb.com/M/title-exact?imdb-title-120696,90s, action thriller
+350,Fallen (1998),http://us.imdb.com/Title?Fallen+(1998),90s, action mystery thriller
+351,"Prophecy II, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-119959,90s, horror
+352,Spice World (1997),http://us.imdb.com/M/title-exact?imdb-title-120185,90s, comedy musical
+353,Deep Rising (1998),http://us.imdb.com/M/title-exact?imdb-title-118956,90s, action horror sci-fi
+354,"Wedding Singer, The (1998)",http://us.imdb.com/M/title-exact?Wedding+Singer%2C+The+(1998),90s, comedy romance
+355,Sphere (1998),http://us.imdb.com/M/title-exact?Sphere+(1998),90s, adventure sci-fi thriller
+356,"Client, The (1994)","http://us.imdb.com/M/title-exact?Client,%20The%20(1994)",90s, drama mystery thriller
+357,One Flew Over the Cuckoo's Nest (1975),http://us.imdb.com/M/title-exact?One%20Flew%20Over%20the%20Cuckoo's%20Nest%20(1975),70s, drama
+358,Spawn (1997),http://us.imdb.com/M/title-exact?Spawn+(1997/I),90s, action adventure sci-fi thriller
+359,"Assignment, The (1997)",http://us.imdb.com/M/title-exact?Assignment%2C+The+(1997),90s, thriller
+360,Wonderland (1997),http://us.imdb.com/M/title-exact?Wonderland+(1997),90s, documentary
+361,Incognito (1997),http://us.imdb.com/M/title-exact?Incognito+(1997),90s, crime thriller
+362,Blues Brothers 2000 (1998),http://us.imdb.com/M/title-exact?Blues+Brothers+2000+(1998),90s, action comedy musical
+363,Sudden Death (1995),http://us.imdb.com/M/title-exact?Sudden%20Death%20(1995),90s, action
+364,Ace Ventura: When Nature Calls (1995),http://us.imdb.com/M/title-exact?Ace%20Ventura:%20When%20Nature%20Calls%20(1995),90s, comedy
+365,Powder (1995),http://us.imdb.com/M/title-exact?Powder%20(1995),90s, drama
+366,Dangerous Minds (1995),http://us.imdb.com/M/title-exact?Dangerous%20Minds%20(1995),90s, drama
+367,Clueless (1995),http://us.imdb.com/M/title-exact?Clueless%20(1995),90s, comedy
+368,Bio-Dome (1996),http://us.imdb.com/M/title-exact?Bio-Dome%20(1996),90s, comedy
+369,Black Sheep (1996),http://us.imdb.com/M/title-exact?Black%20Sheep%20(1996),90s, comedy
+370,Mary Reilly (1996),http://us.imdb.com/M/title-exact?Mary%20Reilly%20(1996),90s, drama thriller
+371,"Bridges of Madison County, The (1995)","http://us.imdb.com/M/title-exact?Bridges%20of%20Madison%20County,%20The%20(1995)",90s, drama romance
+372,Jeffrey (1995),http://us.imdb.com/M/title-exact?Jeffrey%20(1995),90s, comedy
+373,Judge Dredd (1995),http://us.imdb.com/M/title-exact?Judge%20Dredd%20(1995),90s, action adventure sci-fi
+374,Mighty Morphin Power Rangers: The Movie (1995),http://us.imdb.com/M/title-exact?Mighty%20Morphin%20Power%20Rangers:%20The%20Movie%20(1995),90s, action childrens
+375,Showgirls (1995),http://us.imdb.com/M/title-exact?Showgirls%20(1995),90s, drama
+376,Houseguest (1994),http://us.imdb.com/M/title-exact?Houseguest%20(1994),90s, comedy
+377,Heavyweights (1994),http://us.imdb.com/M/title-exact?Heavyweights%20(1994),90s, childrens comedy
+378,Miracle on 34th Street (1994),http://us.imdb.com/M/title-exact?Miracle%20on%2034th%20Street%20(1994),90s, drama
+379,Tales From the Crypt Presents: Demon Knight (1995),http://us.imdb.com/M/title-exact?Tales%20From%20the%20Crypt%20Presents:%20Demon%20Knight%20(1995),90s, horror
+380,Star Trek: Generations (1994),http://us.imdb.com/M/title-exact?Star%20Trek:%20Generations%20(1994),90s, action adventure sci-fi
+381,Muriel's Wedding (1994),http://us.imdb.com/M/title-exact?Muriel's%20Wedding%20(1994),90s, comedy romance
+382,"Adventures of Priscilla, Queen of the Desert, The (1994)","http://us.imdb.com/M/title-exact?Adventures%20of%20Priscilla,%20Queen%20of%20the%20Desert,%20The%20(1994)",90s, comedy drama
+383,"Flintstones, The (1994)","http://us.imdb.com/M/title-exact?Flintstones,%20The%20(1994)",90s, childrens comedy
+384,Naked Gun 33 1/3: The Final Insult (1994),http://us.imdb.com/M/title-exact?Naked%20Gun%2033%201/3:%20The%20Final%20Insult%20(1994),90s, comedy
+385,True Lies (1994),http://us.imdb.com/M/title-exact?True%20Lies%20(1994),90s, action adventure comedy romance
+386,Addams Family Values (1993),http://us.imdb.com/M/title-exact?Addams%20Family%20Values%20(1993),90s, comedy
+387,"Age of Innocence, The (1993)","http://us.imdb.com/M/title-exact?Age%20of%20Innocence,%20The%20(1993)",90s, drama
+388,Beverly Hills Cop III (1994),http://us.imdb.com/M/title-exact?Beverly%20Hills%20Cop%20III%20(1994),90s, action comedy
+389,Black Beauty (1994),http://us.imdb.com/Title?Black+Beauty+(1994/I),90s, adventure childrens
+390,Fear of a Black Hat (1993),http://us.imdb.com/M/title-exact?Fear%20of%20a%20Black%20Hat%20(1993),90s, comedy
+391,Last Action Hero (1993),http://us.imdb.com/M/title-exact?Last%20Action%20Hero%20(1993),90s, action comedy
+392,"Man Without a Face, The (1993)","http://us.imdb.com/M/title-exact?Man%20Without%20a%20Face,%20The%20(1993)",90s, drama
+393,Mrs. Doubtfire (1993),http://us.imdb.com/M/title-exact?Mrs.%20Doubtfire%20(1993),90s, comedy
+394,Radioland Murders (1994),http://us.imdb.com/M/title-exact?Radioland%20Murders%20(1994),90s, comedy mystery romance
+395,Robin Hood: Men in Tights (1993),http://us.imdb.com/M/title-exact?Robin%20Hood:%20Men%20in%20Tights%20(1993),90s, comedy
+396,Serial Mom (1994),http://us.imdb.com/M/title-exact?Serial%20Mom%20(1994),90s, comedy crime horror
+397,Striking Distance (1993),http://us.imdb.com/M/title-exact?Striking%20Distance%20(1993),90s, action
+398,Super Mario Bros. (1993),http://us.imdb.com/M/title-exact?Super%20Mario%20Bros.%20(1993),90s, action adventure childrens sci-fi
+399,"Three Musketeers, The (1993)","http://us.imdb.com/M/title-exact?Three%20Musketeers,%20The%20(1993)",90s, action adventure comedy
+400,"Little Rascals, The (1994)","http://us.imdb.com/M/title-exact?Little%20Rascals,%20The%20(1994)",90s, childrens comedy
+401,"Brady Bunch Movie, The (1995)","http://us.imdb.com/M/title-exact?Brady%20Bunch%20Movie,%20The%20(1995)",90s, comedy
+402,Ghost (1990),http://us.imdb.com/M/title-exact?Ghost%20(1990),90s, comedy romance thriller
+403,Batman (1989),http://us.imdb.com/M/title-exact?Batman%20(1989),80s, action adventure crime drama
+404,Pinocchio (1940),http://us.imdb.com/M/title-exact?Pinocchio%20(1940),40s, animation childrens
+405,Mission: Impossible (1996),http://us.imdb.com/M/title-exact?Mission:%20Impossible%20(1996),90s, action adventure mystery
+406,Thinner (1996),http://us.imdb.com/M/title-exact?Thinner%20(1996),90s, horror thriller
+407,Spy Hard (1996),http://us.imdb.com/M/title-exact?Spy%20Hard%20(1996),90s, comedy
+408,"Close Shave, A (1995)","http://us.imdb.com/M/title-exact?Close%20Shave,%20A%20(1995)",90s, animation comedy thriller
+409,Jack (1996),http://us.imdb.com/M/title-exact?Jack%20(1996),90s, comedy drama
+410,Kingpin (1996),http://us.imdb.com/M/title-exact?Kingpin%20(1996),90s, comedy
+411,"Nutty Professor, The (1996)","http://us.imdb.com/M/title-exact?Nutty%20Professor,%20The%20(1996)",90s, comedy fantasy romance sci-fi
+412,"Very Brady Sequel, A (1996)","http://us.imdb.com/M/title-exact?Very%20Brady%20Sequel,%20A%20(1996)",90s, comedy
+413,Tales from the Crypt Presents: Bordello of Blood (1996),http://us.imdb.com/M/title-exact?Tales%20from%20the%20Crypt%20Presents:%20Bordello%20of%20Blood%20(1996),90s, horror
+414,My Favorite Year (1982),http://us.imdb.com/M/title-exact?My%20Favorite%20Year%20(1982),80s, comedy
+415,"Apple Dumpling Gang, The (1975)","http://us.imdb.com/M/title-exact?Apple%20Dumpling%20Gang,%20The%20(1975)",70s, childrens comedy western
+416,Old Yeller (1957),http://us.imdb.com/M/title-exact?Old%20Yeller%20(1957),50s, childrens drama
+417,"Parent Trap, The (1961)","http://us.imdb.com/M/title-exact?Parent%20Trap,%20The%20(1961)",60s, childrens drama
+418,Cinderella (1950),http://us.imdb.com/M/title-exact?Cinderella%20(1950),50s, animation childrens musical
+419,Mary Poppins (1964),http://us.imdb.com/M/title-exact?Mary%20Poppins%20(1964),60s, childrens comedy musical
+420,Alice in Wonderland (1951),http://us.imdb.com/M/title-exact?Alice%20in%20Wonderland%20(1951),50s, animation childrens musical
+421,William Shakespeare's Romeo and Juliet (1996),http://us.imdb.com/Title?Romeo+%2B+Juliet+(1996),90s, drama romance
+422,Aladdin and the King of Thieves (1996),http://us.imdb.com/M/title-exact?Aladdin%20and%20the%20King%20of%20Thieves%20(1996)%20(V),90s, animation childrens comedy
+423,E.T. the Extra-Terrestrial (1982),http://us.imdb.com/M/title-exact?E%2ET%2E%20the%20Extra-Terrestrial%20%281982%29,80s, childrens drama fantasy sci-fi
+424,Children of the Corn: The Gathering (1996),http://us.imdb.com/M/title-exact?Children%20of%20the%20Corn%3A%20The%20Gathering%20%281996%29,90s, horror
+425,Bob Roberts (1992),http://us.imdb.com/M/title-exact?Bob%20Roberts%20(1992),90s, comedy
+426,"Transformers: The Movie, The (1986)","http://us.imdb.com/M/title-exact?Transformers:%20The%20Movie,%20The%20(1986)",80s, action animation childrens sci-fi thriller war
+427,To Kill a Mockingbird (1962),http://us.imdb.com/M/title-exact?To%20Kill%20a%20Mockingbird%20(1962),60s, drama
+428,Harold and Maude (1971),http://us.imdb.com/M/title-exact?Harold%20and%20Maude%20(1971),70s, comedy
+429,"Day the Earth Stood Still, The (1951)","http://us.imdb.com/M/title-exact?Day%20the%20Earth%20Stood%20Still,%20The%20(1951)",50s, drama sci-fi
+430,Duck Soup (1933),http://us.imdb.com/M/title-exact?Duck%20Soup%20(1933),30s, comedy war
+431,Highlander (1986),http://us.imdb.com/M/title-exact?Highlander%20(1986),80s, action adventure
+432,Fantasia (1940),http://us.imdb.com/M/title-exact?Fantasia%20(1940),40s, animation childrens musical
+433,Heathers (1989),http://us.imdb.com/M/title-exact?Heathers%20(1989),80s, comedy
+434,Forbidden Planet (1956),http://us.imdb.com/M/title-exact?Forbidden%20Planet%20(1956),50s, sci-fi
+435,Butch Cassidy and the Sundance Kid (1969),http://us.imdb.com/M/title-exact?Butch%20Cassidy%20and%20the%20Sundance%20Kid%20(1969),60s, action comedy western
+436,"American Werewolf in London, An (1981)","http://us.imdb.com/M/title-exact?American%20Werewolf%20in%20London,%20An%20(1981)",80s, horror
+437,Amityville 1992: It's About Time (1992),http://us.imdb.com/M/title-exact?Amityville%201992:%20It's%20About%20Time%20(1992),90s, horror
+438,Amityville 3-D (1983),http://us.imdb.com/M/title-exact?Amityville%203-D%20(1983),80s, horror
+439,Amityville: A New Generation (1993),http://us.imdb.com/M/title-exact?Amityville:%20A%20New%20Generation%20(1993),90s, horror
+440,Amityville II: The Possession (1982),http://us.imdb.com/M/title-exact?Amityville%20II:%20The%20Possession%20(1982),80s, horror
+441,"Amityville Horror, The (1979)","http://us.imdb.com/M/title-exact?Amityville%20Horror,%20The%20(1979)",70s, horror
+442,"Amityville Curse, The (1990)","http://us.imdb.com/M/title-exact?Amityville%20Curse,%20The%20(1990)",90s, horror
+443,"Birds, The (1963)","http://us.imdb.com/M/title-exact?Birds,%20The%20(1963)",60s, horror
+444,"Blob, The (1958)","http://us.imdb.com/M/title-exact?Blob,%20The%20(1958)",50s, horror sci-fi
+445,"Body Snatcher, The (1945)","http://us.imdb.com/M/title-exact?Body%20Snatcher,%20The%20(1945)",40s, horror
+446,Burnt Offerings (1976),http://us.imdb.com/M/title-exact?Burnt%20Offerings%20(1976),70s, horror
+447,Carrie (1976),http://us.imdb.com/M/title-exact?Carrie%20(1976),70s, horror
+448,"Omen, The (1976)","http://us.imdb.com/M/title-exact?Omen,%20The%20(1976)",70s, horror
+449,Star Trek: The Motion Picture (1979),http://us.imdb.com/M/title-exact?Star%20Trek:%20The%20Motion%20Picture%20(1979),70s, action adventure sci-fi
+450,Star Trek V: The Final Frontier (1989),http://us.imdb.com/M/title-exact?Star%20Trek%20V:%20The%20Final%20Frontier%20(1989),80s, action adventure sci-fi
+451,Grease (1978),http://us.imdb.com/M/title-exact?Grease%20(1978),70s, comedy musical romance
+452,Jaws 2 (1978),http://us.imdb.com/M/title-exact?Jaws%202%20(1978),70s, action horror
+453,Jaws 3-D (1983),http://us.imdb.com/M/title-exact?Jaws%203-D%20(1983),80s, action horror
+454,Bastard Out of Carolina (1996),http://us.imdb.com/M/title-exact?Bastard%20Out%20of%20Carolina%20(1996),90s, drama
+455,Jackie Chan's First Strike (1996),http://us.imdb.com/M/title-exact?Police%20Story%204:%20First%20Strike%20(1996),90s, action
+456,Beverly Hills Ninja (1997),http://us.imdb.com/M/title-exact?Beverly%20Hills%20Ninja%20(1997),90s, action comedy
+457,Free Willy 3: The Rescue (1997),http://us.imdb.com/M/title-exact?Free+Willy+3%3A+The+Rescue+(1997),90s, adventure childrens drama
+458,Nixon (1995),http://us.imdb.com/M/title-exact?Nixon%20(1995),90s, drama
+459,"Cry, the Beloved Country (1995)","http://us.imdb.com/M/title-exact?Cry,%20the%20Beloved%20Country%20(1995)",90s, drama
+460,"Crossing Guard, The (1995)","http://us.imdb.com/M/title-exact?Crossing%20Guard,%20The%20(1995)",90s, drama
+461,Smoke (1995),http://us.imdb.com/M/title-exact?Smoke%20(1995),90s, drama
+462,Like Water For Chocolate (Como agua para chocolate) (1992),http://us.imdb.com/M/title-exact?Como%20agua%20para%20chocolate%20(1992),90s, drama romance
+463,"Secret of Roan Inish, The (1994)","http://us.imdb.com/M/title-exact?Secret%20of%20Roan%20Inish,%20The%20(1994)",90s, adventure
+464,Vanya on 42nd Street (1994),http://us.imdb.com/M/title-exact?Vanya%20on%2042nd%20Street%20(1994),90s, drama
+465,"Jungle Book, The (1994)","http://us.imdb.com/M/title-exact?Jungle%20Book,%20The%20(1994)",90s, adventure childrens romance
+466,Red Rock West (1992),http://us.imdb.com/M/title-exact?Red%20Rock%20West%20(1992),90s, thriller
+467,"Bronx Tale, A (1993)","http://us.imdb.com/M/title-exact?Bronx%20Tale,%20A%20(1993)",90s, drama
+468,Rudy (1993),http://us.imdb.com/M/title-exact?Rudy%20(1993),90s, drama
+469,Short Cuts (1993),http://us.imdb.com/M/title-exact?Short%20Cuts%20(1993),90s, drama
+470,Tombstone (1993),http://us.imdb.com/M/title-exact?Tombstone%20(1993),90s, western
+471,Courage Under Fire (1996),http://us.imdb.com/M/title-exact?Courage%20Under%20Fire%20(1996),90s, drama war
+472,Dragonheart (1996),http://us.imdb.com/M/title-exact?Dragonheart%20(1996),90s, action adventure fantasy
+473,James and the Giant Peach (1996),http://us.imdb.com/M/title-exact?James%20and%20the%20Giant%20Peach%20(1996),90s, animation childrens musical
+474,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),http://us.imdb.com/M/title-exact?Dr.%20Strangelove%20or:%20How%20I%20Learned%20to%20Stop%20Worrying%20and%20Love%20the%20Bomb%20(1963),60s, sci-fi war
+475,Trainspotting (1996),http://us.imdb.com/Title?Trainspotting+(1996),90s, drama
+476,"First Wives Club, The (1996)","http://us.imdb.com/M/title-exact?First%20Wives%20Club,%20The%20(1996)",90s, comedy
+477,Matilda (1996),http://us.imdb.com/M/title-exact?Matilda%20(1996),90s, childrens comedy
+478,"Philadelphia Story, The (1940)","http://us.imdb.com/M/title-exact?Philadelphia%20Story,%20The%20(1940)",40s, comedy romance
+479,Vertigo (1958),http://us.imdb.com/M/title-exact?Vertigo%20(1958),50s, mystery thriller
+480,North by Northwest (1959),http://us.imdb.com/M/title-exact?North%20by%20Northwest%20(1959),50s, comedy thriller
+481,"Apartment, The (1960)","http://us.imdb.com/M/title-exact?Apartment,%20The%20(1960)",60s, comedy drama
+482,Some Like It Hot (1959),http://us.imdb.com/M/title-exact?Some%20Like%20It%20Hot%20(1959),50s, comedy crime
+483,Casablanca (1942),http://us.imdb.com/M/title-exact?Casablanca%20(1942),40s, drama romance war
+484,"Maltese Falcon, The (1941)","http://us.imdb.com/M/title-exact?Maltese%20Falcon,%20The%20(1941)",40s, film_noir mystery
+485,My Fair Lady (1964),http://us.imdb.com/M/title-exact?My%20Fair%20Lady%20(1964),60s, musical romance
+486,Sabrina (1954),http://us.imdb.com/M/title-exact?Sabrina%20(1954),50s, comedy romance
+487,Roman Holiday (1953),http://us.imdb.com/M/title-exact?Roman%20Holiday%20(1953),50s, comedy romance
+488,Sunset Blvd. (1950),http://us.imdb.com/M/title-exact?Sunset%20Boulevard%20(1950),50s, film_noir
+489,Notorious (1946),http://us.imdb.com/M/title-exact?Notorious%20(1946),40s, film_noir romance thriller
+490,To Catch a Thief (1955),http://us.imdb.com/M/title-exact?To%20Catch%20a%20Thief%20(1955),50s, comedy romance thriller
+491,"Adventures of Robin Hood, The (1938)","http://us.imdb.com/M/title-exact?Adventures%20of%20Robin%20Hood,%20The%20(1938)",30s, action adventure
+492,East of Eden (1955),http://us.imdb.com/M/title-exact?East%20of%20Eden%20(1955),50s, drama
+493,"Thin Man, The (1934)","http://us.imdb.com/M/title-exact?Thin%20Man,%20The%20(1934)",30s, mystery
+494,His Girl Friday (1940),http://us.imdb.com/M/title-exact?His%20Girl%20Friday%20(1940),40s, comedy
+495,Around the World in 80 Days (1956),http://us.imdb.com/M/title-exact?Around%20the%20World%20in%2080%20Days%20(1956),50s, adventure comedy
+496,It's a Wonderful Life (1946),http://us.imdb.com/M/title-exact?It's%20a%20Wonderful%20Life%20(1946),40s, drama
+497,Bringing Up Baby (1938),http://us.imdb.com/M/title-exact?Bringing%20Up%20Baby%20(1938),30s, comedy
+498,"African Queen, The (1951)","http://us.imdb.com/M/title-exact?African%20Queen,%20The%20(1951)",50s, action adventure romance war
+499,Cat on a Hot Tin Roof (1958),http://us.imdb.com/M/title-exact?Cat%20on%20a%20Hot%20Tin%20Roof%20(1958),50s, drama
+500,Fly Away Home (1996),http://us.imdb.com/M/title-exact?Fly%20Away%20Home%20(1996),90s, adventure childrens
+501,Dumbo (1941),http://us.imdb.com/M/title-exact?Dumbo%20(1941),40s, animation childrens musical
+502,Bananas (1971),http://us.imdb.com/M/title-exact?Bananas%20(1971),70s, comedy war
+503,"Candidate, The (1972)","http://us.imdb.com/M/title-exact?Candidate,%20The%20(1972)",70s, drama
+504,Bonnie and Clyde (1967),http://us.imdb.com/M/title-exact?Bonnie%20and%20Clyde%20(1967),60s, crime drama
+505,Dial M for Murder (1954),http://us.imdb.com/M/title-exact?Dial%20M%20for%20Murder%20(1954),50s, mystery thriller
+506,Rebel Without a Cause (1955),http://us.imdb.com/M/title-exact?Rebel%20Without%20a%20Cause%20(1955),50s, drama
+507,"Streetcar Named Desire, A (1951)","http://us.imdb.com/M/title-exact?Streetcar%20Named%20Desire,%20A%20(1951)",50s, drama
+508,"People vs. Larry Flynt, The (1996)","http://us.imdb.com/M/title-exact?People%20vs.%20Larry%20Flynt,%20The%20(1996)",90s, drama
+509,My Left Foot (1989),http://us.imdb.com/M/title-exact?My%20Left%20Foot%20(1989),80s, drama
+510,"Magnificent Seven, The (1954)",http://us.imdb.com/M/title-exact?Shichinin%20no%20samurai%20(1954),50s, action drama western
+511,Lawrence of Arabia (1962),http://us.imdb.com/M/title-exact?Lawrence%20of%20Arabia%20(1962),60s, adventure war
+512,Wings of Desire (1987),"http://us.imdb.com/Title?Himmel+%FCber+Berlin,+Der+(1987)",80s, comedy drama romance
+513,"Third Man, The (1949)","http://us.imdb.com/M/title-exact?Third%20Man,%20The%20(1949)",40s, mystery thriller
+514,Annie Hall (1977),http://us.imdb.com/M/title-exact?Annie%20Hall%20(1977),70s, comedy romance
+515,"Boot, Das (1981)","http://us.imdb.com/M/title-exact?Boot,%20Das%20(1981)",90s, action drama war
+516,Local Hero (1983),http://us.imdb.com/M/title-exact?Local%20Hero%20(1983),80s, comedy
+517,Manhattan (1979),http://us.imdb.com/M/title-exact?Manhattan%20(1979),70s, comedy drama romance
+518,Miller's Crossing (1990),http://us.imdb.com/M/title-exact?Miller's%20Crossing%20(1990),90s, drama
+519,"Treasure of the Sierra Madre, The (1948)","http://us.imdb.com/M/title-exact?Treasure%20of%20the%20Sierra%20Madre,%20The%20(1948)",40s, adventure
+520,"Great Escape, The (1963)","http://us.imdb.com/M/title-exact?Great%20Escape,%20The%20(1963)",60s, adventure war
+521,"Deer Hunter, The (1978)","http://us.imdb.com/M/title-exact?Deer%20Hunter,%20The%20(1978)",70s, drama war
+522,Down by Law (1986),http://us.imdb.com/M/title-exact?Down%20by%20Law%20(1986),80s, comedy drama
+523,Cool Hand Luke (1967),http://us.imdb.com/M/title-exact?Cool%20Hand%20Luke%20(1967),60s, comedy drama
+524,"Great Dictator, The (1940)","http://us.imdb.com/M/title-exact?Great%20Dictator,%20The%20(1940)",40s, comedy
+525,"Big Sleep, The (1946)","http://us.imdb.com/M/title-exact?Big%20Sleep,%20The%20(1946)",40s, film_noir mystery
+526,Ben-Hur (1959),http://us.imdb.com/M/title-exact?Ben-Hur%20(1959),50s, action adventure drama
+527,Gandhi (1982),http://us.imdb.com/M/title-exact?Gandhi%20(1982),80s, drama
+528,"Killing Fields, The (1984)","http://us.imdb.com/M/title-exact?Killing%20Fields,%20The%20(1984)",80s, drama war
+529,My Life as a Dog (Mitt liv som hund) (1985),http://us.imdb.com/M/title-exact?Mitt%20liv%20som%20hund%20(1985),80s, drama
+530,"Man Who Would Be King, The (1975)","http://us.imdb.com/M/title-exact?Man%20Who%20Would%20Be%20King,%20The%20(1975)",70s, adventure
+531,Shine (1996),http://us.imdb.com/M/title-exact?Shine%20(1996),90s, drama romance
+532,Kama Sutra: A Tale of Love (1996),http://us.imdb.com/M/title-exact?Kama%20Sutra%20(1996),90s, romance
+533,"Daytrippers, The (1996)",http://us.imdb.com/M/title-exact?Daytrippers%2C%20The%20(1996),90s, mystery
+534,Traveller (1997),http://us.imdb.com/M/title-exact?Traveller%20%281997%29,90s, drama
+535,Addicted to Love (1997),http://us.imdb.com/M/title-exact?Addicted%20to%20Love%20%281997%29,90s, comedy romance
+536,Ponette (1996),http://us.imdb.com/M/title-exact?Ponette%20%281996%29,90s, drama
+537,My Own Private Idaho (1991),http://us.imdb.com/M/title-exact?My+Own+Private+Idaho+(1991),90s, drama
+538,Anastasia (1997),http://us.imdb.com/M/title-exact?Anastasia+(1997),90s, animation childrens musical
+539,Mouse Hunt (1997),http://us.imdb.com/M/title-exact?imdb-title-119715,90s, childrens comedy
+540,Money Train (1995),http://us.imdb.com/M/title-exact?Money%20Train%20(1995),90s, action
+541,Mortal Kombat (1995),http://us.imdb.com/M/title-exact?Mortal%20Kombat%20(1995),90s, action adventure
+542,Pocahontas (1995),http://us.imdb.com/M/title-exact?Pocahontas%20(1995),90s, animation childrens musical romance
+543,"Misérables, Les (1995)",http://us.imdb.com/M/title-exact?Mis%E9rables%2C%20Les%20%281995%29,90s, drama musical
+544,Things to Do in Denver when You're Dead (1995),http://us.imdb.com/M/title-exact?Things%20to%20Do%20in%20Denver%20when%20You're%20Dead%20(1995),90s, crime drama romance
+545,Vampire in Brooklyn (1995),http://us.imdb.com/M/title-exact?Vampire%20in%20Brooklyn%20(1995),90s, comedy romance
+546,Broken Arrow (1996),http://us.imdb.com/M/title-exact?Broken%20Arrow%20(1996),90s, action thriller
+547,"Young Poisoner's Handbook, The (1995)","http://us.imdb.com/M/title-exact?Young%20Poisoner's%20Handbook,%20The%20(1995)",90s, crime
+548,"NeverEnding Story III, The (1994)","http://us.imdb.com/M/title-exact?NeverEnding%20Story%20III,%20The%20(1994)",90s, childrens fantasy
+549,Rob Roy (1995),http://us.imdb.com/M/title-exact?Rob%20Roy%20(1995),90s, drama romance war
+550,Die Hard: With a Vengeance (1995),http://us.imdb.com/M/title-exact?Die%20Hard:%20With%20a%20Vengeance%20(1995),90s, action thriller
+551,Lord of Illusions (1995),http://us.imdb.com/M/title-exact?Lord%20of%20Illusions%20(1995),90s, horror
+552,Species (1995),http://us.imdb.com/M/title-exact?Species%20(1995),90s, sci-fi
+553,"Walk in the Clouds, A (1995)","http://us.imdb.com/M/title-exact?Walk%20in%20the%20Clouds,%20A%20(1995)",90s, drama romance
+554,Waterworld (1995),http://us.imdb.com/M/title-exact?Waterworld%20(1995),90s, action adventure
+555,White Man's Burden (1995),http://us.imdb.com/M/title-exact?White%20Man's%20Burden%20(1995),90s, drama
+556,Wild Bill (1995),http://us.imdb.com/M/title-exact?Wild%20Bill%20(1995),90s, western
+557,Farinelli: il castrato (1994),http://us.imdb.com/M/title-exact?Farinelli:%20il%20castrato%20(1994),90s, drama musical
+558,Heavenly Creatures (1994),http://us.imdb.com/M/title-exact?Heavenly%20Creatures%20(1994),90s, drama fantasy thriller
+559,Interview with the Vampire (1994),http://us.imdb.com/M/title-exact?Interview%20with%20the%20Vampire%20(1994),90s, drama horror
+560,"Kid in King Arthur's Court, A (1995)","http://us.imdb.com/M/title-exact?Kid%20in%20King%20Arthur's%20Court,%20A%20(1995)",90s, adventure childrens comedy fantasy romance sci-fi
+561,Mary Shelley's Frankenstein (1994),http://us.imdb.com/M/title-exact?Mary%20Shelley's%20Frankenstein%20(1994),90s, drama horror
+562,"Quick and the Dead, The (1995)","http://us.imdb.com/M/title-exact?Quick%20and%20the%20Dead,%20The%20(1995)",90s, action adventure western
+563,Stephen King's The Langoliers (1995),"http://us.imdb.com/M/title-exact?%22Langoliers,%20The%22%20(1995)%20(mini)",90s, horror
+564,Tales from the Hood (1995),http://us.imdb.com/M/title-exact?Tales%20from%20the%20Hood%20(1995),90s, comedy horror
+565,Village of the Damned (1995),http://us.imdb.com/M/title-exact?Village%20of%20the%20Damned%20(1995),90s, horror thriller
+566,Clear and Present Danger (1994),http://us.imdb.com/M/title-exact?Clear%20and%20Present%20Danger%20(1994),90s, action adventure thriller
+567,Wes Craven's New Nightmare (1994),http://us.imdb.com/M/title-exact?Wes%20Craven's%20New%20Nightmare%20(1994),90s, horror
+568,Speed (1994),http://us.imdb.com/M/title-exact?Speed%20(1994/I),90s, action romance thriller
+569,Wolf (1994),http://us.imdb.com/M/title-exact?Wolf%20(1994),90s, drama horror
+570,Wyatt Earp (1994),http://us.imdb.com/M/title-exact?Wyatt%20Earp%20(1994),90s, western
+571,Another Stakeout (1993),http://us.imdb.com/M/title-exact?Another%20Stakeout%20(1993),90s, comedy thriller
+572,Blown Away (1994),http://us.imdb.com/M/title-exact?Blown%20Away%20(1994),90s, action thriller
+573,Body Snatchers (1993),http://us.imdb.com/M/title-exact?Body%20Snatchers%20(1993),90s, horror sci-fi thriller
+574,Boxing Helena (1993),http://us.imdb.com/M/title-exact?Boxing%20Helena%20(1993),90s, mystery romance thriller
+575,City Slickers II: The Legend of Curly's Gold (1994),http://us.imdb.com/M/title-exact?City%20Slickers%20II:%20The%20Legend%20of%20Curly's%20Gold%20(1994),90s, comedy western
+576,Cliffhanger (1993),http://us.imdb.com/M/title-exact?Cliffhanger%20(1993),90s, action adventure crime
+577,Coneheads (1993),http://us.imdb.com/M/title-exact?Coneheads%20(1993),90s, comedy sci-fi
+578,Demolition Man (1993),http://us.imdb.com/M/title-exact?Demolition%20Man%20(1993),90s, action sci-fi
+579,Fatal Instinct (1993),http://us.imdb.com/M/title-exact?Fatal%20Instinct%20(1993),90s, comedy
+580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)","http://us.imdb.com/M/title-exact?Englishman%20Who%20Went%20Up%20a%20Hill,%20But%20Came%20Down%20a%20Mountain,%20The%20(1995)",90s, comedy romance
+581,Kalifornia (1993),http://us.imdb.com/M/title-exact?Kalifornia%20(1993),90s, drama thriller
+582,"Piano, The (1993)","http://us.imdb.com/M/title-exact?Piano,%20The%20(1993)",90s, drama romance
+583,Romeo Is Bleeding (1993),http://us.imdb.com/M/title-exact?Romeo%20Is%20Bleeding%20(1993),90s, crime thriller
+584,"Secret Garden, The (1993)","http://us.imdb.com/M/title-exact?Secret%20Garden,%20The%20(1993)",90s, childrens drama
+585,Son in Law (1993),http://us.imdb.com/M/title-exact?Son%20in%20Law%20(1993),90s, comedy
+586,Terminal Velocity (1994),http://us.imdb.com/M/title-exact?Terminal%20Velocity%20(1994),90s, action
+587,"Hour of the Pig, The (1993)","http://us.imdb.com/M/title-exact?Hour%20of%20the%20Pig,%20The%20(1993)",90s, drama mystery
+588,Beauty and the Beast (1991),http://us.imdb.com/M/title-exact?Beauty%20and%20the%20Beast%20(1991),90s, animation childrens musical
+589,"Wild Bunch, The (1969)","http://us.imdb.com/M/title-exact?Wild%20Bunch,%20The%20(1969)",60s, western
+590,Hellraiser: Bloodline (1996),http://us.imdb.com/M/title-exact?Hellraiser:%20Bloodline%20(1996),90s, action horror sci-fi
+591,Primal Fear (1996),http://us.imdb.com/M/title-exact?Primal%20Fear%20(1996),90s, drama thriller
+592,True Crime (1995),http://us.imdb.com/M/title-exact?True%20Crime%20(1995),90s, mystery thriller
+593,Stalingrad (1993),http://us.imdb.com/M/title-exact?Stalingrad%20(1993),90s, war
+594,Heavy (1995),http://us.imdb.com/M/title-exact?Heavy%20(1995),90s, drama romance
+595,"Fan, The (1996)","http://us.imdb.com/M/title-exact?Fan,%20The%20(1996)",90s, thriller
+596,"Hunchback of Notre Dame, The (1996)","http://us.imdb.com/M/title-exact?Hunchback%20of%20Notre%20Dame,%20The%20(1996)",90s, animation childrens musical
+597,Eraser (1996),http://us.imdb.com/M/title-exact?Eraser%20(1996),90s, action thriller
+598,"Big Squeeze, The (1996)","http://us.imdb.com/M/title-exact?Big%20Squeeze,%20The%20(1996)",90s, comedy drama
+599,Police Story 4: Project S (Chao ji ji hua) (1993),http://us.imdb.com/M/title-exact?Project%20S%20(1993),90s, action
+600,Daniel Defoe's Robinson Crusoe (1996),http://us.imdb.com/M/title-exact?Robinson%20Crusoe%20(1996),90s, childrens
+601,For Whom the Bell Tolls (1943),http://us.imdb.com/M/title-exact?For%20Whom%20the%20Bell%20Tolls%20(1943),40s, adventure war
+602,"American in Paris, An (1951)","http://us.imdb.com/M/title-exact?American%20in%20Paris,%20An%20(1951)",50s, musical romance
+603,Rear Window (1954),http://us.imdb.com/M/title-exact?Rear%20Window%20(1954),50s, mystery thriller
+604,It Happened One Night (1934),http://us.imdb.com/M/title-exact?It%20Happened%20One%20Night%20(1934),30s, comedy
+605,Meet Me in St. Louis (1944),http://us.imdb.com/M/title-exact?Meet%20Me%20in%20St.%20Louis%20(1944),40s, musical
+606,All About Eve (1950),http://us.imdb.com/M/title-exact?All%20About%20Eve%20(1950),50s, drama
+607,Rebecca (1940),http://us.imdb.com/M/title-exact?Rebecca%20(1940),40s, romance thriller
+608,Spellbound (1945),http://us.imdb.com/M/title-exact?Spellbound%20(1945),40s, mystery romance thriller
+609,Father of the Bride (1950),http://us.imdb.com/M/title-exact?Father%20of%20the%20Bride%20(1950),50s, comedy
+610,Gigi (1958),http://us.imdb.com/M/title-exact?Gigi%20(1958),50s, musical
+611,Laura (1944),http://us.imdb.com/M/title-exact?Laura%20(1944),40s, crime film_noir mystery
+612,Lost Horizon (1937),http://us.imdb.com/M/title-exact?Lost%20Horizon%20(1937),30s, drama
+613,My Man Godfrey (1936),http://us.imdb.com/M/title-exact?My%20Man%20Godfrey%20(1936),30s, comedy
+614,Giant (1956),http://us.imdb.com/M/title-exact?Giant%20(1956),50s, drama
+615,"39 Steps, The (1935)","http://us.imdb.com/M/title-exact?39%20Steps,%20The%20(1935)",30s, thriller
+616,Night of the Living Dead (1968),http://us.imdb.com/M/title-exact?Night%20of%20the%20Living%20Dead%20(1968),60s, horror sci-fi
+617,"Blue Angel, The (Blaue Engel, Der) (1930)","http://us.imdb.com/M/title-exact?Blaue%20Engel,%20Der%20(1930)",30s, drama
+618,Picnic (1955),http://us.imdb.com/M/title-exact?Picnic%20(1955),50s, drama
+619,Extreme Measures (1996),http://us.imdb.com/M/title-exact?Extreme%20Measures%20(1996),90s, drama thriller
+620,"Chamber, The (1996)","http://us.imdb.com/M/title-exact?Chamber,%20The%20(1996)",90s, drama
+621,"Davy Crockett, King of the Wild Frontier (1955)",http://us.imdb.com/M/title-exact?Davy%20Crockett%2C%20King%20of%20the%20Wild%20Frontier%20%281955%29,50s, western
+622,Swiss Family Robinson (1960),http://us.imdb.com/M/title-exact?Swiss%20Family%20Robinson%20(1960),60s, adventure childrens
+623,Angels in the Outfield (1994),http://us.imdb.com/M/title-exact?Angels%20in%20the%20Outfield%20(1994),90s, childrens comedy
+624,"Three Caballeros, The (1945)","http://us.imdb.com/M/title-exact?Three%20Caballeros,%20The%20(1945)",40s, animation childrens musical
+625,"Sword in the Stone, The (1963)","http://us.imdb.com/M/title-exact?Sword%20in%20the%20Stone,%20The%20(1963)",60s, animation childrens
+626,So Dear to My Heart (1949),http://us.imdb.com/Title?So+Dear+to+My+Heart+(1949),40s, childrens drama
+627,Robin Hood: Prince of Thieves (1991),http://us.imdb.com/Title?Robin+Hood%3A+Prince+of+Thieves+(1991),90s, drama
+628,Sleepers (1996),http://us.imdb.com/M/title-exact?Sleepers%20(1996),90s, crime drama
+629,Victor/Victoria (1982),http://us.imdb.com/M/title-exact?Victor/Victoria%20%281982%29,80s, comedy musical
+630,"Great Race, The (1965)","http://us.imdb.com/M/title-exact?Great%20Race,%20The%20(1965)",60s, comedy musical
+631,"Crying Game, The (1992)","http://us.imdb.com/M/title-exact?Crying%20Game,%20The%20(1992)",90s, action drama romance war
+632,Sophie's Choice (1982),http://us.imdb.com/M/title-exact?Sophie's%20Choice%20(1982),80s, drama
+633,"Christmas Carol, A (1938)","http://us.imdb.com/M/title-exact?Christmas%20Carol,%20A%20(1938)",30s, drama
+634,Microcosmos: Le peuple de l'herbe (1996),http://us.imdb.com/M/title-exact?Microcosmos%3A%20Le%20peuple%20de%20l%27herbe%20%281996%29,90s, documentary
+635,"Fog, The (1980)","http://us.imdb.com/M/title-exact?Fog,%20The%20(1980)",80s, horror
+636,Escape from New York (1981),http://us.imdb.com/M/title-exact?Escape%20from%20New%20York%20(1981),80s, action adventure sci-fi thriller
+637,"Howling, The (1981)","http://us.imdb.com/M/title-exact?Howling,%20The%20(1981)",80s, comedy horror
+638,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)","http://us.imdb.com/M/title-exact?Retour%20de%20Martin%20Guerre,%20Le%20(1982)",80s, drama
+639,"Tin Drum, The (Blechtrommel, Die) (1979)","http://us.imdb.com/M/title-exact?Blechtrommel,%20Die%20(1979)",70s, drama
+640,"Cook the Thief His Wife & Her Lover, The (1989)","http://us.imdb.com/M/title-exact?Cook%20the%20Thief%20His%20Wife%20&%20Her%20Lover,%20The%20(1989)",80s, drama
+641,Paths of Glory (1957),http://us.imdb.com/M/title-exact?Paths%20of%20Glory%20(1957),50s, drama war
+642,"Grifters, The (1990)","http://us.imdb.com/M/title-exact?Grifters,%20The%20(1990)",90s, crime drama film_noir
+643,The Innocent (1994),"http://us.imdb.com/M/title-exact?Innocent,%20The%20(1994)%20(TV)",90s, drama romance
+644,"Thin Blue Line, The (1988)","http://us.imdb.com/M/title-exact?Thin%20Blue%20Line,%20The%20(1988)",80s, documentary
+645,Paris Is Burning (1990),http://us.imdb.com/M/title-exact?Paris%20Is%20Burning%20(1990),90s, documentary
+646,Once Upon a Time in the West (1969),http://us.imdb.com/M/title-exact?C'era%20una%20volta%20il%20west%20(1969),60s, western
+647,Ran (1985),http://us.imdb.com/M/title-exact?Ran%20(1985),80s, drama war
+648,"Quiet Man, The (1952)","http://us.imdb.com/M/title-exact?Quiet%20Man,%20The%20(1952)",50s, comedy romance
+649,Once Upon a Time in America (1984),http://us.imdb.com/M/title-exact?Once%20Upon%20a%20Time%20in%20America%20(1984),80s, crime drama thriller
+650,"Seventh Seal, The (Sjunde inseglet, Det) (1957)","http://us.imdb.com/M/title-exact?Sjunde%20inseglet,%20Det%20(1957)",50s, drama
+651,Glory (1989),http://us.imdb.com/M/title-exact?Glory%20(1989),80s, action drama war
+652,Rosencrantz and Guildenstern Are Dead (1990),http://us.imdb.com/M/title-exact?Rosencrantz%20and%20Guildenstern%20Are%20Dead%20(1990),90s, comedy drama
+653,Touch of Evil (1958),http://us.imdb.com/M/title-exact?Touch%20of%20Evil%20(1958),50s, crime film_noir thriller
+654,Chinatown (1974),http://us.imdb.com/M/title-exact?Chinatown%20(1974),70s, film_noir mystery thriller
+655,Stand by Me (1986),http://us.imdb.com/M/title-exact?Stand%20by%20Me%20(1986),80s, adventure comedy drama
+656,M (1931),http://us.imdb.com/M/title-exact?M%20(1931),30s, crime film_noir thriller
+657,"Manchurian Candidate, The (1962)","http://us.imdb.com/M/title-exact?Manchurian%20Candidate,%20The%20(1962)",60s, film_noir thriller
+658,Pump Up the Volume (1990),http://us.imdb.com/M/title-exact?Pump%20Up%20the%20Volume%20(1990),90s, drama
+659,Arsenic and Old Lace (1944),http://us.imdb.com/M/title-exact?Arsenic%20and%20Old%20Lace%20(1944),40s, comedy mystery thriller
+660,Fried Green Tomatoes (1991),http://us.imdb.com/M/title-exact?Fried%20Green%20Tomatoes%20at%20the%20Whistle%20Stop%20Cafe%20(1991),90s, drama
+661,High Noon (1952),http://us.imdb.com/M/title-exact?High%20Noon%20(1952),50s, western
+662,Somewhere in Time (1980),http://us.imdb.com/M/title-exact?Somewhere%20in%20Time%20(1980),80s, drama romance
+663,Being There (1979),http://us.imdb.com/M/title-exact?Being%20There%20(1979),70s, comedy
+664,"Paris, Texas (1984)","http://us.imdb.com/M/title-exact?Paris,%20Texas%20(1984)",80s, drama
+665,Alien 3 (1992),http://us.imdb.com/M/title-exact?Alien%203%20(1992),90s, action horror sci-fi thriller
+666,Blood For Dracula (Andy Warhol's Dracula) (1974),http://us.imdb.com/M/title-exact?Andy%20Warhol's%20Dracula%20(1974),70s, horror
+667,Audrey Rose (1977),http://us.imdb.com/M/title-exact?Audrey%20Rose%20(1977),70s, horror
+668,Blood Beach (1981),http://us.imdb.com/M/title-exact?Blood%20Beach%20(1981),80s, action horror
+669,Body Parts (1991),http://us.imdb.com/M/title-exact?Body%20Parts%20(1991),90s, horror
+670,Body Snatchers (1993),http://us.imdb.com/M/title-exact?Body%20Snatchers%20(1993),90s, horror sci-fi thriller
+671,Bride of Frankenstein (1935),http://us.imdb.com/M/title-exact?Bride%20of%20Frankenstein%20(1935),30s, horror
+672,Candyman (1992),http://us.imdb.com/M/title-exact?Candyman%20(1992),90s, horror
+673,Cape Fear (1962),http://us.imdb.com/M/title-exact?Cape%20Fear%20(1962),60s, film_noir thriller
+674,Cat People (1982),http://us.imdb.com/M/title-exact?Cat%20People%20(1982),80s, horror
+675,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)","http://us.imdb.com/M/title-exact?Nosferatu,%20eine%20Symphonie%20des%20Grauens%20(1922)",20s, horror
+676,"Crucible, The (1996)","http://us.imdb.com/M/title-exact?Crucible,%20The%20(1996)",90s, drama
+677,Fire on the Mountain (1996),http://us.imdb.com/M/title-exact?Fire%20on%20the%20Mountain%20(1996),90s, documentary
+678,Volcano (1997),http://us.imdb.com/M/title-exact?Volcano%20%281997%29,90s, drama thriller
+679,Conan the Barbarian (1981),http://us.imdb.com/M/title-exact?Conan+the+Barbarian+(1981),80s, action adventure
+680,Kull the Conqueror (1997),http://us.imdb.com/M/title-exact?Kull+the+Conqueror+(1997),90s, action adventure
+681,Wishmaster (1997),http://us.imdb.com/M/title-exact?Wishmaster+(1997),90s, horror
+682,I Know What You Did Last Summer (1997),http://us.imdb.com/M/title-exact?I+Know+What+You+Did+Last+Summer+(1997),90s, horror mystery thriller
+683,Rocket Man (1997),http://us.imdb.com/M/title-exact?Rocket+Man+(1997),90s, comedy
+684,In the Line of Fire (1993),http://us.imdb.com/M/title-exact?In%20the%20Line%20of%20Fire%20(1993),90s, action thriller
+685,Executive Decision (1996),http://us.imdb.com/M/title-exact?Executive%20Decision%20(1996),90s, action thriller
+686,"Perfect World, A (1993)","http://us.imdb.com/M/title-exact?Perfect%20World,%20A%20(1993)",90s, action drama
+687,McHale's Navy (1997),http://us.imdb.com/M/title-exact?McHale's%20Navy%20(1997),90s, comedy war
+688,Leave It to Beaver (1997),http://us.imdb.com/M/title-exact?Leave+It+To+Beaver+(1997),90s, comedy
+689,"Jackal, The (1997)",http://us.imdb.com/M/title-exact?Jackal%2C+The+(1997),90s, action thriller
+690,Seven Years in Tibet (1997),http://us.imdb.com/M/title-exact?Seven+Years+in+Tibet+(1997),90s, drama war
+691,Dark City (1998),http://us.imdb.com/M/title-exact?imdb-title-118929,90s, film_noir sci-fi thriller
+692,"American President, The (1995)","http://us.imdb.com/M/title-exact?American%20President,%20The%20(1995)",90s, comedy drama romance
+693,Casino (1995),http://us.imdb.com/M/title-exact?Casino%20(1995),90s, drama
+694,Persuasion (1995),http://us.imdb.com/Title?Persuasion+(1995/I),90s, romance
+695,Kicking and Screaming (1995),http://us.imdb.com/M/title-exact?Kicking%20and%20Screaming%20(1995),90s, comedy drama
+696,City Hall (1996),http://us.imdb.com/M/title-exact?City%20Hall%20(1996),90s, drama thriller
+697,"Basketball Diaries, The (1995)","http://us.imdb.com/M/title-exact?Basketball%20Diaries,%20The%20(1995)",90s, drama
+698,"Browning Version, The (1994)","http://us.imdb.com/M/title-exact?Browning%20Version,%20The%20(1994)",90s, drama
+699,Little Women (1994),http://us.imdb.com/M/title-exact?Little%20Women%20(1994),90s, drama
+700,Miami Rhapsody (1995),http://us.imdb.com/M/title-exact?Miami%20Rhapsody%20(1995),90s, comedy
+701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)","http://us.imdb.com/M/title-exact?Macht%20der%20Bilder:%20Leni%20Riefenstahl,%20Die%20(1993)",90s, documentary
+702,Barcelona (1994),http://us.imdb.com/M/title-exact?Barcelona%20(1994),90s, comedy romance
+703,Widows' Peak (1994),http://us.imdb.com/M/title-exact?Widows'%20Peak%20(1994),90s, drama
+704,"House of the Spirits, The (1993)","http://us.imdb.com/M/title-exact?House%20of%20the%20Spirits,%20The%20(1993)",90s, drama romance
+705,Singin' in the Rain (1952),http://us.imdb.com/M/title-exact?Singin'%20in%20the%20Rain%20(1952),50s, musical romance
+706,Bad Moon (1996),http://us.imdb.com/M/title-exact?Bad%20Moon%20(1996),90s, horror
+707,Enchanted April (1991),http://us.imdb.com/M/title-exact?Enchanted%20April%20(1991),90s, drama
+708,"Sex, Lies, and Videotape (1989)","http://us.imdb.com/M/title-exact?sex,%20lies,%20and%20videotape%20(1989)",80s, drama
+709,Strictly Ballroom (1992),http://us.imdb.com/M/title-exact?Strictly%20Ballroom%20(1992),90s, comedy romance
+710,Better Off Dead... (1985),http://us.imdb.com/Title?Better+Off+Dead...+(1985),80s, comedy
+711,"Substance of Fire, The (1996)","http://us.imdb.com/M/title-exact?Substance%20of%20Fire,%20The%20(1996)",90s, drama
+712,Tin Men (1987),http://us.imdb.com/M/title-exact?Tin%20Men%20(1987),80s, comedy drama
+713,Othello (1995),http://us.imdb.com/M/title-exact?Othello%20(1995),90s, drama
+714,Carrington (1995),http://us.imdb.com/M/title-exact?Carrington%20(1995),90s, drama romance
+715,To Die For (1995),http://us.imdb.com/M/title-exact?To%20Die%20For%20(1995),90s, comedy drama
+716,Home for the Holidays (1995),http://us.imdb.com/M/title-exact?Home%20for%20the%20Holidays%20(1995),90s, drama romance
+717,"Juror, The (1996)","http://us.imdb.com/M/title-exact?Juror,%20The%20(1996)",90s, drama thriller
+718,In the Bleak Midwinter (1995),http://us.imdb.com/M/title-exact?In%20the%20Bleak%20Midwinter%20(1995),90s, comedy
+719,Canadian Bacon (1994),http://us.imdb.com/M/title-exact?Canadian%20Bacon%20(1994),90s, comedy war
+720,First Knight (1995),http://us.imdb.com/M/title-exact?First%20Knight%20(1995),90s, action adventure drama romance
+721,Mallrats (1995),http://us.imdb.com/M/title-exact?Mallrats%20(1995),90s, comedy
+722,Nine Months (1995),http://us.imdb.com/M/title-exact?Nine%20Months%20(1995),90s, comedy
+723,Boys on the Side (1995),http://us.imdb.com/M/title-exact?Boys%20on%20the%20Side%20(1995),90s, comedy drama
+724,Circle of Friends (1995),http://us.imdb.com/M/title-exact?Circle%20of%20Friends%20(1995),90s, drama romance
+725,Exit to Eden (1994),http://us.imdb.com/M/title-exact?Exit%20to%20Eden%20(1994),90s, comedy
+726,Fluke (1995),http://us.imdb.com/M/title-exact?Fluke%20(1995),90s, childrens drama
+727,Immortal Beloved (1994),http://us.imdb.com/M/title-exact?Immortal%20Beloved%20(1994),90s, drama romance
+728,Junior (1994),http://us.imdb.com/M/title-exact?Junior%20(1994),90s, comedy sci-fi
+729,Nell (1994),http://us.imdb.com/M/title-exact?Nell%20(1994),90s, drama
+730,"Queen Margot (Reine Margot, La) (1994)","http://us.imdb.com/Title?Reine+Margot,+La+(1994)",90s, drama romance
+731,"Corrina, Corrina (1994)","http://us.imdb.com/M/title-exact?Corrina,%20Corrina%20(1994)",90s, comedy drama romance
+732,Dave (1993),http://us.imdb.com/M/title-exact?Dave%20(1993),90s, comedy romance
+733,Go Fish (1994),http://us.imdb.com/M/title-exact?Go%20Fish%20(1994),90s, drama romance
+734,Made in America (1993),http://us.imdb.com/M/title-exact?Made%20in%20America%20(1993),90s, comedy
+735,Philadelphia (1993),http://us.imdb.com/M/title-exact?Philadelphia%20(1993),90s, drama
+736,Shadowlands (1993),http://us.imdb.com/M/title-exact?Shadowlands%20(1993),90s, drama romance
+737,Sirens (1994),http://us.imdb.com/M/title-exact?Sirens%20(1994),90s, comedy drama
+738,Threesome (1994),http://us.imdb.com/M/title-exact?Threesome%20(1994),90s, comedy romance
+739,Pretty Woman (1990),http://us.imdb.com/M/title-exact?Pretty%20Woman%20(1990),90s, comedy romance
+740,Jane Eyre (1996),http://us.imdb.com/M/title-exact?Jane%20Eyre%20(1996),90s, drama romance
+741,"Last Supper, The (1995)","http://us.imdb.com/M/title-exact?Last%20Supper,%20The%20(1995)",90s, drama thriller
+742,Ransom (1996),http://us.imdb.com/M/title-exact?Ransom%20(1996),90s, drama thriller
+743,"Crow: City of Angels, The (1996)",http://us.imdb.com/M/title-exact?Crow%3A%20City%20of%20Angels%2C%20The%20%281996%29,90s, action thriller
+744,Michael Collins (1996),http://us.imdb.com/M/title-exact?Michael%20Collins%20(1996),90s, drama war
+745,"Ruling Class, The (1972)","http://us.imdb.com/M/title-exact?Ruling%20Class,%20The%20(1972)",70s, comedy
+746,Real Genius (1985),http://us.imdb.com/M/title-exact?Real%20Genius%20(1985),80s, comedy
+747,Benny & Joon (1993),http://us.imdb.com/M/title-exact?Benny%20&%20Joon%20(1993),90s, comedy romance
+748,"Saint, The (1997)",http://us.imdb.com/M/title-exact?Saint%2C%20The%20(1997),90s, action romance thriller
+749,"MatchMaker, The (1997)",http://us.imdb.com/M/title-exact?Matchmaker%2C+The+(1997),90s, comedy romance
+750,Amistad (1997),http://us.imdb.com/M/title-exact?imdb-title-118607,90s, drama
+751,Tomorrow Never Dies (1997),http://us.imdb.com/M/title-exact?imdb-title-120347,90s, action romance thriller
+752,"Replacement Killers, The (1998)",http://us.imdb.com/M/title-exact?Replacement+Killers%2C+The+(1998),90s, action thriller
+753,Burnt By the Sun (1994),http://us.imdb.com/M/title-exact?Utomlyonnye%20Solntsem%20(1994),90s, drama
+754,Red Corner (1997),http://us.imdb.com/M/title-exact?Red+Corner+(1997),90s, crime thriller
+755,Jumanji (1995),http://us.imdb.com/M/title-exact?Jumanji%20(1995),90s, action adventure childrens fantasy sci-fi
+756,Father of the Bride Part II (1995),http://us.imdb.com/M/title-exact?Father%20of%20the%20Bride%20Part%20II%20(1995),90s, comedy
+757,Across the Sea of Time (1995),http://us.imdb.com/M/title-exact?Across%20The%20Sea%20of%20Time%20(1995),90s, documentary
+758,Lawnmower Man 2: Beyond Cyberspace (1996),http://us.imdb.com/M/title-exact?Lawnmower%20Man%202:%20Beyond%20Cyberspace%20(1996),90s, sci-fi thriller
+759,Fair Game (1995),http://us.imdb.com/M/title-exact?Fair%20Game%20(1995),90s, action
+760,Screamers (1995),http://us.imdb.com/M/title-exact?Screamers%20(1995),90s, sci-fi
+761,Nick of Time (1995),http://us.imdb.com/M/title-exact?Nick%20of%20Time%20(1995),90s, action thriller
+762,Beautiful Girls (1996),http://us.imdb.com/M/title-exact?Beautiful%20Girls%20(1996),90s, drama
+763,Happy Gilmore (1996),http://us.imdb.com/M/title-exact?Happy%20Gilmore%20(1996),90s, comedy
+764,If Lucy Fell (1996),http://us.imdb.com/M/title-exact?If%20Lucy%20Fell%20(1996),90s, comedy romance
+765,Boomerang (1992),http://us.imdb.com/M/title-exact?Boomerang%20(1992),90s, comedy romance
+766,Man of the Year (1995),http://us.imdb.com/M/title-exact?Man%20of%20the%20Year%20(1995),90s, documentary
+767,"Addiction, The (1995)","http://us.imdb.com/M/title-exact?Addiction,%20The%20(1995)",90s, horror
+768,Casper (1995),http://us.imdb.com/M/title-exact?Casper%20(1995),90s, adventure childrens
+769,Congo (1995),http://us.imdb.com/M/title-exact?Congo%20(1995),90s, action adventure mystery sci-fi
+770,Devil in a Blue Dress (1995),http://us.imdb.com/M/title-exact?Devil%20in%20a%20Blue%20Dress%20(1995),90s, crime film_noir mystery thriller
+771,Johnny Mnemonic (1995),http://us.imdb.com/M/title-exact?Johnny%20Mnemonic%20(1995),90s, action sci-fi thriller
+772,Kids (1995),http://us.imdb.com/M/title-exact?Kids%20(1995),90s, drama
+773,Mute Witness (1994),http://us.imdb.com/M/title-exact?Mute%20Witness%20(1994),90s, thriller
+774,"Prophecy, The (1995)","http://us.imdb.com/M/title-exact?Prophecy,%20The%20(1995)",90s, horror
+775,Something to Talk About (1995),http://us.imdb.com/M/title-exact?Something%20to%20Talk%20About%20(1995),90s, comedy drama romance
+776,Three Wishes (1995),http://us.imdb.com/M/title-exact?Three%20Wishes%20(1995),90s, drama
+777,Castle Freak (1995),http://us.imdb.com/M/title-exact?Castle%20Freak%20(1995),90s, horror
+778,Don Juan DeMarco (1995),http://us.imdb.com/M/title-exact?Don%20Juan%20DeMarco%20and%20the%20Centerfold%20(1995),90s, comedy drama romance
+779,Drop Zone (1994),http://us.imdb.com/M/title-exact?Drop%20Zone%20(1994),90s, action
+780,Dumb & Dumber (1994),http://us.imdb.com/M/title-exact?Dumb%20&%20Dumber%20(1994),90s, comedy
+781,French Kiss (1995),http://us.imdb.com/M/title-exact?French%20Kiss%20(1995),90s, comedy romance
+782,Little Odessa (1994),http://us.imdb.com/M/title-exact?Little%20Odessa%20(1994),90s, drama
+783,Milk Money (1994),http://us.imdb.com/M/title-exact?Milk%20Money%20(1994),90s, comedy romance
+784,Beyond Bedlam (1993),http://us.imdb.com/Title?Beyond+Bedlam+(1993),90s, drama horror
+785,Only You (1994),http://us.imdb.com/M/title-exact?Only%20You%20(1994),90s, comedy romance
+786,"Perez Family, The (1995)","http://us.imdb.com/M/title-exact?Perez%20Family,%20The%20(1995)",90s, comedy romance
+787,Roommates (1995),http://us.imdb.com/M/title-exact?Roommates%20(1995),90s, comedy drama
+788,Relative Fear (1994),http://us.imdb.com/M/title-exact?Relative%20Fear%20(1994),90s, horror thriller
+789,Swimming with Sharks (1995),http://us.imdb.com/M/title-exact?Swimming%20with%20Sharks%20(1995),90s, comedy drama
+790,Tommy Boy (1995),http://us.imdb.com/M/title-exact?Tommy%20Boy%20(1995),90s, comedy
+791,"Baby-Sitters Club, The (1995)","http://us.imdb.com/M/title-exact?Baby-Sitters%20Club,%20The%20(1995)",90s, childrens
+792,Bullets Over Broadway (1994),http://us.imdb.com/M/title-exact?Bullets%20Over%20Broadway%20(1994),90s, comedy
+793,Crooklyn (1994),http://us.imdb.com/M/title-exact?Crooklyn%20(1994),90s, comedy
+794,It Could Happen to You (1994),http://us.imdb.com/M/title-exact?It%20Could%20Happen%20to%20You%20(1994),90s, drama romance
+795,Richie Rich (1994),http://us.imdb.com/M/title-exact?Richie%20Rich%20(1994),90s, childrens comedy
+796,Speechless (1994),http://us.imdb.com/M/title-exact?Speechless%20(1994),90s, comedy romance
+797,Timecop (1994),http://us.imdb.com/M/title-exact?Timecop%20(1994),90s, action sci-fi
+798,Bad Company (1995),http://us.imdb.com/M/title-exact?Bad%20Company%20(1995),90s, action
+799,Boys Life (1995),http://us.imdb.com/M/title-exact?Boys%20Life%20(1995),90s, drama
+800,In the Mouth of Madness (1995),http://us.imdb.com/M/title-exact?In%20the%20Mouth%20of%20Madness%20(1995),90s, horror thriller
+801,"Air Up There, The (1994)","http://us.imdb.com/M/title-exact?Air%20Up%20There,%20The%20(1994)",90s, comedy
+802,Hard Target (1993),http://us.imdb.com/M/title-exact?Hard%20Target%20(1993),90s, action adventure crime thriller
+803,Heaven & Earth (1993),http://us.imdb.com/M/title-exact?Heaven%20&%20Earth%20(1993),90s, action drama war
+804,Jimmy Hollywood (1994),http://us.imdb.com/M/title-exact?Jimmy%20Hollywood%20(1994),90s, comedy
+805,Manhattan Murder Mystery (1993),http://us.imdb.com/M/title-exact?Manhattan%20Murder%20Mystery%20(1993),90s, comedy mystery
+806,Menace II Society (1993),http://us.imdb.com/M/title-exact?Menace%20II%20Society%20(1993),90s, action crime drama
+807,Poetic Justice (1993),http://us.imdb.com/M/title-exact?Poetic%20Justice%20(1993),90s, drama
+808,"Program, The (1993)","http://us.imdb.com/M/title-exact?Program,%20The%20(1993)",90s, action drama
+809,Rising Sun (1993),http://us.imdb.com/M/title-exact?Rising%20Sun%20(1993),90s, action drama mystery
+810,"Shadow, The (1994)","http://us.imdb.com/M/title-exact?Shadow,%20The%20(1994)",90s, action
+811,Thirty-Two Short Films About Glenn Gould (1993),http://us.imdb.com/M/title-exact?Thirty-Two%20Short%20Films%20About%20Glenn%20Gould%20(1993),90s, documentary
+812,Andre (1994),http://us.imdb.com/M/title-exact?Andre%20(1994),90s, adventure childrens
+813,"Celluloid Closet, The (1995)","http://us.imdb.com/M/title-exact?Celluloid%20Closet,%20The%20(1995)",90s, documentary
+814,"Great Day in Harlem, A (1994)","http://us.imdb.com/M/title-exact?Great%20Day%20in%20Harlem,%20A%20(1994)",90s, documentary
+815,One Fine Day (1996),http://us.imdb.com/M/title-exact?One%20Fine%20Day%20(1996),90s, drama romance
+816,Candyman: Farewell to the Flesh (1995),http://us.imdb.com/M/title-exact?Candyman:%20Farewell%20to%20the%20Flesh%20(1995),90s, horror
+817,Frisk (1995),http://us.imdb.com/M/title-exact?Frisk%20(1995),90s, drama
+818,Girl 6 (1996),http://us.imdb.com/M/title-exact?Girl%206%20(1996),90s, comedy
+819,Eddie (1996),http://us.imdb.com/M/title-exact?Eddie%20(1996),90s, comedy
+820,Space Jam (1996),http://us.imdb.com/M/title-exact?Space%20Jam%20(1996),90s, adventure animation childrens comedy fantasy
+821,Mrs. Winterbourne (1996),http://us.imdb.com/M/title-exact?Mrs.%20Winterbourne%20(1996),90s, comedy romance
+822,Faces (1968),http://us.imdb.com/M/title-exact?Faces%20(1968),60s, drama
+823,Mulholland Falls (1996),http://us.imdb.com/M/title-exact?Mulholland%20Falls%20(1996),90s, crime film_noir thriller
+824,"Great White Hype, The (1996)","http://us.imdb.com/M/title-exact?Great%20White%20Hype,%20The%20(1996)",90s, comedy
+825,"Arrival, The (1996)","http://us.imdb.com/M/title-exact?Arrival,%20The%20(1996)",90s, action sci-fi thriller
+826,"Phantom, The (1996)","http://us.imdb.com/M/title-exact?Phantom,%20The%20(1996)",90s, adventure
+827,Daylight (1996),http://us.imdb.com/M/title-exact?Daylight%20(1996),90s, action adventure thriller
+828,Alaska (1996),http://us.imdb.com/M/title-exact?Alaska%20(1996),90s, adventure childrens
+829,Fled (1996),http://us.imdb.com/M/title-exact?Fled%20(1996),90s, action adventure
+830,Power 98 (1995),http://us.imdb.com/M/title-exact?Power%2098%20(1995),90s, action mystery thriller
+831,Escape from L.A. (1996),http://us.imdb.com/M/title-exact?Escape%20from%20L.A.%20(1996),90s, action adventure sci-fi thriller
+832,Bogus (1996),http://us.imdb.com/M/title-exact?Bogus%20(1996),90s, childrens drama fantasy
+833,Bulletproof (1996),http://us.imdb.com/M/title-exact?Bulletproof%20(1996),90s, action
+834,Halloween: The Curse of Michael Myers (1995),http://us.imdb.com/M/title-exact?Halloween:%20The%20Curse%20of%20Michael%20Myers%20(1995),90s, horror thriller
+835,"Gay Divorcee, The (1934)",http://us.imdb.com/M/title-exact?Gay%20Divorcee%2C%20The%20%281934%29,30s, comedy musical romance
+836,Ninotchka (1939),http://us.imdb.com/M/title-exact?Ninotchka%20(1939),30s, comedy romance
+837,Meet John Doe (1941),http://us.imdb.com/M/title-exact?Meet%20John%20Doe%20(1941),40s, drama
+838,In the Line of Duty 2 (1987),http://us.imdb.com/M/title-exact?In%20the%20Line%20of%20Duty%202%20(1987),90s, action
+839,Loch Ness (1995),http://us.imdb.com/M/title-exact?Loch%20Ness%20(1995),90s, horror thriller
+840,Last Man Standing (1996),http://us.imdb.com/M/title-exact?Last%20Man%20Standing%20(1996/I),90s, action drama western
+841,"Glimmer Man, The (1996)","http://us.imdb.com/M/title-exact?Glimmer%20Man,%20The%20(1996)",90s, action thriller
+842,Pollyanna (1960),http://us.imdb.com/M/title-exact?Pollyanna%20(1960),60s, childrens comedy drama
+843,"Shaggy Dog, The (1959)","http://us.imdb.com/M/title-exact?Shaggy%20Dog,%20The%20(1959)",50s, childrens comedy
+844,Freeway (1996),http://us.imdb.com/M/title-exact?Freeway%20(1996),90s, crime
+845,That Thing You Do! (1996),http://us.imdb.com/M/title-exact?That%20Thing%20You%20Do!%20(1996),90s, comedy
+846,To Gillian on Her 37th Birthday (1996),http://us.imdb.com/M/title-exact?To%20Gillian%20on%20Her%2037th%20Birthday%20(1996),90s, drama romance
+847,Looking for Richard (1996),http://us.imdb.com/M/title-exact?Looking%20for%20Richard%20(1996),90s, documentary drama
+848,"Murder, My Sweet (1944)","http://us.imdb.com/M/title-exact?Murder,%20My%20Sweet%20(1944)",40s, film_noir thriller
+849,Days of Thunder (1990),http://us.imdb.com/M/title-exact?Days%20of%20Thunder%20(1990),90s, action romance
+850,"Perfect Candidate, A (1996)","http://us.imdb.com/M/title-exact?Perfect%20Candidate,%20A%20(1996)",90s, documentary
+851,Two or Three Things I Know About Her (1966),http://us.imdb.com/M/title-exact?Deux%20ou%20trois%20choses%20que%20je%20sais%20d'elle%20(1966),60s, drama
+852,"Bloody Child, The (1996)",http://us.imdb.com/M/title-exact?Bloody%20Child%2C%20The%20%281996%29,90s, drama thriller
+853,Braindead (1992),http://us.imdb.com/M/title-exact?Braindead%20(1992),90s, comedy horror
+854,Bad Taste (1987),http://us.imdb.com/M/title-exact?Bad%20Taste%20(1987),80s, comedy horror
+855,Diva (1981),http://us.imdb.com/M/title-exact?Diva%20(1981),80s, action drama mystery romance thriller
+856,Night on Earth (1991),http://us.imdb.com/M/title-exact?Night%20on%20Earth%20(1991),90s, comedy drama
+857,Paris Was a Woman (1995),http://us.imdb.com/M/title-exact?Paris%20Was%20a%20Woman%20(1995),90s, documentary
+858,Amityville: Dollhouse (1996),http://us.imdb.com/M/title-exact?Amityville:%20Dollhouse%20(1996),90s, horror
+859,April Fool's Day (1986),http://us.imdb.com/M/title-exact?April%20Fool's%20Day%20(1986),80s, comedy horror
+860,"Believers, The (1987)","http://us.imdb.com/M/title-exact?Believers,%20The%20(1987)",80s, horror thriller
+861,Nosferatu a Venezia (1986),http://us.imdb.com/M/title-exact?Nosferatu%20a%20Venezia%20(1986),80s, horror
+862,Jingle All the Way (1996),http://us.imdb.com/M/title-exact?Jingle%20All%20the%20Way%20(1996),90s, adventure childrens comedy
+863,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)","http://us.imdb.com/M/title-exact?Giardino%20dei%20Finzi-Contini,%20Il%20(1970)",90s, drama
+864,My Fellow Americans (1996),http://us.imdb.com/M/title-exact?My%20Fellow%20Americans%20(1996),90s, comedy
+865,"Ice Storm, The (1997)",http://us.imdb.com/M/title-exact?Ice+Storm%2C+The+(1997),90s, drama
+866,Michael (1996),http://us.imdb.com/M/title-exact?Michael%20(1996),90s, comedy romance
+867,"Whole Wide World, The (1996)","http://us.imdb.com/M/title-exact?Whole%20Wide%20World,%20The%20(1996)",90s, drama
+868,Hearts and Minds (1996),http://us.imdb.com/M/title-exact?Hearts%20and%20Minds%20(1996),90s, drama
+869,Fools Rush In (1997),http://us.imdb.com/M/title-exact?Fools%20Rush%20In%20(1997),90s, comedy romance
+870,Touch (1997),http://us.imdb.com/M/title-exact?Touch%20(1997),90s, romance
+871,Vegas Vacation (1997),http://us.imdb.com/M/title-exact?Vegas%20Vacation%20(1997),90s, comedy
+872,Love Jones (1997),http://us.imdb.com/M/title-exact?Love%20Jones%20(1997),90s, romance
+873,Picture Perfect (1997),http://us.imdb.com/M/title-exact?Picture+Perfect+(1997),90s, comedy romance
+874,Career Girls (1997),http://us.imdb.com/M/title-exact?Career+Girls+(1997),90s, drama
+875,She's So Lovely (1997),http://us.imdb.com/M/title-exact?She%27s+So+Lovely+(1997),90s, drama romance
+876,Money Talks (1997),http://us.imdb.com/M/title-exact?Money+Talks+(1997),90s, action comedy
+877,Excess Baggage (1997),http://us.imdb.com/M/title-exact?Excess+Baggage+(1997),90s, adventure romance
+878,That Darn Cat! (1997),http://us.imdb.com/M/title-exact?That%20Darn%20Cat%20(1997),90s, childrens comedy mystery
+879,"Peacemaker, The (1997)",http://us.imdb.com/M/title-exact?Peacemaker%2C+The+(1997),90s, action thriller war
+880,Soul Food (1997),http://us.imdb.com/M/title-exact?Soul+Food+(1997),90s, drama
+881,Money Talks (1997),http://us.imdb.com/M/title-exact?Money+Talks+(1997),90s, action comedy
+882,Washington Square (1997),http://us.imdb.com/M/title-exact?Washington+Square+(1997),90s, drama
+883,Telling Lies in America (1997),http://us.imdb.com/M/title-exact?Telling+Lies+in+America+(1997),90s, drama
+884,Year of the Horse (1997),http://us.imdb.com/M/title-exact?Year+of+the+Horse+(1997),90s, documentary
+885,Phantoms (1998),http://us.imdb.com/M/title-exact?Phantoms+(1998),90s, horror
+886,"Life Less Ordinary, A (1997)","http://us.imdb.com/M/title-exact?Life+Less+Ordinary,+A+(1997)",90s, romance thriller
+887,Eve's Bayou (1997),http://us.imdb.com/M/title-exact?Eve's+Bayou+(1997),90s, drama
+888,One Night Stand (1997),http://us.imdb.com/M/title-exact?One+Night+Stand+(1997),90s, drama
+889,"Tango Lesson, The (1997)","http://us.imdb.com/M/title-exact?Tango+Lesson,+The+(1997)",90s, romance
+890,Mortal Kombat: Annihilation (1997),http://us.imdb.com/M/title-exact?Mortal+Kombat%3A+Annihilation+(1997),90s, action adventure
+891,Bent (1997),http://us.imdb.com/M/title-exact?imdb-title-118698,90s, drama war
+892,Flubber (1997),http://us.imdb.com/M/title-exact?imdb-title-119137,90s, childrens comedy fantasy
+893,For Richer or Poorer (1997),http://us.imdb.com/M/title-exact?imdb-title-119142,90s, comedy
+894,Home Alone 3 (1997),http://us.imdb.com/M/title-exact?imdb-title-119303,90s, childrens comedy
+895,Scream 2 (1997),http://us.imdb.com/M/title-exact?imdb-title-120082,90s, horror thriller
+896,"Sweet Hereafter, The (1997)",http://us.imdb.com/M/title-exact?Sweet+Hereafter%2C+The+(1997),90s, drama
+897,Time Tracers (1995),http://us.imdb.com/M/title-exact?imdb-title-128755,90s, action adventure sci-fi
+898,"Postman, The (1997)",http://us.imdb.com/M/title-exact?imdb-title-119925,90s, drama
+899,"Winter Guest, The (1997)",http://us.imdb.com/M/title-exact?imdb-title-120521,90s, drama
+900,Kundun (1997),http://us.imdb.com/M/title-exact?imdb-title-119485,90s, drama
+901,Mr. Magoo (1997),http://us.imdb.com/M/title-exact?imdb-title-119718,90s, comedy
+902,"Big Lebowski, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-118715,90s, comedy crime mystery thriller
+903,Afterglow (1997),http://us.imdb.com/M/title-exact?imdb-title-118566,90s, drama romance
+904,Ma vie en rose (My Life in Pink) (1997),http://us.imdb.com/M/title-exact?imdb-title-119590,90s, comedy drama
+905,Great Expectations (1998),http://us.imdb.com/M/title-exact?imdb-title-119223,90s, drama romance
+906,Oscar & Lucinda (1997),http://us.imdb.com/M/title-exact?imdb-title-119843,90s, drama romance
+907,Vermin (1998),http://us.imdb.com/M/title-exact?imdb-title-120881,90s, comedy
+908,Half Baked (1998),http://us.imdb.com/M/title-exact?imdb-title-120693,90s, comedy
+909,Dangerous Beauty (1998),http://us.imdb.com/M/title-exact?imdb-title-118892,90s, drama
+910,Nil By Mouth (1997),http://us.imdb.com/Title?Nil+By+Mouth+(1997),90s, drama
+911,Twilight (1998),http://us.imdb.com/M/title-exact?imdb-title-119594,90s, crime drama
+912,U.S. Marshalls (1998),http://us.imdb.com/Title?U.S.+Marshals+(1998),90s, action thriller
+913,Love and Death on Long Island (1997),http://us.imdb.com/Title?Love+and+Death+on+Long+Island+(1997),90s, comedy
+914,Wild Things (1998),http://us.imdb.com/Title?Wild+Things+(1998),90s, crime drama mystery thriller
+915,Primary Colors (1998),http://us.imdb.com/Title?Primary+Colors+(1998),90s, drama
+916,Lost in Space (1998),http://us.imdb.com/Title?Lost+in+Space+(1998),90s, action sci-fi thriller
+917,Mercury Rising (1998),http://us.imdb.com/Title?Mercury+Rising+(1998),90s, action drama thriller
+918,City of Angels (1998),http://us.imdb.com/Title?City+of+Angels+(1998),90s, romance
+919,"City of Lost Children, The (1995)","http://us.imdb.com/Title?Cit%E9+des+enfants+perdus,+La+(1995)",90s, adventure sci-fi
+920,Two Bits (1995),http://us.imdb.com/M/title-exact?Two%20Bits%20(1995),90s, drama
+921,Farewell My Concubine (1993),http://us.imdb.com/M/title-exact?Ba%20Wang%20Bie%20Ji%20(1993),90s, drama romance
+922,Dead Man (1995),http://us.imdb.com/M/title-exact?Dead%20Man%20(1995),90s, western
+923,Raise the Red Lantern (1991),http://us.imdb.com/M/title-exact?Da%20Hong%20Deng%20Long%20Gao%20Gao%20Gua%20(1991),90s, drama
+924,White Squall (1996),http://us.imdb.com/M/title-exact?White%20Squall%20(1996),90s, adventure drama
+925,Unforgettable (1996),http://us.imdb.com/Title?Unforgettable+(1996),90s, sci-fi thriller
+926,Down Periscope (1996),http://us.imdb.com/M/title-exact?Down%20Periscope%20(1996),90s, comedy
+927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)","http://us.imdb.com/M/title-exact?Flor%20de%20mi%20secreto,%20La%20(1995)",90s, drama
+928,"Craft, The (1996)","http://us.imdb.com/M/title-exact?Craft,%20The%20(1996)",90s, drama horror
+929,Harriet the Spy (1996),http://us.imdb.com/M/title-exact?Harriet%20the%20Spy%20(1996),90s, childrens comedy
+930,Chain Reaction (1996),http://us.imdb.com/M/title-exact?Chain%20Reaction%20(1996),90s, action adventure thriller
+931,"Island of Dr. Moreau, The (1996)","http://us.imdb.com/M/title-exact?Island%20of%20Dr.%20Moreau,%20The%20(1996)",90s, sci-fi thriller
+932,First Kid (1996),http://us.imdb.com/M/title-exact?First%20Kid%20(1996),90s, childrens comedy
+933,"Funeral, The (1996)","http://us.imdb.com/M/title-exact?Funeral,%20The%20(1996)",90s, drama
+934,"Preacher's Wife, The (1996)","http://us.imdb.com/M/title-exact?Preacher's%20Wife,%20The%20(1996)",90s, drama
+935,Paradise Road (1997),http://us.imdb.com/M/title-exact?Paradise%20Road%20%281997%29,90s, drama war
+936,Brassed Off (1996),http://us.imdb.com/M/title-exact?Brassed%20Off%20%281996%29,90s, comedy drama romance
+937,"Thousand Acres, A (1997)",http://us.imdb.com/M/title-exact?Thousand+Acres%2C+A+(1997),90s, drama
+938,"Smile Like Yours, A (1997)",http://us.imdb.com/M/title-exact?Smile+Like+Yours%2C+A+(1997),90s, comedy romance
+939,Murder in the First (1995),http://us.imdb.com/M/title-exact?Murder%20in%20the%20First%20(1995),90s, drama thriller
+940,Airheads (1994),http://us.imdb.com/M/title-exact?Airheads%20(1994),90s, comedy
+941,With Honors (1994),http://us.imdb.com/M/title-exact?With%20Honors%20(1994),90s, comedy drama
+942,What's Love Got to Do with It (1993),http://us.imdb.com/M/title-exact?What's%20Love%20Got%20to%20Do%20with%20It%20(1993),90s, drama
+943,Killing Zoe (1994),http://us.imdb.com/M/title-exact?Killing%20Zoe%20(1994),90s, thriller
+944,Renaissance Man (1994),http://us.imdb.com/M/title-exact?Renaissance%20Man%20(1994),90s, comedy drama war
+945,Charade (1963),http://us.imdb.com/M/title-exact?Charade%20(1963),60s, comedy mystery romance thriller
+946,"Fox and the Hound, The (1981)","http://us.imdb.com/M/title-exact?Fox%20and%20the%20Hound,%20The%20(1981)",80s, animation childrens
+947,"Big Blue, The (Grand bleu, Le) (1988)","http://us.imdb.com/M/title-exact?Grand%20bleu,%20Le%20(1988)",80s, adventure romance
+948,Booty Call (1997),http://us.imdb.com/M/title-exact?Booty%20Call%20(1997),90s, comedy romance
+949,How to Make an American Quilt (1995),http://us.imdb.com/M/title-exact?How%20to%20Make%20an%20American%20Quilt%20(1995),90s, drama romance
+950,Georgia (1995),http://us.imdb.com/M/title-exact?Georgia%20(1995),90s, drama
+951,"Indian in the Cupboard, The (1995)","http://us.imdb.com/M/title-exact?Indian%20in%20the%20Cupboard,%20The%20(1995)",90s, adventure childrens fantasy
+952,Blue in the Face (1995),http://us.imdb.com/M/title-exact?Blue%20in%20the%20Face%20(1995),90s, comedy
+953,Unstrung Heroes (1995),http://us.imdb.com/M/title-exact?Unstrung%20Heroes%20(1995),90s, comedy drama
+954,Unzipped (1995),http://us.imdb.com/M/title-exact?Unzipped%20(1995),90s, documentary
+955,Before Sunrise (1995),http://us.imdb.com/M/title-exact?Before%20Sunrise%20(1995),90s, drama romance
+956,Nobody's Fool (1994),http://us.imdb.com/M/title-exact?Nobody's%20Fool%20(1994),90s, drama
+957,Pushing Hands (1992),http://us.imdb.com/M/title-exact?Tui%20Shou%20(1992),90s, comedy
+958,To Live (Huozhe) (1994),http://us.imdb.com/M/title-exact?Huozhe%20(1994),90s, drama
+959,Dazed and Confused (1993),http://us.imdb.com/M/title-exact?Dazed%20and%20Confused%20(1993),90s, comedy
+960,Naked (1993),http://us.imdb.com/M/title-exact?Naked%20(1993),90s, drama
+961,Orlando (1993),http://us.imdb.com/M/title-exact?Orlando%20(1993),90s, drama
+962,Ruby in Paradise (1993),http://us.imdb.com/M/title-exact?Ruby%20in%20Paradise%20(1993),90s, drama
+963,Some Folks Call It a Sling Blade (1993),http://us.imdb.com/M/title-exact?Some%20Folks%20Call%20It%20a%20Sling%20Blade%20(1993),90s, drama thriller
+964,"Month by the Lake, A (1995)","http://us.imdb.com/M/title-exact?Month%20by%20The%20Lake,%20A%20(1995)",90s, comedy drama
+965,Funny Face (1957),http://us.imdb.com/M/title-exact?Funny%20Face%20(1957),50s, comedy musical
+966,"Affair to Remember, An (1957)","http://us.imdb.com/M/title-exact?Affair%20to%20Remember,%20An%20(1957)",50s, romance
+967,Little Lord Fauntleroy (1936),http://us.imdb.com/M/title-exact?Little%20Lord%20Fauntleroy%20(1936),30s, drama
+968,"Inspector General, The (1949)","http://us.imdb.com/M/title-exact?Inspector%20General,%20The%20(1949)",40s, musical
+969,Winnie the Pooh and the Blustery Day (1968),http://us.imdb.com/M/title-exact?Winnie%20the%20Pooh%20and%20the%20Blustery%20Day%20%281968%29,60s, animation childrens
+970,Hear My Song (1991),http://us.imdb.com/M/title-exact?Hear%20My%20Song%20(1991),90s, comedy
+971,Mediterraneo (1991),http://us.imdb.com/M/title-exact?Mediterraneo%20(1991),90s, comedy war
+972,Passion Fish (1992),http://us.imdb.com/M/title-exact?Passion%20Fish%20(1992),90s, drama
+973,Grateful Dead (1995),http://us.imdb.com/M/title-exact?Grateful%20Dead%20(1995),90s, documentary
+974,Eye for an Eye (1996),http://us.imdb.com/Title?Eye+for+an+Eye+(1996),90s, drama thriller
+975,Fear (1996),http://us.imdb.com/M/title-exact?Fear%20(1996),90s, thriller
+976,Solo (1996),http://us.imdb.com/M/title-exact?Solo%20(1996),90s, action sci-fi thriller
+977,"Substitute, The (1996)","http://us.imdb.com/M/title-exact?Substitute,%20The%20(1996)",90s, action
+978,Heaven's Prisoners (1996),http://us.imdb.com/M/title-exact?Heaven's%20Prisoners%20(1996),90s, mystery thriller
+979,"Trigger Effect, The (1996)","http://us.imdb.com/M/title-exact?Trigger%20Effect,%20The%20(1996)",90s, drama thriller
+980,Mother Night (1996),http://us.imdb.com/M/title-exact?Mother%20Night%20(1996),90s, drama
+981,Dangerous Ground (1997),http://us.imdb.com/M/title-exact?Dangerous%20Ground%20(1997),90s, drama
+982,Maximum Risk (1996),http://us.imdb.com/M/title-exact?Maximum%20Risk%20(1996),90s, action adventure thriller
+983,"Rich Man's Wife, The (1996)","http://us.imdb.com/M/title-exact?Rich%20Man's%20Wife,%20The%20(1996)",90s, thriller
+984,Shadow Conspiracy (1997),http://us.imdb.com/M/title-exact?Shadow%20Conspiracy%20(1997),90s, thriller
+985,Blood & Wine (1997),http://us.imdb.com/Title?Blood+%26+Wine+(1997),90s, drama
+986,Turbulence (1997),http://us.imdb.com/M/title-exact?Turbulence%20(1997),90s, thriller
+987,Underworld (1997),http://us.imdb.com/M/title-exact?Underworld%20(1997),90s, thriller
+988,"Beautician and the Beast, The (1997)","http://us.imdb.com/M/title-exact?Beautician%20and%20the%20Beast,%20The%20(1997)",90s, comedy romance
+989,Cats Don't Dance (1997),http://us.imdb.com/M/title-exact?Cats%20Don%27t%20Dance%20(1997),90s, animation childrens musical
+990,Anna Karenina (1997),http://us.imdb.com/M/title-exact?Anna%20Karenina%20%281997%29,90s, drama romance
+991,Keys to Tulsa (1997),http://us.imdb.com/Title?Keys+to+Tulsa+(1997),90s, crime
+992,Head Above Water (1996),http://us.imdb.com/M/title-exact?Head+Above+Water+(1996),90s, comedy thriller
+993,Hercules (1997),http://us.imdb.com/M/title-exact?Hercules+(1997),90s, adventure animation childrens comedy musical
+994,"Last Time I Committed Suicide, The (1997)",http://us.imdb.com/M/title-exact?Last+Time+I+Committed+Suicide%2C+The+(1997),90s, drama
+995,"Kiss Me, Guido (1997)",http://us.imdb.com/M/title-exact?Kiss+Me%2C+Guido+(1997),90s, comedy
+996,"Big Green, The (1995)","http://us.imdb.com/M/title-exact?Big%20Green,%20The%20(1995)",90s, childrens comedy
+997,Stuart Saves His Family (1995),http://us.imdb.com/M/title-exact?Stuart%20Saves%20His%20Family%20(1995),90s, comedy
+998,Cabin Boy (1994),http://us.imdb.com/M/title-exact?Cabin%20Boy%20(1994),90s, comedy
+999,Clean Slate (1994),http://us.imdb.com/M/title-exact?Clean%20Slate%20(1994),90s, comedy
+1000,Lightning Jack (1994),http://us.imdb.com/M/title-exact?Lightning%20Jack%20(1994),90s, comedy western
+1001,"Stupids, The (1996)","http://us.imdb.com/M/title-exact?Stupids,%20The%20(1996)",90s, comedy
+1002,"Pest, The (1997)","http://us.imdb.com/M/title-exact?Pest,%20The%20(1997)",90s, comedy
+1003,That Darn Cat! (1997),http://us.imdb.com/M/title-exact?That%20Darn%20Cat%20(1997),90s, childrens comedy mystery
+1004,Geronimo: An American Legend (1993),http://us.imdb.com/M/title-exact?Geronimo:%20An%20American%20Legend%20(1993),90s, drama western
+1005,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",http://us.imdb.com/M/title-exact?Podwojne%20zycie%20Weroniki%20(1991),90s, drama
+1006,Until the End of the World (Bis ans Ende der Welt) (1991),http://us.imdb.com/M/title-exact?Bis%20ans%20Ende%20der%20Welt%20(1991),90s, drama sci-fi
+1007,Waiting for Guffman (1996),http://us.imdb.com/M/title-exact?Waiting%20for%20Guffman%20(1996),90s, comedy
+1008,I Shot Andy Warhol (1996),http://us.imdb.com/M/title-exact?I%20Shot%20Andy%20Warhol%20(1996),90s, drama
+1009,Stealing Beauty (1996),http://us.imdb.com/M/title-exact?Stealing%20Beauty%20(1996),90s, drama
+1010,Basquiat (1996),http://us.imdb.com/M/title-exact?Basquiat%20(1996),90s, drama
+1011,2 Days in the Valley (1996),http://us.imdb.com/M/title-exact?2%20Days%20in%20the%20Valley%20(1996),90s, crime
+1012,Private Parts (1997),http://us.imdb.com/M/title-exact?Private%20Parts%20(1997),90s, comedy drama
+1013,Anaconda (1997),http://us.imdb.com/M/title-exact?Anaconda%20%281997%29,90s, action adventure thriller
+1014,Romy and Michele's High School Reunion (1997),http://us.imdb.com/M/title-exact?Romy%20and%20Michele%27s%20High%20School%20Reunion%20%281997%29,90s, comedy
+1015,Shiloh (1997),http://us.imdb.com/M/title-exact?Shiloh%20%281997%29,90s, childrens drama
+1016,Con Air (1997),http://us.imdb.com/M/title-exact?Con%20Air%20%281997%29,90s, action adventure thriller
+1017,Trees Lounge (1996),http://us.imdb.com/M/title-exact?Trees%20Lounge%20(1996),90s, drama
+1018,Tie Me Up! Tie Me Down! (1990),http://us.imdb.com/Title?%A1%C1tame%21+(1990),90s, drama
+1019,"Die xue shuang xiong (Killer, The) (1989)",http://us.imdb.com/M/title-exact?Die%20xue%20shuang%20xiong%20(1989),80s, action thriller
+1020,Gaslight (1944),http://us.imdb.com/M/title-exact?Gaslight%20(1944),40s, mystery thriller
+1021,8 1/2 (1963),http://us.imdb.com/M/title-exact?8%201/2%20(1963),60s, drama
+1022,"Fast, Cheap & Out of Control (1997)","http://us.imdb.com/M/title-exact?Fast,+Cheap+&+Out+of+Control+(1997)",90s, documentary
+1023,Fathers' Day (1997),http://us.imdb.com/M/title-exact?Fathers%27%20Day%20%281997%29,90s, comedy
+1024,Mrs. Dalloway (1997),http://us.imdb.com/M/title-exact?Mrs%2E+Dalloway+(1997),90s, romance
+1025,Fire Down Below (1997),http://us.imdb.com/M/title-exact?Fire+Down+Below+(1997),90s, action drama thriller
+1026,"Lay of the Land, The (1997)",http://us.imdb.com/M/title-exact?Lay+of+the+Land%2C+The+(1997),90s, comedy drama
+1027,"Shooter, The (1995)","http://us.imdb.com/M/title-exact?Shooter,%20The%20(1995)",90s, action
+1028,Grumpier Old Men (1995),http://us.imdb.com/M/title-exact?Grumpier%20Old%20Men%20(1995),90s, comedy romance
+1029,Jury Duty (1995),http://us.imdb.com/M/title-exact?Jury%20Duty%20(1995),90s, comedy
+1030,"Beverly Hillbillies, The (1993)","http://us.imdb.com/M/title-exact?Beverly%20Hillbillies,%20The%20(1993)",90s, comedy
+1031,Lassie (1994),http://us.imdb.com/M/title-exact?Lassie%20(1994),90s, adventure childrens
+1032,Little Big League (1994),http://us.imdb.com/M/title-exact?Little%20Big%20League%20(1994),90s, childrens comedy
+1033,Homeward Bound II: Lost in San Francisco (1996),http://us.imdb.com/M/title-exact?Homeward%20Bound%20II:%20Lost%20in%20San%20Francisco%20(1996),90s, adventure childrens
+1034,"Quest, The (1996)","http://us.imdb.com/M/title-exact?Quest,%20The%20(1996/I)",90s, action adventure
+1035,Cool Runnings (1993),http://us.imdb.com/M/title-exact?Cool%20Runnings%20(1993),90s, comedy
+1036,Drop Dead Fred (1991),http://us.imdb.com/M/title-exact?Drop%20Dead%20Fred%20(1991),90s, comedy fantasy
+1037,Grease 2 (1982),http://us.imdb.com/M/title-exact?Grease%202%20(1982),80s, comedy musical romance
+1038,Switchback (1997),http://us.imdb.com/M/title-exact?Switchback+(1997),90s, thriller
+1039,Hamlet (1996),http://us.imdb.com/M/title-exact?Hamlet%20(1996),90s, drama
+1040,Two if by Sea (1996),http://us.imdb.com/M/title-exact?Two%20if%20by%20Sea%20(1996),90s, comedy romance
+1041,Forget Paris (1995),http://us.imdb.com/M/title-exact?Forget%20Paris%20(1995),90s, comedy romance
+1042,Just Cause (1995),http://us.imdb.com/M/title-exact?Just%20Cause%20(1995),90s, mystery thriller
+1043,Rent-a-Kid (1995),http://us.imdb.com/M/title-exact?Rent-a-Kid%20(1995),90s, comedy
+1044,"Paper, The (1994)","http://us.imdb.com/M/title-exact?Paper,%20The%20(1994)",90s, comedy drama
+1045,Fearless (1993),http://us.imdb.com/M/title-exact?Fearless%20(1993),90s, drama
+1046,Malice (1993),http://us.imdb.com/M/title-exact?Malice%20(1993),90s, thriller
+1047,Multiplicity (1996),http://us.imdb.com/M/title-exact?Multiplicity%20(1996),90s, comedy
+1048,She's the One (1996),http://us.imdb.com/M/title-exact?She's%20the%20One%20(1996),90s, comedy romance
+1049,House Arrest (1996),http://us.imdb.com/Title?House+Arrest+(1996/I),90s, comedy
+1050,"Ghost and Mrs. Muir, The (1947)","http://us.imdb.com/M/title-exact?Ghost%20and%20Mrs.%20Muir,%20The%20(1947)",40s, drama romance
+1051,"Associate, The (1996)","http://us.imdb.com/M/title-exact?Associate,%20The%20(1996)",90s, comedy
+1052,Dracula: Dead and Loving It (1995),http://us.imdb.com/M/title-exact?Dracula:%20Dead%20and%20Loving%20It%20(1995),90s, comedy horror
+1053,Now and Then (1995),http://us.imdb.com/M/title-exact?Now%20and%20Then%20(1995),90s, drama
+1054,Mr. Wrong (1996),http://us.imdb.com/M/title-exact?Mr.%20Wrong%20(1996),90s, comedy
+1055,"Simple Twist of Fate, A (1994)","http://us.imdb.com/M/title-exact?Simple%20Twist%20of%20Fate,%20A%20(1994)",90s, drama
+1056,Cronos (1992),http://us.imdb.com/M/title-exact?Cronos%20(1992),90s, horror
+1057,"Pallbearer, The (1996)","http://us.imdb.com/M/title-exact?Pallbearer,%20The%20(1996)",90s, comedy
+1058,"War, The (1994)","http://us.imdb.com/M/title-exact?War,%20The%20(1994)",90s, adventure drama
+1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),http://us.imdb.com/M/title-exact?Don't%20Be%20a%20Menace%20(1996),90s, comedy
+1060,"Adventures of Pinocchio, The (1996)","http://us.imdb.com/M/title-exact?Adventures%20of%20Pinocchio,%20The%20(1996)",90s, adventure childrens
+1061,"Evening Star, The (1996)","http://us.imdb.com/M/title-exact?Evening%20Star,%20The%20(1996)",90s, comedy drama
+1062,Four Days in September (1997),http://us.imdb.com/M/title-exact?imdb-title-119815,90s, drama
+1063,"Little Princess, A (1995)","http://us.imdb.com/M/title-exact?Little%20Princess,%20A%20(1995)",90s, childrens drama
+1064,Crossfire (1947),http://us.imdb.com/M/title-exact?Crossfire%20(1947),40s, crime film_noir
+1065,Koyaanisqatsi (1983),http://us.imdb.com/M/title-exact?Koyaanisqatsi%20(1983),80s, documentary war
+1066,Balto (1995),http://us.imdb.com/M/title-exact?Balto%20(1995),90s, animation childrens
+1067,Bottle Rocket (1996),http://us.imdb.com/M/title-exact?Bottle%20Rocket%20(1996),90s, comedy
+1068,"Star Maker, The (Uomo delle stelle, L') (1995)","http://us.imdb.com/M/title-exact?Uomo%20delle%20stelle,%20L'%20(1995)",90s, drama
+1069,Amateur (1994),http://us.imdb.com/M/title-exact?Amateur%20(1994),90s, crime drama thriller
+1070,Living in Oblivion (1995),http://us.imdb.com/M/title-exact?Living%20in%20Oblivion%20(1995),90s, comedy
+1071,Party Girl (1995),http://us.imdb.com/Title?Party+Girl+(1995/I),90s, comedy
+1072,"Pyromaniac's Love Story, A (1995)","http://us.imdb.com/M/title-exact?Pyromaniac's%20Love%20Story,%20A%20(1995)",90s, comedy romance
+1073,Shallow Grave (1994),http://us.imdb.com/Title?Shallow+Grave+(1994),90s, thriller
+1074,Reality Bites (1994),http://us.imdb.com/M/title-exact?Reality%20Bites%20(1994),90s, comedy drama
+1075,"Man of No Importance, A (1994)","http://us.imdb.com/M/title-exact?Man%20of%20No%20Importance,%20A%20(1994)",90s, drama
+1076,"Pagemaster, The (1994)","http://us.imdb.com/M/title-exact?Pagemaster,%20The%20(1994)",90s, action adventure animation childrens fantasy
+1077,Love and a .45 (1994),http://us.imdb.com/M/title-exact?Love%20and%20a%20.45%20(1994),90s, thriller
+1078,Oliver & Company (1988),http://us.imdb.com/M/title-exact?Oliver%20&%20Company%20(1988),80s, animation childrens
+1079,Joe's Apartment (1996),http://us.imdb.com/M/title-exact?Joe's%20Apartment%20(1996),90s, comedy musical
+1080,Celestial Clockwork (1994),http://us.imdb.com/Title?Cort%E1zar+(1994),90s, comedy
+1081,Curdled (1996),http://us.imdb.com/M/title-exact?Curdled%20(1996),90s, crime
+1082,Female Perversions (1996),http://us.imdb.com/M/title-exact?Female%20Perversions%20(1996),90s, drama
+1083,Albino Alligator (1996),http://us.imdb.com/M/title-exact?Albino%20Alligator%20(1996),90s, crime thriller
+1084,Anne Frank Remembered (1995),http://us.imdb.com/M/title-exact?Anne%20Frank%20Remembered%20(1995),90s, documentary
+1085,Carried Away (1996),http://us.imdb.com/M/title-exact?Carried%20Away%20(1996),90s, drama romance
+1086,It's My Party (1995),http://us.imdb.com/M/title-exact?It's%20My%20Party%20(1995),90s, drama
+1087,Bloodsport 2 (1995),http://us.imdb.com/M/title-exact?Bloodsport%202%20%281995%29,90s, action
+1088,Double Team (1997),http://us.imdb.com/M/title-exact?Double%20Team%20%281997%29,90s, action
+1089,Speed 2: Cruise Control (1997),http://us.imdb.com/M/title-exact?Speed%202%3A%20Cruise%20Control%20%281997%29,90s, action romance thriller
+1090,Sliver (1993),http://us.imdb.com/M/title-exact?Sliver%20(1993),90s, thriller
+1091,Pete's Dragon (1977),http://us.imdb.com/M/title-exact?Pete's%20Dragon%20(1977),70s, adventure animation childrens musical
+1092,Dear God (1996),http://us.imdb.com/M/title-exact?Dear%20God%20(1996),90s, comedy
+1093,Live Nude Girls (1995),http://us.imdb.com/M/title-exact?Live%20Nude%20Girls%20(1995),90s, comedy
+1094,"Thin Line Between Love and Hate, A (1996)","http://us.imdb.com/M/title-exact?Thin%20Line%20Between%20Love%20and%20Hate,%20A%20(1996)",90s, comedy
+1095,High School High (1996),http://us.imdb.com/M/title-exact?High%20School%20High%20(1996),90s, comedy
+1096,Commandments (1997),http://us.imdb.com/Title?Commandments+(1997),90s, romance
+1097,"Hate (Haine, La) (1995)","http://us.imdb.com/M/title-exact?Haine,%20La%20(1995)",90s, drama
+1098,Flirting With Disaster (1996),http://us.imdb.com/M/title-exact?Flirting%20With%20Disaster%20(1996),90s, comedy
+1099,"Red Firecracker, Green Firecracker (1994)",http://us.imdb.com/M/title-exact?Pao%20Da%20Shuang%20Deng%20(1994),90s, drama
+1100,What Happened Was... (1994),http://us.imdb.com/M/title-exact?What%20Happened%20Was...%20(1994),90s, comedy drama romance
+1101,Six Degrees of Separation (1993),http://us.imdb.com/M/title-exact?Six%20Degrees%20of%20Separation%20(1993),90s, drama mystery
+1102,Two Much (1996),http://us.imdb.com/M/title-exact?Two%20Much%20(1996),90s, comedy romance
+1103,Trust (1990),http://us.imdb.com/Title?Trust+(1990),90s, comedy drama
+1104,C'est arrivé près de chez vous (1992),http://us.imdb.com/M/title-exact?C%27est%20arriv%E9%20pr%E8s%20de%20chez%20vous%20%281992%29,90s, comedy crime drama
+1105,Firestorm (1998),http://us.imdb.com/M/title-exact?imdb-title-120670,90s, action adventure thriller
+1106,"Newton Boys, The (1998)","http://us.imdb.com/Title?Newton+Boys,+The+(1998)",90s, crime drama
+1107,Beyond Rangoon (1995),http://us.imdb.com/M/title-exact?Beyond%20Rangoon%20(1995),90s, drama
+1108,Feast of July (1995),http://us.imdb.com/M/title-exact?Feast%20of%20July%20(1995),90s, drama
+1109,Death and the Maiden (1994),http://us.imdb.com/M/title-exact?Death%20and%20the%20Maiden%20(1994),90s, drama thriller
+1110,Tank Girl (1995),http://us.imdb.com/M/title-exact?Tank%20Girl%20(1995),90s, action comedy musical sci-fi
+1111,Double Happiness (1994),http://us.imdb.com/M/title-exact?Double%20Happiness%20(1994),90s, drama
+1112,Cobb (1994),http://us.imdb.com/M/title-exact?Cobb%20(1994),90s, drama
+1113,Mrs. Parker and the Vicious Circle (1994),http://us.imdb.com/M/title-exact?Mrs.%20Parker%20and%20the%20Vicious%20Circle%20(1994),90s, drama
+1114,Faithful (1996),http://us.imdb.com/M/title-exact?Faithful%20(1996),90s, comedy
+1115,Twelfth Night (1996),http://us.imdb.com/M/title-exact?Twelfth%20Night:%20Or%20What%20You%20Will%20(1996),90s, comedy drama romance
+1116,"Mark of Zorro, The (1940)","http://us.imdb.com/M/title-exact?Mark%20of%20Zorro,%20The%20(1940)",40s, adventure
+1117,Surviving Picasso (1996),http://us.imdb.com/M/title-exact?Surviving%20Picasso%20(1996),90s, drama
+1118,Up in Smoke (1978),http://us.imdb.com/M/title-exact?Up%20in%20Smoke%20(1978),70s, comedy
+1119,Some Kind of Wonderful (1987),http://us.imdb.com/M/title-exact?Some%20Kind%20of%20Wonderful%20(1987),80s, drama romance
+1120,I'm Not Rappaport (1996),http://us.imdb.com/M/title-exact?I'm%20Not%20Rappaport%20(1996),90s, comedy
+1121,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)","http://us.imdb.com/M/title-exact?Parapluies%20de%20Cherbourg,%20Les%20(1964)",90s, drama musical
+1122,They Made Me a Criminal (1939),http://us.imdb.com/M/title-exact?They%20Made%20Me%20a%20Criminal%20(1939),30s, crime drama
+1123,"Last Time I Saw Paris, The (1954)","http://us.imdb.com/M/title-exact?Last%20Time%20I%20Saw%20Paris,%20The%20(1954)",50s, drama
+1124,"Farewell to Arms, A (1932)","http://us.imdb.com/M/title-exact?Farewell%20to%20Arms,%20A%20(1932)",30s, romance war
+1125,"Innocents, The (1961)","http://us.imdb.com/M/title-exact?Innocents,%20The%20(1961)",60s, thriller
+1126,"Old Man and the Sea, The (1958)","http://us.imdb.com/M/title-exact?Old%20Man%20and%20the%20Sea,%20The%20(1958)",50s, adventure drama
+1127,"Truman Show, The (1998)","http://us.imdb.com/Title?Truman+Show,+The+(1998)",90s, drama
+1128,Heidi Fleiss: Hollywood Madam (1995) ,http://us.imdb.com/M/title-exact?Heidi%20Fleiss:%20Hollywood%20Madam%20(1995)%20(TV),90s, documentary
+1129,Chungking Express (1994),http://us.imdb.com/M/title-exact?Chongqing%20Senlin%20(1994),90s, drama mystery romance
+1130,Jupiter's Wife (1994),http://us.imdb.com/M/title-exact?Jupiter's%20Wife%20(1994),90s, documentary
+1131,Safe (1995),http://us.imdb.com/M/title-exact?Safe%20(1995),90s, thriller
+1132,Feeling Minnesota (1996),http://us.imdb.com/M/title-exact?Feeling%20Minnesota%20(1996),90s, drama romance
+1133,Escape to Witch Mountain (1975),http://us.imdb.com/M/title-exact?Escape%20to%20Witch%20Mountain%20(1975),70s, adventure childrens fantasy
+1134,Get on the Bus (1996),http://us.imdb.com/M/title-exact?Get%20on%20the%20Bus%20(1996),90s, drama
+1135,"Doors, The (1991)","http://us.imdb.com/M/title-exact?Doors,%20The%20(1991)",90s, drama musical
+1136,Ghosts of Mississippi (1996),http://us.imdb.com/M/title-exact?Ghosts%20of%20Mississippi%20(1996),90s, drama
+1137,Beautiful Thing (1996),http://us.imdb.com/M/title-exact?Beautiful%20Thing%20(1996),90s, drama romance
+1138,Best Men (1997),http://us.imdb.com/M/title-exact/Independence%20(1997),90s, action comedy crime drama
+1139,Hackers (1995),http://us.imdb.com/M/title-exact?Hackers%20(1995),90s, action crime thriller
+1140,"Road to Wellville, The (1994)","http://us.imdb.com/M/title-exact?Road%20to%20Wellville,%20The%20(1994)",90s, comedy
+1141,"War Room, The (1993)","http://us.imdb.com/M/title-exact?War%20Room,%20The%20(1993)",90s, documentary
+1142,When We Were Kings (1996),http://us.imdb.com/M/title-exact?When%20We%20Were%20Kings%20(1996),90s, documentary
+1143,Hard Eight (1996),http://us.imdb.com/Title?Hard+Eight+(1996),90s, crime thriller
+1144,"Quiet Room, The (1996)",http://us.imdb.com/M/title-exact?Quiet%20Room%2C%20The%20(1996),90s, drama
+1145,Blue Chips (1994),http://us.imdb.com/M/title-exact?Blue%20Chips%20(1994),90s, drama
+1146,Calendar Girl (1993),http://us.imdb.com/M/title-exact?Calendar%20Girl%20(1993),90s, drama
+1147,My Family (1995),http://us.imdb.com/M/title-exact?My%20Family%20(1995),90s, drama
+1148,Tom & Viv (1994),http://us.imdb.com/M/title-exact?Tom%20&%20Viv%20(1994),90s, drama
+1149,Walkabout (1971),http://us.imdb.com/M/title-exact?Walkabout%20(1971),70s, drama
+1150,Last Dance (1996),http://us.imdb.com/M/title-exact?Last%20Dance%20(1996),90s, drama
+1151,Original Gangstas (1996),http://us.imdb.com/M/title-exact?Original%20Gangstas%20(1996),90s, crime
+1152,In Love and War (1996),http://us.imdb.com/M/title-exact?In%20Love%20and%20War%20(1996),90s, romance war
+1153,Backbeat (1993),http://us.imdb.com/M/title-exact?Backbeat%20(1993),90s, drama musical
+1154,Alphaville (1965),http://us.imdb.com/M/title-exact?Alphaville%20(1965),60s, sci-fi
+1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)","http://us.imdb.com/M/title-exact?Rendez-vous%20de%20Paris,%20Les%20(1995)",90s, comedy romance
+1156,Cyclo (1995),http://us.imdb.com/M/title-exact?Cyclo%20(1995),90s, crime drama
+1157,"Relic, The (1997)","http://us.imdb.com/M/title-exact?Relic,%20The%20(1997)",90s, horror
+1158,"Fille seule, La (A Single Girl) (1995)","http://us.imdb.com/M/title-exact?Fille%20seule,%20La%20(1995)",90s, drama
+1159,Stalker (1979),http://us.imdb.com/M/title-exact?Stalker%20(1979),70s, mystery sci-fi
+1160,Love! Valour! Compassion! (1997),http://us.imdb.com/Title?Love%21+Valour%21+Compassion%21+(1997),90s, drama romance
+1161,Palookaville (1996),http://us.imdb.com/M/title-exact?Palookaville%20(1996),90s, action drama
+1162,Phat Beach (1996),http://us.imdb.com/M/title-exact?Phat%20Beach%20(1996),90s, comedy
+1163,"Portrait of a Lady, The (1996)",http://us.imdb.com/M/title-exact?Portrait%20of%20a%20Lady%2C%20The%20%281996%29,90s, drama
+1164,Zeus and Roxanne (1997),http://us.imdb.com/M/title-exact?Zeus%20and%20Roxanne%20(1997),90s, childrens
+1165,Big Bully (1996),http://us.imdb.com/M/title-exact?Big%20Bully%20(1996),90s, comedy drama
+1166,Love & Human Remains (1993),http://us.imdb.com/M/title-exact?Love%20&%20Human%20Remains%20(1993),90s, comedy
+1167,"Sum of Us, The (1994)","http://us.imdb.com/M/title-exact?Sum%20of%20Us,%20The%20(1994)",90s, comedy
+1168,Little Buddha (1993),http://us.imdb.com/M/title-exact?Little%20Buddha%20(1993),90s, drama
+1169,Fresh (1994),http://us.imdb.com/M/title-exact?Fresh%20(1994),90s, drama
+1170,Spanking the Monkey (1994),http://us.imdb.com/M/title-exact?Spanking%20the%20Monkey%20(1994),90s, comedy drama
+1171,Wild Reeds (1994),http://us.imdb.com/M/title-exact?Roseaux%20sauvages%2C%20Les%20%281994%29,90s, drama
+1172,"Women, The (1939)","http://us.imdb.com/M/title-exact?Women,%20The%20(1939)",30s, comedy
+1173,Bliss (1997),http://us.imdb.com/M/title-exact?Bliss%20(1997),90s, drama romance
+1174,Caught (1996),http://us.imdb.com/M/title-exact?Caught%20(1996),90s, drama thriller
+1175,Hugo Pool (1997),http://us.imdb.com/M/title-exact?Hugo+Pool+(1997),90s, romance
+1176,Welcome To Sarajevo (1997),http://us.imdb.com/M/title-exact?Welcome+To+Sarajevo+(1997),90s, drama war
+1177,Dunston Checks In (1996),http://us.imdb.com/M/title-exact?Dunston%20Checks%20In%20(1996),90s, comedy
+1178,Major Payne (1994),http://us.imdb.com/M/title-exact?Major%20Payne%20(1994),90s, comedy
+1179,Man of the House (1995),http://us.imdb.com/M/title-exact?Man%20of%20the%20House%20(1995),90s, comedy
+1180,I Love Trouble (1994),http://us.imdb.com/M/title-exact?I%20Love%20Trouble%20(1994),90s, action comedy
+1181,"Low Down Dirty Shame, A (1994)","http://us.imdb.com/M/title-exact?Low%20Down%20Dirty%20Shame,%20A%20(1994)",90s, action comedy
+1182,Cops and Robbersons (1994),http://us.imdb.com/M/title-exact?Cops%20and%20Robbersons%20(1994),90s, comedy
+1183,"Cowboy Way, The (1994)","http://us.imdb.com/M/title-exact?Cowboy%20Way,%20The%20(1994)",90s, action comedy
+1184,"Endless Summer 2, The (1994)","http://us.imdb.com/M/title-exact?Endless%20Summer%202,%20The%20(1994)",90s, documentary
+1185,In the Army Now (1994),http://us.imdb.com/M/title-exact?In%20the%20Army%20Now%20(1994),90s, comedy war
+1186,"Inkwell, The (1994)","http://us.imdb.com/M/title-exact?Inkwell,%20The%20(1994)",90s, comedy drama
+1187,Switchblade Sisters (1975),http://us.imdb.com/M/title-exact?Switchblade%20Sisters%20(1975),70s, crime
+1188,Young Guns II (1990),http://us.imdb.com/M/title-exact?Young%20Guns%20II%20(1990),90s, action comedy western
+1189,Prefontaine (1997),http://us.imdb.com/M/title-exact?Prefontaine%20(1997),90s, drama
+1190,That Old Feeling (1997),http://us.imdb.com/M/title-exact?That%20Old%20Feeling%20(1997),90s, comedy romance
+1191,"Letter From Death Row, A (1998)",http://us.imdb.com/M/title-exact?Letter+From+Death+Row%2C+A+(1998),90s, crime drama
+1192,"Boys of St. Vincent, The (1993)","http://us.imdb.com/M/title-exact?Boys%20of%20St.%20Vincent,%20The%20(1993)",90s, drama
+1193,Before the Rain (Pred dozhdot) (1994),http://us.imdb.com/M/title-exact?Pred%20dozhdot%20(1994),90s, drama
+1194,Once Were Warriors (1994),http://us.imdb.com/M/title-exact?Once%20Were%20Warriors%20(1994),90s, crime drama
+1195,Strawberry and Chocolate (Fresa y chocolate) (1993),http://us.imdb.com/M/title-exact?Fresa%20y%20chocolate%20(1993),90s, drama
+1196,"Savage Nights (Nuits fauves, Les) (1992)","http://us.imdb.com/M/title-exact?Nuits%20fauves,%20Les%20(1992)",90s, drama
+1197,"Family Thing, A (1996)","http://us.imdb.com/M/title-exact?Family%20Thing,%20A%20(1996)",90s, comedy drama
+1198,Purple Noon (1960),http://us.imdb.com/M/title-exact?Plein%20soleil%20(1960),60s, crime thriller
+1199,Cemetery Man (Dellamorte Dellamore) (1994),http://us.imdb.com/M/title-exact?Dellamorte%20Dellamore%20(1994),90s, comedy horror
+1200,Kim (1950),http://us.imdb.com/M/title-exact?Kim%20(1950),50s, childrens drama
+1201,Marlene Dietrich: Shadow and Light (1996) ,http://us.imdb.com/M/title-exact?Marlene%20Dietrich:%20Shadow%20and%20Light%20(1996)%20(TV),90s, documentary
+1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)","http://us.imdb.com/M/title-exact?Bewegte%20Mann,%20Der%20(1994)",90s, comedy
+1203,Top Hat (1935),http://us.imdb.com/M/title-exact?Top%20Hat%20(1935),30s, comedy musical romance
+1204,To Be or Not to Be (1942),http://us.imdb.com/M/title-exact?To%20Be%20or%20Not%20to%20Be%20(1942),40s, comedy drama war
+1205,"Secret Agent, The (1996)","http://us.imdb.com/M/title-exact?Secret%20Agent,%20The%20(1996)",90s, drama
+1206,Amos & Andrew (1993),http://us.imdb.com/M/title-exact?Amos%20&%20Andrew%20(1993),90s, comedy
+1207,Jade (1995),http://us.imdb.com/M/title-exact?Jade%20(1995),90s, thriller
+1208,Kiss of Death (1995),http://us.imdb.com/M/title-exact?Kiss%20of%20Death%20(1995),90s, crime drama thriller
+1209,Mixed Nuts (1994),http://us.imdb.com/M/title-exact?Mixed%20Nuts%20(1994),90s, comedy
+1210,Virtuosity (1995),http://us.imdb.com/M/title-exact?Virtuosity%20(1995),90s, sci-fi thriller
+1211,Blue Sky (1994),http://us.imdb.com/M/title-exact?Blue%20Sky%20(1994),90s, drama romance
+1212,Flesh and Bone (1993),http://us.imdb.com/M/title-exact?Flesh%20and%20Bone%20(1993),90s, drama mystery romance
+1213,Guilty as Sin (1993),http://us.imdb.com/M/title-exact?Guilty%20as%20Sin%20(1993),90s, crime drama thriller
+1214,In the Realm of the Senses (Ai no corrida) (1976),http://us.imdb.com/M/title-exact?Ai%20no%20Corrida%20(1976),70s, drama
+1215,Barb Wire (1996),http://us.imdb.com/M/title-exact?Barb%20Wire%20(1996),90s, action sci-fi
+1216,Kissed (1996),http://us.imdb.com/M/title-exact?Kissed%20%281996%29,90s, romance
+1217,Assassins (1995),http://us.imdb.com/Title?Assassins+(1995),90s, thriller
+1218,Friday (1995),http://us.imdb.com/M/title-exact?Friday%20(1995),90s, comedy
+1219,"Goofy Movie, A (1995)","http://us.imdb.com/M/title-exact?Goofy%20Movie,%20A%20(1995)",90s, animation childrens comedy romance
+1220,Higher Learning (1995),http://us.imdb.com/M/title-exact?Higher%20Learning%20(1995),90s, drama
+1221,When a Man Loves a Woman (1994),http://us.imdb.com/M/title-exact?When%20a%20Man%20Loves%20a%20Woman%20(1994),90s, drama
+1222,Judgment Night (1993),http://us.imdb.com/M/title-exact?Judgment%20Night%20(1993),90s, action
+1223,King of the Hill (1993),http://us.imdb.com/M/title-exact?King%20of%20the%20Hill%20(1993),90s, drama
+1224,"Scout, The (1994)","http://us.imdb.com/M/title-exact?Scout,%20The%20(1994)",90s, drama
+1225,Angus (1995),http://us.imdb.com/M/title-exact?Angus%20(1995),90s, comedy
+1226,Night Falls on Manhattan (1997),http://us.imdb.com/M/title-exact?Night%20Falls%20on%20Manhattan%20(1997),90s, crime drama
+1227,"Awfully Big Adventure, An (1995)","http://us.imdb.com/M/title-exact?Awfully%20Big%20Adventure,%20An%20(1995)",90s, drama
+1228,Under Siege 2: Dark Territory (1995),http://us.imdb.com/M/title-exact?Under%20Siege%202:%20Dark%20Territory%20(1995),90s, action
+1229,Poison Ivy II (1995),http://us.imdb.com/M/title-exact?Poison%20Ivy%20II%20(1995),90s, drama thriller
+1230,Ready to Wear (Pret-A-Porter) (1994),http://us.imdb.com/Title?Pr%EAt-%E0-Porter+(1994),90s, comedy
+1231,Marked for Death (1990),http://us.imdb.com/M/title-exact?Marked%20for%20Death%20(1990),90s, action drama
+1232,Madonna: Truth or Dare (1991),http://us.imdb.com/M/title-exact?Madonna:%20Truth%20or%20Dare%20(1991),90s, documentary
+1233,Nénette et Boni (1996),http://us.imdb.com/Title?N%E9nette+et+Boni+(1996),90s, drama
+1234,Chairman of the Board (1998),http://us.imdb.com/Title?Chairman+of+the+Board+(1998),90s, comedy
+1235,"Big Bang Theory, The (1994)",http://us.imdb.com/M/title-exact?imdb-title-109266,90s, crime
+1236,"Other Voices, Other Rooms (1997)",http://us.imdb.com/M/title-exact?imdb-title-119845,90s, drama
+1237,Twisted (1996),http://us.imdb.com/M/title-exact?imdb-title-117994,90s, comedy drama
+1238,Full Speed (1996),http://us.imdb.com/M/title-exact?imdb-title-118230,90s, drama
+1239,Cutthroat Island (1995),http://us.imdb.com/M/title-exact?Cutthroat%20Island%20(1995),90s, action adventure romance
+1240,Ghost in the Shell (Kokaku kidotai) (1995),http://us.imdb.com/M/title-exact?Kokaku%20Kidotai%20(1995),90s, animation sci-fi
+1241,"Van, The (1996)",http://us.imdb.com/M/title-exact?Van%2C%20The%20(1996),90s, comedy drama
+1242,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)","http://us.imdb.com/M/title-exact?Vieille%20qui%20marchait%20dans%20la%20mer,%20La%20(1991)",90s, comedy
+1243,Night Flier (1997),http://us.imdb.com/M/title-exact?Night+Flier+(1997),90s, horror
+1244,Metro (1997),http://us.imdb.com/M/title-exact?Metro%20(1997),90s, action
+1245,Gridlock'd (1997),http://us.imdb.com/M/title-exact?Gridlock'd%20(1997),90s, crime
+1246,Bushwhacked (1995),http://us.imdb.com/Title?Bushwhacked+(1995/I),90s, comedy
+1247,Bad Girls (1994),http://us.imdb.com/Title?Bad+Girls+(1994/I),90s, western
+1248,Blink (1994),http://us.imdb.com/M/title-exact?Blink%20(1994),90s, thriller
+1249,For Love or Money (1993),http://us.imdb.com/M/title-exact?For%20Love%20or%20Money%20(1993),90s, comedy
+1250,Best of the Best 3: No Turning Back (1995),http://us.imdb.com/M/title-exact?Best%20of%20the%20Best%203:%20No%20Turning%20Back%20(1995),90s, action
+1251,A Chef in Love (1996),http://us.imdb.com/M/title-exact?Mille%20et%20une%20recettes%20du%20cuisinier%20amoureux%2C%20Les%20%281996%29,90s, comedy
+1252,"Contempt (Mépris, Le) (1963)",http://us.imdb.com/M/title-exact?M%E9pris%2C+Le+(1963),90s, drama
+1253,"Tie That Binds, The (1995)","http://us.imdb.com/M/title-exact?Tie%20That%20Binds,%20The%20(1995)",90s, thriller
+1254,Gone Fishin' (1997),http://us.imdb.com/M/title-exact?Gone%20Fishin'%20(1997),90s, comedy
+1255,Broken English (1996),http://us.imdb.com/M/title-exact?Broken%20English%20%281996%29,90s, drama
+1256,"Interstellar",https://us.imdb.com/M/title-exact?Interstellar%20,2010s, adventure drama
+1257,"Designated Mourner, The (1997)",http://us.imdb.com/M/title-exact?Designated%20Mourner%2C%20The%20%281997%29,90s, drama
+1258,Trial and Error (1997),http://us.imdb.com/M/title-exact?Trial%20and%20Error%20%281997%29,90s, comedy romance
+1259,Pie in the Sky (1995),http://us.imdb.com/M/title-exact?Pie%20in%20the%20Sky%20(1995),90s, comedy romance
+1260,Total Eclipse (1995),http://us.imdb.com/M/title-exact?Total%20Eclipse%20(1995),90s, drama
+1261,"Run of the Country, The (1995)","http://us.imdb.com/M/title-exact?Run%20of%20the%20Country,%20The%20(1995)",90s, drama
+1262,Walking and Talking (1996),http://us.imdb.com/M/title-exact?Walking%20and%20Talking%20(1996),90s, romance
+1263,Foxfire (1996),http://us.imdb.com/M/title-exact?Foxfire%20(1996),90s, drama
+1264,Nothing to Lose (1994),http://us.imdb.com/M/title-exact?Nothing%20to%20Lose%20(1994),90s, drama
+1265,Star Maps (1997),http://us.imdb.com/M/title-exact?Star+Maps+(1997),90s, drama
+1266,Bread and Chocolate (Pane e cioccolata) (1973),http://us.imdb.com/M/title-exact?Pane%20e%20Cioccolata%20(1973),70s, drama
+1267,Clockers (1995),http://us.imdb.com/M/title-exact?Clockers%20(1995),90s, drama
+1268,Bitter Moon (1992),http://us.imdb.com/M/title-exact?Lunes%20de%20fiel%20(1992),90s, drama
+1269,Love in the Afternoon (1957),http://us.imdb.com/M/title-exact?Love%20in%20the%20Afternoon%20(1957),50s, comedy romance
+1270,Life with Mikey (1993),http://us.imdb.com/M/title-exact?Life%20with%20Mikey%20(1993),90s, comedy
+1271,North (1994),http://us.imdb.com/M/title-exact?North%20(1994),90s, comedy
+1272,Talking About Sex (1994),http://us.imdb.com/M/title-exact?Talking%20About%20Sex%20(1994),90s, comedy drama
+1273,Color of Night (1994),http://us.imdb.com/M/title-exact?Color%20of%20Night%20(1994),90s, drama thriller
+1274,Robocop 3 (1993),http://us.imdb.com/M/title-exact?Robocop%203%20(1993),90s, sci-fi thriller
+1275,Killer (Bulletproof Heart) (1994),http://us.imdb.com/M/title-exact?Killer%20(1994),90s, thriller
+1276,Sunset Park (1996),http://us.imdb.com/M/title-exact?Sunset%20Park%20(1996),90s, drama
+1277,Set It Off (1996),http://us.imdb.com/M/title-exact?Set%20It%20Off%20(1996),90s, action crime
+1278,Selena (1997),http://us.imdb.com/M/title-exact?Selena%20(1997),90s, drama musical
+1279,Wild America (1997),http://us.imdb.com/M/title-exact?Wild+America+(1997),90s, adventure childrens
+1280,Gang Related (1997),http://us.imdb.com/M/title-exact?Gang+Related+(1997),90s, crime
+1281,Manny & Lo (1996),http://us.imdb.com/M/title-exact?Manny%20&%20Lo%20(1996),90s, drama
+1282,"Grass Harp, The (1995)","http://us.imdb.com/M/title-exact?Grass%20Harp,%20The%20(1995)",90s, drama
+1283,Out to Sea (1997),http://us.imdb.com/M/title-exact?Out+to+Sea+(1997),90s, comedy
+1284,Before and After (1996),http://us.imdb.com/M/title-exact?Before%20and%20After%20(1996),90s, drama mystery
+1285,Princess Caraboo (1994),http://us.imdb.com/M/title-exact?Princess%20Caraboo%20(1994),90s, drama
+1286,Shall We Dance? (1937),http://us.imdb.com/M/title-exact?Shall%20We%20Dance?%20(1937),30s, comedy musical romance
+1287,Ed (1996),http://us.imdb.com/M/title-exact?Ed%20(1996),90s, comedy
+1288,Denise Calls Up (1995),http://us.imdb.com/M/title-exact?Denise%20Calls%20Up%20(1995),90s, comedy
+1289,Jack and Sarah (1995),http://us.imdb.com/M/title-exact?Jack%20and%20Sarah%20(1995),90s, romance
+1290,Country Life (1994),http://us.imdb.com/M/title-exact?Country%20Life%20(1994),90s, drama romance
+1291,Celtic Pride (1996),http://us.imdb.com/M/title-exact?Celtic%20Pride%20(1996),90s, comedy
+1292,"Simple Wish, A (1997)",http://us.imdb.com/M/title-exact?Simple+Wish%2C+A+(1997),90s, childrens fantasy
+1293,Star Kid (1997),http://us.imdb.com/M/title-exact?imdb-title-120478,90s, adventure childrens fantasy sci-fi
+1294,Ayn Rand: A Sense of Life (1997),http://us.imdb.com/Title?Ayn+Rand%3A+A+Sense+of+Life+(1997),90s, documentary
+1295,Kicked in the Head (1997),http://us.imdb.com/M/title-exact?Kicked+in+the+Head+(1997),90s, comedy drama
+1296,Indian Summer (1996),http://us.imdb.com/M/title-exact?Indian+Summer+(1996),90s, comedy drama
+1297,Love Affair (1994),http://us.imdb.com/M/title-exact?Love%20Affair%20(1994),90s, drama romance
+1298,"Band Wagon, The (1953)","http://us.imdb.com/M/title-exact?Band%20Wagon,%20The%20(1953)",50s, comedy musical
+1299,Penny Serenade (1941),http://us.imdb.com/M/title-exact?Penny%20Serenade%20(1941),40s, drama romance
+1300,'Til There Was You (1997),http://us.imdb.com/Title?%27Til+There+Was+You+(1997),90s, drama romance
+1301,Stripes (1981),http://us.imdb.com/M/title-exact?Stripes+(1981),80s, comedy
+1302,Late Bloomers (1996),http://us.imdb.com/M/title-exact?Late%20Bloomers%20%281996%29,90s, comedy
+1303,"Getaway, The (1994)","http://us.imdb.com/M/title-exact?Getaway,%20The%20(1994)",90s, action
+1304,New York Cop (1996),http://us.imdb.com/Title?New+York+Cop+(1996),90s, action crime
+1305,National Lampoon's Senior Trip (1995),http://us.imdb.com/M/title-exact?National%20Lampoon's%20Senior%20Trip%20(1995),90s, comedy
+1306,Delta of Venus (1994),http://us.imdb.com/M/title-exact?Delta%20of%20Venus%20(1994),90s, drama
+1307,Carmen Miranda: Bananas Is My Business (1994),http://us.imdb.com/M/title-exact?Carmen%20Miranda:%20Bananas%20Is%20My%20Business%20(1994),90s, documentary
+1308,Babyfever (1994),http://us.imdb.com/M/title-exact?Babyfever%20(1994),90s, comedy drama
+1309,"Very Natural Thing, A (1974)","http://us.imdb.com/M/title-exact?Very%20Natural%20Thing,%20A%20(1974)",70s, drama
+1310,"Walk in the Sun, A (1945)","http://us.imdb.com/M/title-exact?Walk%20in%20the%20Sun,%20A%20(1945)",40s, drama
+1311,Waiting to Exhale (1995),http://us.imdb.com/M/title-exact?Waiting%20to%20Exhale%20(1995),90s, comedy drama
+1312,"Pompatus of Love, The (1996)","http://us.imdb.com/M/title-exact?Pompatus%20of%20Love,%20The%20(1996)",90s, comedy drama
+1313,Palmetto (1998),http://us.imdb.com/M/title-exact?Palmetto+(1998),90s, film_noir mystery thriller
+1314,Surviving the Game (1994),http://us.imdb.com/M/title-exact?Surviving%20the%20Game%20(1994),90s, action adventure thriller
+1315,Inventing the Abbotts (1997),http://us.imdb.com/M/title-exact?Inventing%20the%20Abbotts%20%281997%29,90s, drama romance
+1316,"Horse Whisperer, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-119314,90s, drama
+1317,"Journey of August King, The (1995)","http://us.imdb.com/M/title-exact?Journey%20of%20August%20King,%20The%20(1995)",90s, drama
+1318,Catwalk (1995),http://us.imdb.com/Title?Catwalk+(1995/I),90s, documentary
+1319,"Neon Bible, The (1995)","http://us.imdb.com/M/title-exact?Neon%20Bible,%20The%20(1995)",90s, drama
+1320,Homage (1995),http://us.imdb.com/M/title-exact?Homage%20(1995),90s, drama
+1321,Open Season (1996),http://us.imdb.com/Title?Open+Season+(1996),90s, comedy
+1322,Metisse (Café au Lait) (1993),http://us.imdb.com/Title?M%E9tisse+(1993),90s, comedy
+1323,"Wooden Man's Bride, The (Wu Kui) (1994)",http://us.imdb.com/M/title-exact?Wu%20Kui%20(1994),90s, drama
+1324,Loaded (1994),http://us.imdb.com/M/title-exact?Loaded%20(1994),90s, drama thriller
+1325,August (1996),http://us.imdb.com/M/title-exact?August%20(1996),90s, drama
+1326,Boys (1996),http://us.imdb.com/M/title-exact?Boys%20(1996),90s, drama
+1327,Captives (1994),http://us.imdb.com/Title?Captives+(1994),90s, drama
+1328,Of Love and Shadows (1994),http://us.imdb.com/M/title-exact?Of%20Love%20and%20Shadows%20(1994),90s, drama
+1329,"Low Life, The (1994)","http://us.imdb.com/Title?Low+Life,+The+(1994/I)",90s, drama
+1330,An Unforgettable Summer (1994),http://us.imdb.com/Title?Un+%E9t%E9+inoubliable+(1994),90s, drama
+1331,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",http://us.imdb.com/M/title-exact?Last%20Klezmer%3A%20Leopold%20Kozlowski%2C%20His%20Life%20and%20Music%2C%20The%20%281995%29,90s, documentary
+1332,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),http://us.imdb.com/M/title-exact?En%20compagnie%20d'Antonin%20Artaud%20(1993),90s, drama
+1333,Midnight Dancers (Sibak) (1994),http://us.imdb.com/M/title-exact?Sibak%20(1994),90s, comedy drama
+1334,Somebody to Love (1994),http://us.imdb.com/Title?Somebody+to+Love+(1996),90s, drama
+1335,American Buffalo (1996),http://us.imdb.com/M/title-exact?American%20Buffalo%20(1996),90s, drama
+1336,Kazaam (1996),http://us.imdb.com/M/title-exact?Kazaam%20(1996),90s, childrens comedy fantasy
+1337,Larger Than Life (1996),http://us.imdb.com/M/title-exact?Larger%20Than%20Life%20(1996),90s, comedy
+1338,Two Deaths (1995),http://us.imdb.com/Title?Two+Deaths+(1995),90s, drama
+1339,Stefano Quantestorie (1993),http://us.imdb.com/M/title-exact?Stefano%20Quantestorie%20%281993%29,90s, comedy drama
+1340,"Crude Oasis, The (1995)","http://us.imdb.com/M/title-exact?Crude%20Oasis,%20The%20(1995)",90s, romance
+1341,Hedd Wyn (1992),http://us.imdb.com/M/title-exact?Hedd%20Wyn%20(1992),90s, drama
+1342,"Convent, The (Convento, O) (1995)","http://us.imdb.com/M/title-exact?Convento,%20O%20(1995)",90s, drama
+1343,Lotto Land (1995),http://us.imdb.com/M/title-exact?Lotto%20Land%20(1995),90s, drama
+1344,"Story of Xinghua, The (1993)","http://us.imdb.com/M/title-exact?Story%20of%20Xinghua,%20The%20(1993)",90s, drama
+1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",http://us.imdb.com/M/title-exact?Tianguo%20Niezi%20(1994),90s, drama
+1346,Dingo (1992),http://us.imdb.com/M/title-exact?Dingo%20(1992),90s, drama
+1347,"Ballad of Narayama, The (Narayama Bushiko) (1958)",http://us.imdb.com/M/title-exact?Narayama%20Bushiko%20%281958%29,50s, drama
+1348,Every Other Weekend (1990),http://us.imdb.com/Title?Un+week-end+sur+deux+(1990),90s, drama
+1349,Mille bolle blu (1993),http://us.imdb.com/M/title-exact?Mille%20bolle%20blu%20(1993),90s, comedy
+1350,Crows and Sparrows (1949),http://us.imdb.com/Title?Wuya+yu+maque+(1949),40s, drama
+1351,Lover's Knot (1996),http://us.imdb.com/M/title-exact?Lover's%20Knot%20(1996),90s, comedy
+1352,Shadow of Angels (Schatten der Engel) (1976),http://us.imdb.com/M/title-exact?Schatten%20der%20Engel%20(1976),70s, drama
+1353,1-900 (1994),http://us.imdb.com/M/title-exact?06%20(1994),90s, romance
+1354,Venice/Venice (1992),http://us.imdb.com/M/title-exact?Venice/Venice%20(1992),90s, drama
+1355,Infinity (1996),http://us.imdb.com/M/title-exact?Infinity%20(1996),90s, drama
+1356,Ed's Next Move (1996),http://us.imdb.com/M/title-exact?Ed%27s%20Next%20Move%20%281996%29,90s, comedy
+1357,For the Moment (1994),http://us.imdb.com/M/title-exact?For%20the%20Moment%20(1994),90s, romance war
+1358,Joker,https://us.imdb.com/M/title-exact?Joker%20,2010s, crime drama thriller
+1359,Midsommar,https://us.imdb.com/M/title-exact?Midsommar%20,2010s, drama horror mystery
+1360,"Sexual Life of the Belgians, The (1994)","http://us.imdb.com/M/title-exact?Vie%20sexuelle%20des%20Belges,%20La%20(1994)",90s, comedy
+1361,"Search for One-eye Jimmy, The (1996)","http://us.imdb.com/M/title-exact?Search%20for%20One-eye%20Jimmy,%20The%20(1996)",90s, comedy
+1362,American Strays (1996),http://us.imdb.com/M/title-exact?American%20Strays%20(1996),90s, action
+1363,"Leopard Son, The (1996)","http://us.imdb.com/M/title-exact?Leopard%20Son,%20The%20(1996)",90s, documentary
+1364,Bird of Prey (1996),http://us.imdb.com/M/title-exact?Bird%20of%20Prey%20(1996),90s, action
+1365,Johnny 100 Pesos (1993),http://us.imdb.com/M/title-exact?Johnny%20100%20Pesos%20(1993),90s, action drama
+1366,JLG/JLG - autoportrait de décembre (1994),http://us.imdb.com/M/title-exact?JLG/JLG%20-%20autoportrait%20de%20d%E9cembre%20%281994%29,90s, documentary drama
+1367,Faust (1994),http://us.imdb.com/M/title-exact?Faust%20%281994%29,90s, animation
+1368,Mina Tannenbaum (1994),http://us.imdb.com/M/title-exact?Mina%20Tannenbaum%20(1994),90s, drama
+1369,"Forbidden Christ, The (Cristo proibito, Il) (1950)",http://us.imdb.com/M/title-exact?Cristo%20proibito%2C%20Il%20%281950%29,50s, drama
+1370,I Can't Sleep (J'ai pas sommeil) (1994),http://us.imdb.com/M/title-exact?J'ai%20pas%20sommeil%20(1994),90s, drama thriller
+1371,"Machine, The (1994)","http://us.imdb.com/M/title-exact?Machine,%20La%20(1994)",90s, comedy horror
+1372,"Stranger, The (1994)","http://us.imdb.com/Title?Stranger,+The+(1994/II)",90s, action
+1373,Good Morning (1971),http://us.imdb.com/M/title-exact?Good%20Morning%20(1971),70s,
+1374,Falling in Love Again (1980),http://us.imdb.com/M/title-exact?Falling%20in%20Love%20Again%20(1980),80s, comedy
+1375,"Cement Garden, The (1993)","http://us.imdb.com/M/title-exact?Cement%20Garden,%20The%20(1993)",90s, drama
+1376,Meet Wally Sparks (1997),http://us.imdb.com/M/title-exact?Meet%20Wally%20Sparks%20(1997),90s, comedy
+1377,Hotel de Love (1996),http://us.imdb.com/M/title-exact?Hotel%20de%20Love%20(1996),90s, comedy romance
+1378,Rhyme & Reason (1997),http://us.imdb.com/M/title-exact?Rhyme%20%26%20Reason%20(1997),90s, documentary
+1379,Love and Other Catastrophes (1996),http://us.imdb.com/M/title-exact?Love%20and%20Other%20Catastrophes%20%281996%29,90s, romance
+1380,Hollow Reed (1996),http://us.imdb.com/Title?Hollow+Reed+(1996),90s, drama
+1381,Losing Chase (1996),http://us.imdb.com/M/title-exact?Losing%20Chase%20%281996%29,90s, drama
+1382,"Bonheur, Le (1965)",http://us.imdb.com/M/title-exact?Bonheur%2C%20Le%20%281965%29,90s, drama
+1383,"Second Jungle Book: Mowgli & Baloo, The (1997)",http://us.imdb.com/M/title-exact?Second%20Jungle%20Book%3A%20Mowgli%20%26%20Baloo%2C%20The%20%281997%29,90s, adventure childrens
+1384,Squeeze (1996),http://us.imdb.com/M/title-exact?Squeeze%20%281996%29,90s, drama
+1385,Roseanna's Grave (For Roseanna) (1997),http://us.imdb.com/M/title-exact?Roseanna%27s+Grave+(1997),90s, comedy romance
+1386,Tetsuo II: Body Hammer (1992),http://us.imdb.com/M/title-exact?Tetsuo+II%3A+Body+Hammer+(1992),90s, sci-fi
+1387,Fall (1997),http://us.imdb.com/M/title-exact?Fall+(1997),90s, romance
+1388,Gabbeh (1996),http://us.imdb.com/M/title-exact?Gabbeh+(1996),90s, drama
+1389,Mondo (1996),http://us.imdb.com/M/title-exact?Mondo+(1996),90s, drama
+1390,"Innocent Sleep, The (1995)",http://us.imdb.com/M/title-exact?Innocent+Sleep%2C+The+(1995),90s, crime
+1391,For Ever Mozart (1996),http://us.imdb.com/M/title-exact?For+Ever+Mozart+(1996),90s, drama
+1392,"Locusts, The (1997)",http://us.imdb.com/M/title-exact?Locusts%2C+The+(1997),90s, drama
+1393,Stag (1997),http://us.imdb.com/M/title-exact?Stag+(1997),90s, action thriller
+1394,Swept from the Sea (1997),http://us.imdb.com/M/title-exact?Swept+from+the+Sea+(1997),90s, romance
+1395,Hurricane Streets (1998),http://us.imdb.com/Title?Hurricane+Streets+(1998),90s, drama
+1396,Stonewall (1995),http://us.imdb.com/M/title-exact?Stonewall%20(1995),90s, drama
+1397,Of Human Bondage (1934),http://us.imdb.com/M/title-exact?Of%20Human%20Bondage%20(1934),30s, drama
+1398,Anna (1996),http://us.imdb.com/M/title-exact?Anna%20(1996),90s, drama
+1399,Stranger in the House (1997),http://us.imdb.com/M/title-exact?imdb-title-120222,90s, thriller
+1400,Picture Bride (1995),http://us.imdb.com/M/title-exact?Picture%20Bride%20(1995),90s, drama romance
+1401,M. Butterfly (1993),http://us.imdb.com/M/title-exact?M.%20Butterfly%20(1993),90s, drama
+1402,"Ciao, Professore! (1993)",http://us.imdb.com/M/title-exact?Io%20speriamo%20che%20me%20la%20cavo%20(1993),90s, drama
+1403,Caro Diario (Dear Diary) (1994),http://us.imdb.com/M/title-exact?Caro%20diario%20(1994),90s, comedy drama
+1404,Withnail and I (1987),http://us.imdb.com/M/title-exact?Withnail%20and%20I%20(1987),80s, comedy
+1405,Boy's Life 2 (1997),http://us.imdb.com/M/title-exact?Boy%27s%20Life%202%20(1997),90s, drama
+1406,When Night Is Falling (1995),http://us.imdb.com/M/title-exact?When%20Night%20is%20Falling%20(1995),90s, drama romance
+1407,"Specialist, The (1994)","http://us.imdb.com/M/title-exact?Specialist,%20The%20(1994)",90s, action
+1408,Gordy (1995),http://us.imdb.com/M/title-exact?Gordy%20(1995),90s, comedy
+1409,"Swan Princess, The (1994)","http://us.imdb.com/M/title-exact?Swan%20Princess,%20The%20(1994)",90s, animation childrens
+1410,Harlem (1993),http://us.imdb.com/M/title-exact?Harlem%20(1993),90s, drama
+1411,Barbarella (1968),http://us.imdb.com/M/title-exact?Barbarella%20(1968),60s, adventure sci-fi
+1412,Land Before Time III: The Time of the Great Giving (1995) (V),http://us.imdb.com/M/title-exact?Land%20Before%20Time%20III%3A%20The%20Time%20of%20the%20Great%20Giving%20%281995%29%20%28V%29,90s, animation childrens
+1413,Street Fighter (1994),http://us.imdb.com/M/title-exact?Street%20Fighter%20(1994),90s, action
+1414,Coldblooded (1995),http://us.imdb.com/M/title-exact?Coldblooded%20(1995),90s, action
+1415,"Next Karate Kid, The (1994)","http://us.imdb.com/M/title-exact?Next%20Karate%20Kid,%20The%20(1994)",90s, action childrens
+1416,No Escape (1994),http://us.imdb.com/M/title-exact?No%20Escape%20(1994),90s, action sci-fi
+1417,"Turning, The (1992)",http://us.imdb.com/M/title-exact?Turning%2C%20The%20%281992%29,90s, drama
+1418,"Joy Luck Club, The (1993)",http://us.imdb.com/M/title-exact?Joy+Luck+Club%2C+The+(1993),90s, drama
+1419,Highlander III: The Sorcerer (1994),http://us.imdb.com/M/title-exact?Highlander%20III:%20The%20Sorcerer%20(1994),90s, action sci-fi
+1420,Gilligan's Island: The Movie (1998),http://us.imdb.com/M/title-exact?imdb-title-119195,90s, comedy
+1421,My Crazy Life (Mi vida loca) (1993),http://us.imdb.com/M/title-exact?Mi%20vida%20loca%20(1993),90s, drama
+1422,Suture (1993),http://us.imdb.com/M/title-exact?Suture%20(1993),90s, film_noir thriller
+1423,"Walking Dead, The (1995)","http://us.imdb.com/M/title-exact?Walking%20Dead,%20The%20(1995)",90s, drama war
+1424,I Like It Like That (1994),http://us.imdb.com/M/title-exact?I%20Like%20It%20Like%20That%20(1994),90s, comedy drama romance
+1425,I'll Do Anything (1994),http://us.imdb.com/M/title-exact?I'll%20Do%20Anything%20(1994),90s, comedy drama
+1426,Grace of My Heart (1996),http://us.imdb.com/M/title-exact?Grace%20of%20My%20Heart%20(1996),90s, comedy drama
+1427,Drunks (1995),http://us.imdb.com/M/title-exact?Drunks%20(1995),90s, drama
+1428,SubUrbia (1997),http://us.imdb.com/M/title-exact?SubUrbia%20(1997),90s, comedy
+1429,Sliding Doors (1998),http://us.imdb.com/Title?Sliding+Doors+(1998),90s, drama romance
+1430,Ill Gotten Gains (1997),http://us.imdb.com/M/title-exact?imdb-title-119352,90s, drama
+1431,Legal Deceit (1997),http://us.imdb.com/Title?Legal+Deceit+(1997),90s, thriller
+1432,"Mighty, The (1998)","http://us.imdb.com/Title?Mighty,+The+(1998)",90s, drama
+1433,Men of Means (1998),http://us.imdb.com/M/title-exact?imdb-title-119655,90s, action drama
+1434,Shooting Fish (1997),http://us.imdb.com/M/title-exact?imdb-title-120122,90s, romance
+1435,"Steal Big, Steal Little (1995)","http://us.imdb.com/M/title-exact?Steal%20Big,%20Steal%20Little%20(1995)",90s, comedy
+1436,Mr. Jones (1993),http://us.imdb.com/M/title-exact?Mr.%20Jones%20(1993),90s, drama romance
+1437,House Party 3 (1994),http://us.imdb.com/M/title-exact?House%20Party%203%20(1994),90s, comedy
+1438,Panther (1995),http://us.imdb.com/M/title-exact?Panther%20(1995),90s, drama
+1439,Jason's Lyric (1994),http://us.imdb.com/M/title-exact?Jason's%20Lyric%20(1994),90s, crime drama
+1440,Above the Rim (1994),http://us.imdb.com/M/title-exact?Above%20the%20Rim%20(1994),90s, drama
+1441,Moonlight and Valentino (1995),http://us.imdb.com/M/title-exact?Moonlight%20and%20Valentino%20(1995),90s, drama romance
+1442,"Scarlet Letter, The (1995)","http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1995)",90s, drama
+1443,8 Seconds (1994),http://us.imdb.com/M/title-exact?8%20Seconds%20(1994),90s, drama
+1444,That Darn Cat! (1965),http://us.imdb.com/Title?That+Darn+Cat%21+(1965),60s, childrens comedy mystery
+1445,Ladybird Ladybird (1994),http://us.imdb.com/M/title-exact?Ladybird%20Ladybird%20(1994),90s, drama
+1446,"Bye Bye, Love (1995)","http://us.imdb.com/M/title-exact?Bye%20Bye,%20Love%20(1995)",90s, comedy
+1447,Century (1993),http://us.imdb.com/M/title-exact?Century%20(1993),90s, drama
+1448,My Favorite Season (1993),http://us.imdb.com/Title?Ma+saison+pr%E9f%E9r%E9e+(1993),90s, drama
+1449,Pather Panchali (1955),http://us.imdb.com/M/title-exact?Pather%20Panchali%20(1955),90s, drama
+1450,Golden Earrings (1947),http://us.imdb.com/M/title-exact?Golden%20Earrings%20%281947%29,40s, adventure romance
+1451,Foreign Correspondent (1940),http://us.imdb.com/M/title-exact?Foreign%20Correspondent%20(1940),40s, thriller
+1452,Lady of Burlesque (1943),http://us.imdb.com/M/title-exact?Lady%20of%20Burlesque%20(1943),40s, comedy mystery
+1453,Angel on My Shoulder (1946),http://us.imdb.com/M/title-exact?Angel%20on%20My%20Shoulder%20(1946),40s, crime drama
+1454,Angel and the Badman (1947),http://us.imdb.com/M/title-exact?Angel%20and%20the%20Badman%20(1947),40s, western
+1455,"Outlaw, The (1943)","http://us.imdb.com/M/title-exact?Outlaw,%20The%20(1943)",40s, western
+1456,Beat the Devil (1954),http://us.imdb.com/M/title-exact?Beat%20the%20Devil%20(1954),50s, comedy drama
+1457,Love Is All There Is (1996),http://us.imdb.com/M/title-exact?Love%20Is%20All%20There%20Is%20(1996),90s, comedy drama
+1458,"Damsel in Distress, A (1937)","http://us.imdb.com/M/title-exact?Damsel%20in%20Distress,%20A%20(1937)",30s, comedy musical romance
+1459,Madame Butterfly (1995),http://us.imdb.com/M/title-exact?Madame%20Butterfly%20(1995),90s, musical
+1460,Sleepover (1995),http://us.imdb.com/M/title-exact?Sleepover%20(1995),90s, comedy drama
+1461,Here Comes Cookie (1935),http://us.imdb.com/M/title-exact?Here%20Comes%20Cookie%20(1935),30s, comedy
+1462,"Thieves (Voleurs, Les) (1996)","http://us.imdb.com/M/title-exact?Voleurs,%20Les%20(1996)",90s, crime drama romance
+1463,"Boys, Les (1997)",http://us.imdb.com/M/title-exact?imdb-title-118764,90s, comedy
+1464,"Stars Fell on Henrietta, The (1995)","http://us.imdb.com/Title?Stars+Fell+on+Henrietta,+The+(1995)",90s, drama
+1465,Last Summer in the Hamptons (1995),http://us.imdb.com/M/title-exact?Last%20Summer%20in%20the%20Hamptons%20(1995),90s, comedy drama
+1466,Margaret's Museum (1995),http://us.imdb.com/M/title-exact?Margaret's%20Museum%20(1995),90s, drama
+1467,"Saint of Fort Washington, The (1993)","http://us.imdb.com/M/title-exact?Saint%20of%20Fort%20Washington,%20The%20(1993)",90s, drama
+1468,"Cure, The (1995)","http://us.imdb.com/M/title-exact?Cure,%20The%20(1995)",90s, drama
+1469,Tom and Huck (1995),http://us.imdb.com/M/title-exact?Tom%20and%20Huck%20(1995),90s, adventure childrens
+1470,Gumby: The Movie (1995),http://us.imdb.com/M/title-exact?Gumby:%20The%20Movie%20(1995),90s, animation childrens
+1471,Hideaway (1995),http://us.imdb.com/M/title-exact?Hideaway%20(1995),90s, thriller
+1472,"Visitors, The (Visiteurs, Les) (1993)","http://us.imdb.com/M/title-exact?Visiteurs,%20Les%20(1993)",90s, comedy sci-fi
+1473,"Little Princess, The (1939)","http://us.imdb.com/M/title-exact?Little%20Princess,%20The%20(1939)",30s, childrens drama
+1474,Nina Takes a Lover (1994),http://us.imdb.com/M/title-exact?Nina%20Takes%20a%20Lover%20(1994),90s, comedy romance
+1475,Bhaji on the Beach (1993),http://us.imdb.com/M/title-exact?Bhaji%20on%20the%20Beach%20(1993),90s, comedy drama
+1476,Raw Deal (1948),http://us.imdb.com/M/title-exact?Raw%20Deal%20(1948),40s, film_noir
+1477,Nightwatch (1997),http://us.imdb.com/M/title-exact?Nightwatch%20(1997),90s, horror thriller
+1478,Dead Presidents (1995),http://us.imdb.com/M/title-exact?Dead%20Presidents%20(1995),90s, action crime drama
+1479,Reckless (1995),http://us.imdb.com/Title?Reckless+(1995/I),90s, comedy
+1480,Herbie Rides Again (1974),http://us.imdb.com/M/title-exact?Herbie%20Rides%20Again%20(1974),70s, adventure childrens comedy
+1481,S.F.W. (1994),http://us.imdb.com/M/title-exact?S.F.W.%20(1994),90s, drama
+1482,"Gate of Heavenly Peace, The (1995)","http://us.imdb.com/M/title-exact?Gate%20of%20Heavenly%20Peace,%20The%20(1995)",90s, documentary
+1483,"Man in the Iron Mask, The (1998)","http://us.imdb.com/Title?Man+in+the+Iron+Mask,+The+(1998/I)",90s, action drama romance
+1484,"Jerky Boys, The (1994)","http://us.imdb.com/M/title-exact?Jerky%20Boys,%20The%20(1994)",90s, action comedy
+1485,"Colonel Chabert, Le (1994)","http://us.imdb.com/M/title-exact?Colonel%20Chabert,%20Le%20(1994)",90s, drama romance war
+1486,Girl in the Cadillac (1995),http://us.imdb.com/M/title-exact?Girl%20in%20the%20Cadillac%20(1995),90s, drama
+1487,Even Cowgirls Get the Blues (1993),http://us.imdb.com/M/title-exact?Even%20Cowgirls%20Get%20the%20Blues%20(1993),90s, comedy romance
+1488,Germinal (1993),http://us.imdb.com/M/title-exact?Germinal%20(1993),90s, drama
+1489,Chasers (1994),http://us.imdb.com/M/title-exact?Chasers%20(1994),90s, comedy
+1490,Fausto (1993),http://us.imdb.com/M/title-exact?Fausto%20%281993%29,90s, comedy
+1491,Tough and Deadly (1995),http://us.imdb.com/M/title-exact?Tough%20and%20Deadly%20(1995),90s, action drama thriller
+1492,Window to Paris (1994),http://us.imdb.com/Title?Okno+v+Parizh+(1994),90s, comedy
+1493,"Modern Affair, A (1995)","http://us.imdb.com/M/title-exact?Modern%20Affair,%20A%20(1995)",90s, romance
+1494,"Mostro, Il (1994)","http://us.imdb.com/M/title-exact?Mostro,%20Il%20(1994)",90s, comedy
+1495,Flirt (1995),http://us.imdb.com/Title?Flirt+(1995/I),90s, drama
+1496,Carpool (1996),http://us.imdb.com/M/title-exact?Carpool%20(1996),90s, comedy crime
+1497,"Line King: Al Hirschfeld, The (1996)","http://us.imdb.com/M/title-exact?Line%20King,%20The%20(1996)",90s, documentary
+1498,Farmer & Chase (1995),http://us.imdb.com/M/title-exact?Farmer%20&%20Chase%20(1995),90s, comedy
+1499,Grosse Fatigue (1994),http://us.imdb.com/M/title-exact?Grosse%20fatigue%20(1994),90s, comedy
+1500,Santa with Muscles (1996),http://us.imdb.com/M/title-exact?Santa%20with%20Muscles%20(1996),90s, comedy
+1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),http://us.imdb.com/M/title-exact?Kavkazsky%20Plennik%20(1996),90s, war
+1502,Naked in New York (1994),http://us.imdb.com/Title?Naked+in+New+York+(1994),90s, comedy romance
+1503,Gold Diggers: The Secret of Bear Mountain (1995),http://us.imdb.com/M/title-exact?Gold%20Diggers:%20The%20Secret%20of%20Bear%20Mountain%20(1995),90s, adventure childrens
+1504,"Bewegte Mann, Der (1994)",http://us.imdb.com/M/title-exact?Bewegte%20Mann%2C%20Der%20%281994%29,90s, comedy
+1505,Killer: A Journal of Murder (1995),http://us.imdb.com/M/title-exact?Killer:%20A%20Journal%20of%20Murder%20(1995),90s, crime drama
+1506,Nelly & Monsieur Arnaud (1995),http://us.imdb.com/M/title-exact?Nelly%20%26%20Monsieur%20Arnaud%20%281995%29,90s, drama
+1507,Three Lives and Only One Death (1996),http://us.imdb.com/M/title-exact?Trois%20vies%20et%20une%20seule%20mort%20(1996),90s, comedy
+1508,"Babysitter, The (1995)","http://us.imdb.com/M/title-exact?Babysitter,%20The%20(1995)",90s, drama thriller
+1509,Getting Even with Dad (1994),http://us.imdb.com/M/title-exact?Getting%20Even%20with%20Dad%20(1994),90s, comedy
+1510,Mad Dog Time (1996),http://us.imdb.com/M/title-exact?Mad%20Dog%20Time%20(1996),90s, crime
+1511,Children of the Revolution (1996),http://us.imdb.com/M/title-exact?Children%20of%20the%20Revolution%20%281996%29,90s, comedy
+1512,"World of Apu, The (Apur Sansar) (1959)",http://us.imdb.com/M/title-exact?Apur%20Sansar%20(1959),90s, drama
+1513,Sprung (1997),http://us.imdb.com/M/title-exact?Sprung%20%281997%29,90s, comedy
+1514,Dream With the Fishes (1997),http://us.imdb.com/M/title-exact?Dream+With+the+Fishes+(1997),90s, drama
+1515,Wings of Courage (1995),http://us.imdb.com/M/title-exact?Wings%20of%20Courage%20(1995),90s, adventure romance
+1516,"Wedding Gift, The (1994)","http://us.imdb.com/M/title-exact?Wedding%20Gift,%20The%20(1994)%20(TV)",90s, drama
+1517,Race the Sun (1996),http://us.imdb.com/M/title-exact?Race%20the%20Sun%20(1996),90s, drama
+1518,Losing Isaiah (1995),http://us.imdb.com/M/title-exact?Losing%20Isaiah%20(1995),90s, drama
+1519,New Jersey Drive (1995),http://us.imdb.com/M/title-exact?New%20Jersey%20Drive%20(1995),90s, crime drama
+1520,"Fear, The (1995)","http://us.imdb.com/M/title-exact?Fear,%20The%20(1995)",90s, horror
+1521,Mr. Wonderful (1993),http://us.imdb.com/M/title-exact?Mr.%20Wonderful%20(1993),90s, comedy romance
+1522,Trial by Jury (1994),http://us.imdb.com/M/title-exact?Trial%20by%20Jury%20(1994),90s, thriller
+1523,"Good Man in Africa, A (1994)","http://us.imdb.com/M/title-exact?Good%20Man%20in%20Africa,%20A%20(1994)",90s, action adventure
+1524,Kaspar Hauser (1993),http://us.imdb.com/Title?Kaspar+Hauser+(1993),90s, drama
+1525,"Object of My Affection, The (1998)","http://us.imdb.com/Title?Object+of+My+Affection,+The+(1998)",90s, comedy romance
+1526,Witness (1985),http://us.imdb.com/M/title-exact?Witness+(1985),80s, drama romance thriller
+1527,Senseless (1998),http://us.imdb.com/M/title-exact?imdb-title-120820,90s, comedy
+1528,Nowhere (1997),http://us.imdb.com/M/title-exact?Nowhere%20%281997%29,90s, drama
+1529,Underground (1995),http://us.imdb.com/M/title-exact?Underground%20(1995),90s, war
+1530,Jefferson in Paris (1995),http://us.imdb.com/M/title-exact?Jefferson%20in%20Paris%20(1995),90s, drama
+1531,Far From Home: The Adventures of Yellow Dog (1995),http://us.imdb.com/M/title-exact?Far%20From%20Home:%20The%20Adventures%20of%20Yellow%20Dog%20(1995),90s, adventure childrens
+1532,Foreign Student (1994),http://us.imdb.com/M/title-exact?Foreign%20Student%20(1994),90s, drama
+1533,I Don't Want to Talk About It (De eso no se habla) (1993),http://us.imdb.com/M/title-exact?De%20Eso%20No%20Se%20Habla%20(1993),90s, drama
+1534,Twin Town (1997),http://us.imdb.com/M/title-exact?Twin%20Town%20%281997%29,90s, comedy crime
+1535,"Enfer, L' (1994)","http://us.imdb.com/M/title-exact?Enfer,%20L'%20(1994)",90s, drama
+1536,Aiqing wansui (1994),http://us.imdb.com/M/title-exact?Aiqing%20Wansui%20(1994),90s, drama
+1537,Cosi (1996),http://us.imdb.com/M/title-exact?Cosi%20(1996),90s, comedy
+1538,All Over Me (1997),http://us.imdb.com/M/title-exact?All%20Over%20Me%20%281997%29,90s, drama
+1539,Being Human (1993),http://us.imdb.com/M/title-exact?Being%20Human%20(1993),90s, drama
+1540,"Amazing Panda Adventure, The (1995)","http://us.imdb.com/M/title-exact?Amazing%20Panda%20Adventure,%20The%20(1995)",90s, adventure childrens
+1541,"Beans of Egypt, Maine, The (1994)","http://us.imdb.com/M/title-exact?Beans%20of%20Egypt,%20Maine,%20The%20(1994)",90s, drama
+1542,"Scarlet Letter, The (1926)","http://us.imdb.com/M/title-exact?Scarlet%20Letter,%20The%20(1926)",20s, drama
+1543,Johns (1996),http://us.imdb.com/M/title-exact?Johns%20(1996),90s, drama
+1544,It Takes Two (1995),http://us.imdb.com/M/title-exact?It%20Takes%20Two%20(1995),90s, comedy
+1545,Frankie Starlight (1995),http://us.imdb.com/M/title-exact?Frankie%20Starlight%20(1995),90s, drama romance
+1546,Shadows (Cienie) (1988),http://us.imdb.com/M/title-exact?Cienie%20(1988),80s, drama
+1547,"Show, The (1995)","http://us.imdb.com/M/title-exact?Show,%20The%20(1995)",90s, documentary
+1548,The Courtyard (1995),"http://us.imdb.com/M/title-exact?Courtyard,%20The%20(1995)%20(TV)",90s, action thriller
+1549,Dream Man (1995),http://us.imdb.com/M/title-exact?Dream%20Man%20(1995),90s, thriller
+1550,Destiny Turns on the Radio (1995),http://us.imdb.com/M/title-exact?Destiny%20Turns%20on%20the%20Radio%20(1995),90s, comedy
+1551,"Glass Shield, The (1994)","http://us.imdb.com/M/title-exact?Glass%20Shield,%20The%20(1994)",90s, drama
+1552,"Hunted, The (1995)","http://us.imdb.com/M/title-exact?Hunted,%20The%20(1995)",90s, action
+1553,"Underneath, The (1995)","http://us.imdb.com/M/title-exact?Underneath,%20The%20(1995)",90s, mystery thriller
+1554,Safe Passage (1994),http://us.imdb.com/M/title-exact?Safe%20Passage%20(1994),90s, drama
+1555,"Secret Adventures of Tom Thumb, The (1993)","http://us.imdb.com/M/title-exact?Secret%20Adventures%20of%20Tom%20Thumb,%20The%20(1993)",90s, adventure childrens
+1556,Condition Red (1995),http://us.imdb.com/M/title-exact?Condition%20Red%20(1995),90s, action drama thriller
+1557,Yankee Zulu (1994),http://us.imdb.com/M/title-exact?Yankee%20Zulu%20(1994),90s, comedy drama
+1558,Aparajito (1956),http://us.imdb.com/M/title-exact?Aparajito%20(1956),90s, drama
+1559,Hostile Intentions (1994),http://us.imdb.com/M/title-exact?Hostile%20Intentions%20(1994),90s, action drama thriller
+1560,Clean Slate (Coup de Torchon) (1981),http://us.imdb.com/M/title-exact?Coup%20de%20torchon%20(1981),80s, crime
+1561,Tigrero: A Film That Was Never Made (1994),http://us.imdb.com/M/title-exact?Tigrero:%20A%20Film%20That%20Was%20Never%20Made%20(1994),90s, documentary drama
+1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)","http://us.imdb.com/M/title-exact?Oeil%20de%20Vichy,%20L'%20(1993)",90s, documentary
+1563,"Promise, The (Versprechen, Das) (1994)","http://us.imdb.com/M/title-exact?Versprechen,%20Das%20(1994)",90s, romance
+1564,To Cross the Rubicon (1991),http://us.imdb.com/M/title-exact?To%20Cross%20the%20Rubicon%20(1991),90s, drama
+1565,Daens (1992),http://us.imdb.com/M/title-exact?Daens%20(1992),90s, drama
+1566,"Man from Down Under, The (1943)","http://us.imdb.com/Title?Man+from+Down+Under,+The+(1943)",40s, drama
+1567,Careful (1992),http://us.imdb.com/M/title-exact?Careful%20(1992),90s, comedy
+1568,Vermont Is For Lovers (1992),http://us.imdb.com/M/title-exact?Vermont%20Is%20For%20Lovers%20(1992),90s, comedy romance
+1569,"Vie est belle, La (Life is Rosey) (1987)","http://us.imdb.com/M/title-exact?Vie%20est%20belle,%20La%20(1987)",80s, comedy drama
+1570,Quartier Mozart (1992),http://us.imdb.com/M/title-exact?Quartier%20Mozart%20(1992),90s, comedy
+1571,Touki Bouki (Journey of the Hyena) (1973),http://us.imdb.com/M/title-exact?Touki%20Bouki%20(1973),70s, drama
+1572,Wend Kuuni (God's Gift) (1982),http://us.imdb.com/M/title-exact?Wend%20Kuuni%20(1982),80s, drama
+1573,Spirits of the Dead (Tre passi nel delirio) (1968),http://us.imdb.com/M/title-exact?Tre%20passi%20nel%20delirio%20(1968),60s, horror
+1574,Pharaoh's Army (1995),http://us.imdb.com/M/title-exact?Pharaoh's%20Army%20(1995),90s, war
+1575,"I, Worst of All (Yo, la peor de todas) (1990)","http://us.imdb.com/M/title-exact?Yo,%20la%20Peor%20de%20Todas%20(1990)",90s, drama
+1576,"Hungarian Fairy Tale, A (1987)","http://us.imdb.com/M/title-exact?Hol%20volt,%20hol%20nem%20volt%20(1987)",80s, fantasy
+1577,"Death in the Garden (Mort en ce jardin, La) (1956)","http://us.imdb.com/Title?Mort+en+ce+jardin,+La+(1956)",50s, drama
+1578,"Collectionneuse, La (1967)","http://us.imdb.com/M/title-exact?Collectionneuse,%20La%20(1967)",60s, drama
+1579,Baton Rouge (1988),http://us.imdb.com/Title?B%E2ton+rouge+(1988),80s, thriller
+1580,Liebelei (1933),http://us.imdb.com/M/title-exact?Liebelei%20(1933),30s, romance
+1581,"Woman in Question, The (1950)","http://us.imdb.com/M/title-exact?Woman%20in%20Question,%20The%20(1950)",50s, mystery
+1582,T-Men (1947),http://us.imdb.com/M/title-exact?T-Men%20(1947),40s, film_noir
+1583,"Invitation, The (Zaproszenie) (1986)",http://us.imdb.com/M/title-exact?Zaproszenie%20(1986),80s, drama
+1584,"Symphonie pastorale, La (1946)","http://us.imdb.com/M/title-exact?Symphonie%20pastorale,%20La%20(1946)",40s, drama
+1585,American Dream (1990),http://us.imdb.com/M/title-exact?American%20Dream%20(1990),90s, documentary
+1586,Lashou shentan (1992),http://us.imdb.com/M/title-exact?Lashou%20Shentan%20(1992),90s, action crime drama
+1587,Terror in a Texas Town (1958),http://us.imdb.com/M/title-exact?Terror%20in%20a%20Texas%20Town%20(1958),50s, western
+1588,Salut cousin! (1996),http://us.imdb.com/M/title-exact?Salut%20cousin!%20(1996),90s, comedy drama
+1589,Schizopolis (1996),http://us.imdb.com/Title?Schizopolis+(1996),90s, comedy
+1590,"To Have, or Not (1995)",http://us.imdb.com/M/title-exact?En%20avoir%20%28ou%20pas%29%20%281995%29,90s, drama
+1591,Duoluo tianshi (1995),http://us.imdb.com/M/title-exact?imdb-title-112913,90s, drama
+1592,"Magic Hour, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-119594,90s, drama
+1593,Death in Brunswick (1991),http://us.imdb.com/M/title-exact?Death%20in%20Brunswick%20(1991),90s, comedy
+1594,Everest (1998),http://us.imdb.com/Title?Everest+(1998),90s, documentary
+1595,Shopping (1994),http://us.imdb.com/M/title-exact?Shopping%20(1994),90s, action thriller
+1596,Nemesis 2: Nebula (1995),http://us.imdb.com/M/title-exact?Nemesis%202:%20Nebula%20(1995),90s, action sci-fi thriller
+1597,Romper Stomper (1992),http://us.imdb.com/M/title-exact?Romper%20Stomper%20(1992),90s, action drama
+1598,City of Industry (1997),http://us.imdb.com/M/title-exact?City%20of%20Industry%20(1997),90s, crime thriller
+1599,Someone Else's America (1995),http://us.imdb.com/M/title-exact?Someone%20Else's%20America%20(1995),90s, drama
+1600,Guantanamera (1994),http://us.imdb.com/M/title-exact?Guantanamera%20(1994),90s, comedy
+1601,Office Killer (1997),http://us.imdb.com/M/title-exact?imdb-title-119819,90s, thriller
+1602,"Price Above Rubies, A (1998)","http://us.imdb.com/Title?Price+Above+Rubies,+A+(1998)",90s, drama
+1603,Angela (1995),http://us.imdb.com/M/title-exact?Angela%20(1995),90s, drama
+1604,He Walked by Night (1948),http://us.imdb.com/M/title-exact?He%20Walked%20by%20Night%20(1948),40s, crime film_noir thriller
+1605,Love Serenade (1996),http://us.imdb.com/M/title-exact?Love+Serenade+(1996),90s, comedy
+1606,Deceiver (1997),http://us.imdb.com/M/title-exact?Liar+(1997),90s, crime
+1607,Hurricane Streets (1998),http://us.imdb.com/Title?Hurricane+Streets+(1998),90s, drama
+1608,Buddy (1997),http://us.imdb.com/M/title-exact?Buddy%20%281997%29,90s, adventure childrens drama
+1609,B*A*P*S (1997),http://us.imdb.com/M/title-exact?B%2EA%2EP%2ES%2E%20(1997),90s, comedy
+1610,"Truth or Consequences, N.M. (1997)","http://us.imdb.com/Title?Truth+or+Consequences,+N.M.+(1997)",90s, action crime romance
+1611,Intimate Relations (1996),http://us.imdb.com/M/title-exact?Intimate%20Relations%20%281996%29,90s, comedy
+1612,"Leading Man, The (1996)",http://us.imdb.com/M/title-exact?imdb-title-116845,90s, romance
+1613,Tokyo Fist (1995),http://us.imdb.com/M/title-exact?Tokyo+Fist+(1995),90s, action drama
+1614,"Reluctant Debutante, The (1958)","http://us.imdb.com/M/title-exact?Reluctant%20Debutante,%20The%20(1958)",50s, comedy drama
+1615,Warriors of Virtue (1997),http://us.imdb.com/M/title-exact?Warriors%20of%20Virtue%20%281997%29,90s, action adventure childrens fantasy
+1616,Desert Winds (1995),http://us.imdb.com/M/title-exact?Desert%20Winds%20(1995),90s, drama
+1617,Hugo Pool (1997),http://us.imdb.com/M/title-exact?Hugo+Pool+(1997),90s, romance
+1618,King of New York (1990),http://us.imdb.com/Title?King+of+New+York+(1990),90s, action crime
+1619,All Things Fair (1996),http://us.imdb.com/Title?Lust+och+f%E4gring+stor+(1995),90s, drama
+1620,"Sixth Man, The (1997)",http://us.imdb.com/M/title-exact?Sixth%20Man%2C%20The%20(1997),90s, comedy
+1621,Butterfly Kiss (1995),http://us.imdb.com/M/title-exact?Butterfly%20Kiss%20(1995),90s, thriller
+1622,"Paris, France (1993)","http://us.imdb.com/M/title-exact?Paris,%20France%20(1993)",90s, comedy
+1623,"Cérémonie, La (1995)",http://us.imdb.com/M/title-exact?C%E9r%E9monie%2C%20La%20%281995%29,90s, drama
+1624,Hush (1998),http://us.imdb.com/Title?Hush+(1998),90s, thriller
+1625,Nightwatch (1997),http://us.imdb.com/M/title-exact?Nightwatch%20(1997),90s, horror thriller
+1626,Nobody Loves Me (Keiner liebt mich) (1994),http://us.imdb.com/M/title-exact?Keiner%20liebt%20mich%20(1994),90s, comedy drama
+1627,"Wife, The (1995)","http://us.imdb.com/Title?Wife,+The+(1995)",90s, comedy drama
+1628,Lamerica (1994),http://us.imdb.com/M/title-exact?Lamerica%20(1994),90s, drama
+1629,Nico Icon (1995),http://us.imdb.com/M/title-exact?Nico%20Icon%20(1995),90s, documentary
+1630,"Silence of the Palace, The (Saimt el Qusur) (1994)",http://us.imdb.com/M/title-exact?Saimt%20el%20Qusur%20(1994),90s, drama
+1631,"Slingshot, The (1993)",http://us.imdb.com/Title?K%E5disbellan+(1993),90s, comedy drama
+1632,Land and Freedom (Tierra y libertad) (1995),http://us.imdb.com/M/title-exact?Tierra%20y%20libertad%20(1995),90s, war
+1633,Á köldum klaka (Cold Fever) (1994),http://us.imdb.com/Title?%C1+k%F6ldum+klaka+(1994),90s, comedy drama
+1634,Etz Hadomim Tafus (Under the Domin Tree) (1994),http://us.imdb.com/M/title-exact?Etz%20Hadomim%20Tafus%20(1994),90s, drama
+1635,Two Friends (1986) ,http://us.imdb.com/M/title-exact?Two%20Friends%20(1986)%20(TV),80s, drama
+1636,Brothers in Trouble (1995),http://us.imdb.com/M/title-exact?Brothers%20in%20Trouble%20(1995),90s, drama
+1637,Girls Town (1996),http://us.imdb.com/M/title-exact?Girls%20Town%20(1996),90s, drama
+1638,Normal Life (1996),http://us.imdb.com/M/title-exact?Normal%20Life%20(1996),90s, crime drama
+1639,Bitter Sugar (Azucar Amargo) (1996),http://us.imdb.com/M/title-exact?Bitter%20Sugar%20(1996),90s, drama
+1640,"Eighth Day, The (1996)","http://us.imdb.com/Title?Huiti%E8me+jour,+Le+(1996)",90s, drama
+1641,Dadetown (1995),http://us.imdb.com/M/title-exact?Dadetown%20(1995),90s, documentary
+1642,Some Mother's Son (1996),http://us.imdb.com/M/title-exact?Some%20Mother's%20Son%20(1996),90s, drama
+1643,Angel Baby (1995),http://us.imdb.com/Title?Angel+Baby+(1995/I),90s, drama
+1644,Sudden Manhattan (1996),http://us.imdb.com/M/title-exact?Sudden%20Manhattan%20%281996%29,90s, comedy
+1645,"Butcher Boy, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-118804,90s, drama
+1646,Men With Guns (1997),http://us.imdb.com/Title?Men+with+Guns+(1997/I),90s, action drama
+1647,Hana-bi (1997),http://us.imdb.com/Title?Hana-bi+(1997),90s, comedy crime drama
+1648,"Niagara, Niagara (1997)","http://us.imdb.com/Title?Niagara,+Niagara+(1997)",90s, drama
+1649,"Big One, The (1997)","http://us.imdb.com/Title?Big+One,+The+(1997)",90s, comedy documentary
+1650,"Butcher Boy, The (1998)",http://us.imdb.com/M/title-exact?imdb-title-118804,90s, drama
+1651,"Spanish Prisoner, The (1997)","http://us.imdb.com/Title?Spanish+Prisoner,+The+(1997)",90s, drama thriller
+1652,Temptress Moon (Feng Yue) (1996),http://us.imdb.com/M/title-exact?Feng%20Yue%20%281996%29,90s, romance
+1653,Entertaining Angels: The Dorothy Day Story (1996),http://us.imdb.com/M/title-exact?Entertaining%20Angels:%20The%20Dorothy%20Day%20Story%20(1996),90s, drama
+1654,Chairman of the Board (1998),http://us.imdb.com/Title?Chairman+of+the+Board+(1998),90s, comedy
+1655,"Favor, The (1994)","http://us.imdb.com/M/title-exact?Favor,%20The%20(1994)",90s, comedy romance
+1656,Little City (1998),http://us.imdb.com/M/title-exact?Little+City+(1998),90s, comedy romance
+1657,Target (1995),http://us.imdb.com/M/title-exact?Target%20(1995),90s, action drama
+1658,"Substance of Fire, The (1996)","http://us.imdb.com/M/title-exact?Substance%20of%20Fire,%20The%20(1996)",90s, drama
+1659,Getting Away With Murder (1996),http://us.imdb.com/Title?Getting+Away+With+Murder+(1996),90s, comedy
+1660,Small Faces (1995),http://us.imdb.com/M/title-exact?Small%20Faces%20(1995),90s, drama
+1661,"New Age, The (1994)","http://us.imdb.com/M/title-exact?New%20Age,%20The%20(1994)",90s, drama
+1662,Rough Magic (1995),http://us.imdb.com/M/title-exact?Rough%20Magic%20%281995%29,90s, drama romance
+1663,Nothing Personal (1995),http://us.imdb.com/M/title-exact?Nothing%20Personal%20(1995),90s, drama war
+1664,8 Heads in a Duffel Bag (1997),http://us.imdb.com/Title?8+Heads+in+a+Duffel+Bag+(1997),90s, comedy
+1665,"Brother's Kiss, A (1997)",http://us.imdb.com/M/title-exact?Brother%27s%20Kiss%2C%20A%20%281997%29,90s, drama
+1666,Ripe (1996),http://us.imdb.com/M/title-exact?Ripe%20%281996%29,90s, drama
+1667,"Next Step, The (1995)",http://us.imdb.com/M/title-exact?Next%20Step%2C%20The%20%281995%29,90s, drama
+1668,Wedding Bell Blues (1996),http://us.imdb.com/M/title-exact?Wedding%20Bell%20Blues%20%281996%29,90s, comedy
+1669,MURDER and murder (1996),http://us.imdb.com/M/title-exact?MURDER+and+murder+(1996),90s, crime drama mystery
+1670,Tainted (1998),http://us.imdb.com/M/title-exact?Tainted+(1998),90s, comedy thriller
+1671,"Further Gesture, A (1996)",http://us.imdb.com/M/title-exact?Further+Gesture%2C+A+(1996),90s, drama
+1672,Kika (1993),http://us.imdb.com/M/title-exact?Kika%20(1993),90s, drama
+1673,Mirage (1995),http://us.imdb.com/M/title-exact?Mirage%20(1995),90s, action thriller
+1674,Mamma Roma (1962),http://us.imdb.com/M/title-exact?Mamma%20Roma%20(1962),60s, drama
+1675,"Sunchaser, The (1996)","http://us.imdb.com/M/title-exact?Sunchaser,%20The%20(1996)",90s, drama
+1676,"War at Home, The (1996)",http://us.imdb.com/M/title-exact?War%20at%20Home%2C%20The%20%281996%29,90s, drama
+1677,Sweet Nothing (1995),http://us.imdb.com/M/title-exact?Sweet%20Nothing%20(1995),90s, drama
+1678,Mat' i syn (1997),http://us.imdb.com/M/title-exact?Mat%27+i+syn+(1997),90s, drama
+1679,B. Monkey (1998),http://us.imdb.com/M/title-exact?B%2E+Monkey+(1998),90s, romance thriller
+1680,Sliding Doors (1998),http://us.imdb.com/Title?Sliding+Doors+(1998),90s, drama romance
+1681,You So Crazy (1994),http://us.imdb.com/M/title-exact?You%20So%20Crazy%20(1994),90s, comedy
+1682,Scream of Stone (Schrei aus Stein) (1991),http://us.imdb.com/M/title-exact?Schrei%20aus%20Stein%20(1991),90s, drama

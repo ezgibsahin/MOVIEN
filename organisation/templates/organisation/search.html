@@ -1,0 +1,39 @@
+{%  extends "organisation/base.html" %}
+{% block content %}
+{% if results %}
+<h1>Search Results</h1>
+<div class="row">
+    {% for movie in results %}
+            <div class="col-md-4 mb-4">
+                <!-- Card -->
+                <div class="">
+                    <div class="view zoom overlay">
+                        <a href="/movieDetail/{{ movie.movie_id }}">
+                            <div class="mask">
+                                <center>
+                                    <img height="480" width="340" src="{{movie.poster}}">
+                                    <div class="mask rgba-black-slight"></div>
+                                </center>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="text-center pt-4">
+                        <h5>{{movie.movie_title}}</h5>
+                        <p class="mb-2 text-muted text-uppercase small">{{movie.genres}}</p>
+                        <hr>
+                        <h6 class="mb-3">Rating: {{movie.avg_rating|floatformat:1 }}</h6>
+                        <form class="form-horizontal" role="search" method="post" action="{% url 'movieDetail' pk=movie.movie_id  %}">
+                            {% csrf_token %}
+                            <button  type="submit" value="{{movie.movie_id}}" class="btn btn-primary btn-md mr-1 mb-2" name="bucketlist"><i class="fa fa-plus"></i>Add to Bucket List</button>
+                            <button  type="submit" value="{{movie.movie_id}}" class="btn btn-light btn-md mr-1 mb-2" name="watchlist"><i class="fa fa-plus"></i>Add to Watch List</button>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+    {% endfor %}
+</div>
+{% else %}
+<h1>No Results Found</h1>
+{% endif %}
+{% endblock content %}

@@ -1,0 +1,34 @@
+{%  extends "organisation/base.html" %}
+{% block content %}
+<div>
+    <div class="carousel">
+        <div class="carousel-row">
+            {% for movie in movies %}
+                <div class="carousel-tile" style="background: #46B1C9;" onclick="location.href='/movieDetail/{{ movie.movie_id }}';">
+                    <img height="380" src="{{ movie.poster }}"/>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% if user.is_authenticated %}
+<div>
+    <h2> Recommended Movies Based On {{request.user}}'s Profile! Your Peers Enjoyed These.</h2>
+    <div class="carousel">
+        <div class="carousel-row">
+            {% for movie in user_based_recommendation_list %}
+                <div class="carousel-tile" style="background: #46B1C9;" onclick="location.href='/movieDetail/{{ movie.movie_id }}';">
+                    <img height="380" src="{{ movie.poster }}"/>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <br>
+    <a style="font-size:35px;"class="nav-item nav-link" href="{% url 'allMovies' %}">Rate Some Movies Here For More In Depth Recommendations!</a>
+
+
+</div>
+{% endif %}
+{% endblock content %}
+
+

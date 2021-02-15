@@ -1,0 +1,92 @@
+{%  extends "organisation/base.html" %}
+{% block content %}
+<section>
+    <h1>{{ user.username }}'s recommendation page</h1>
+
+    <!-- Grid row -->
+    <div class="row">
+        {% for movie in hybrid_movies %}
+            <!-- Grid column -->
+            <div class="col-md-4 mb-4">
+                <!-- Card -->
+                <div class="">
+                    <div class="view zoom overlay">
+                        <a href="/movieDetail/{{ movie.movie_id }}">
+                            <div class="mask">
+                                <center>
+                                    <img height="480" width="340" src="{{movie.poster}}">
+                                    <div class="mask rgba-black-slight"></div>
+                                </center>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="text-center pt-4">
+                        <h5>{{movie.movie_title}}</h5>
+                        <p class="mb-2 text-muted text-uppercase small">{{movie.genres}}</p>
+                        <hr>
+                        <h6 class="mb-3">Rating: {{movie.avg_rating|floatformat:1 }}</h6>
+                        <form class="form-horizontal" role="search" method="post" action="{% url 'movieDetail' pk=movie.movie_id  %}">
+                            {% csrf_token %}
+                            <button  type="submit" value="{{movie.movie_id}}" class="btn btn-primary btn-md mr-1 mb-2" name="bucketlist"><i class="fa fa-plus"></i>Add to Bucket List</button>
+                            <button  type="submit" value="{{movie.movie_id}}" class="btn btn-light btn-md mr-1 mb-2" name="watchlist"><i class="fa fa-plus"></i>Add to Watch List</button>
+                        </form>
+
+<!--                         <button type="button" class="btn btn-primary btn-sm mr-1 mb-2"><i class="fa fa-plus"></i>Add to Watch List</button>
+                        <button type="button" class="btn btn-light btn-sm mr-1 mb-2"><i class="fa fa-plus"></i>Add to Bucket List</button> -->
+                    </div>
+                </div>
+                <!-- Card -->
+            </div>
+            <!-- Grid column -->
+            {% endfor %}
+        </div>
+
+        {% if movies.has_other_pages %}
+        <ul class="pagination justify-content-center">
+            {% if movies.has_previous %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ movies.previous_page_number }}">&laquo;</a>
+            </li>
+            {% else %}
+            <li class="disabled"><span>&laquo;</span></li>
+            {% endif %}
+            {% if movies.number|add:'-4' > 1 %}
+            <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ movies.number|add:'-5' }}">&hellip;</a></li>
+            {% endif %}
+            {% for i in movies.paginator.page_range %}
+            {% if movies.number == i %}
+            <li class="page-item active">
+                <span class="page-link">{{ i }}<span class="sr-only">(current)</span></span>
+            </li>
+            {% elif i > movies.number|add:'-3' and i < movies.number|add:'3' %}
+            <li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+            {% endif %}
+            {% endfor %}
+            {% if movies.paginator.num_pages > movies.number|add:'4' %}
+            <li class="page-item"><a class="page-link" href="?page={{ movies.number|add:'5' }}">&hellip;</a></li>
+            <li class="page-item"><a class="page-link" href="?page={{ movies.paginator.num_pages }}">{{ movies.paginator.num_pages }}</a></li>
+            {% endif %}
+            {% if movies.has_next %}
+            <li class="page-item">
+                <a class="page-link" href="?page={{ movies.next_page_number }}" aria-label="Next"><span aria-hidden="true">&raquo;</span><span class="sr-only">Next</span></a>
+            </li>
+            {% else %}
+            <li class="disabled"><span>&raquo;</span></li>
+            {% endif %}
+        </ul>
+        {% endif %}
+
+    <!-- Grid row -->
+</section>
+{% endblock content %}
+
+
+
+
+
+
+
+
+
